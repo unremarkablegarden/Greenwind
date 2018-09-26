@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="850px" height="576px" viewBox="0 0 850 576" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 7 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="98.0325704%" y1="-10.0272436%" x2="38.5068222%" y2="107.529647%" id="linearGradient-1">
+            <stop stop-color="#536C3C" offset="0%"></stop>
+            <stop stop-color="#84AF5F" offset="100%"></stop>
+        </linearGradient>
+        <path d="M978.620294,296.288832 L1198.5001,155.172496 C1240.79903,128.025529 1302.82441,135.853342 1337.04572,172.665084 L1827.46392,700.206124 L1827.46392,715 L978.620294,715 L978.620294,296.288832 Z" id="path-2"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="footer_GWE" transform="translate(-978.000000, -139.000000)">
+            <g id="Group-8">
+                <g id="Path-7-Copy">
+                    <use fill="#D8D8D8" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

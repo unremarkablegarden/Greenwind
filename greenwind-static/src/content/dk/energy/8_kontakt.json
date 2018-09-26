@@ -1,0 +1,10 @@
+{
+	"t1": "Kontakt",
+
+	"map": {
+		"img": "url",
+		"title": "Green Wind Energy GmbH",
+		"text": "Alt-Moabit 60a\n10555 Berlin\n\nPhone: +49 30-351 28 86 30\nFax: +49 30-351 28 86 33",
+		"email": "berlin@greenwindenergy.de"
+	}
+}

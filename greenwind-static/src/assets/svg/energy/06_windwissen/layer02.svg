@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1439px" height="567px" viewBox="0 0 1439 567" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 3 Copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="1.53850654%" y1="202.282533%" x2="45.6101865%" y2="-16.0821155%" id="linearGradient-1">
+            <stop stop-color="#57733F" offset="0%"></stop>
+            <stop stop-color="#84AF5F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Energy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WINDWISSEN" transform="translate(-1.000000, -331.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-6" transform="translate(1.000000, 0.000000)">
+                <path d="M0,391.150627 L680.401717,873.393375 C713.293708,896.705962 770.714196,904.543309 808.655679,890.897963 L1440,663.840113 L1440,331.488061 L0,331.488061 L0,391.150627 Z" id="Path-3-Copy-3" transform="translate(720.000000, 614.546487) scale(1, -1) translate(-720.000000, -614.546487) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

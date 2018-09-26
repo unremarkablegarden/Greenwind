@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Group Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Energy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-copy" transform="translate(-28.000000, -26.000000)" fill="#FFFFFF">
+            <g id="Group-2" transform="translate(-283.000000, -26.000000)">
+                <g id="Group-Copy" transform="translate(324.748737, 65.748737) rotate(-315.000000) translate(-324.748737, -65.748737) translate(307.248737, 48.248737)">
+                    <rect id="Rectangle-11" x="14" y="0" width="7" height="35" rx="3.5"></rect>
+                    <rect id="Rectangle-11-Copy" transform="translate(17.500000, 17.500000) rotate(-90.000000) translate(-17.500000, -17.500000) " x="14" y="0" width="7" height="35" rx="3.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

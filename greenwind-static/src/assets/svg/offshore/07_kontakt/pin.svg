@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="68px" height="89px" viewBox="0 0 68 89" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-8.2%" y="-4.9%" width="118.0%" height="114.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="1" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M30.0534161,81.7022264 C30.0534161,81.7022264 57.7947974,52.5904831 59.816492,34.0699299 C61.6864046,21.5371781 59.7448625,0.0458030522 30.0534161,0.0458030522" id="path-2"></path>
+        <path d="M30.2699994,81.7022264 C30.2699994,81.7022264 2.52861811,52.5904831 0.506923539,34.0699299 C-1.36298906,21.5371781 0.578553051,0.0458030522 30.2699994,0.0458030522" id="path-3"></path>
+        <polygon id="path-4" points="0.0863853756 41.7722366 0.0863853756 0.418902779 19.9204676 0.418902779 39.7545499 0.418902779 39.7545499 41.7722366 0.0863853756 41.7722366"></polygon>
+    </defs>
+    <g id="offshore" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="KONTAKT" transform="translate(-687.000000, -1423.000000)">
+            <g id="Group-4" transform="translate(690.000000, 1425.000000)">
+                <g id="Group-18-Copy" filter="url(#filter-1)" transform="translate(0.000000, 0.045312)">
+                    <g id="Path-6">
+                        <use stroke="#BDB4B4" stroke-width="3" fill="#F4F4F4" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <use stroke="#000000" stroke-width="2" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="Path-6-Copy">
+                        <use stroke="#BDB4B4" stroke-width="3" fill="#E5E5E5" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <use stroke="#000000" stroke-width="2" xlink:href="#path-3"></use>
+                    </g>
+                </g>
+                <g id="GW_Offshore_4c-Copy" transform="translate(11.000000, 9.827899)">
+                    <g id="Group-12">
+                        <mask id="mask-5" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <g id="Clip-10"></g>
+                        <path d="M39.6681645,33.0832429 C39.6681645,37.8826307 35.7779431,41.7722366 30.9792355,41.7722366 L8.69036879,41.7722366 C3.89166117,41.7722366 0,37.8826307 0,33.0832429 L0,10.7993424 C0,5.99995458 3.89166117,2.11178824 8.69036879,2.11178824 L30.9792355,2.11178824 C35.7779431,2.11178824 39.6681645,5.99995458 39.6681645,10.7993424 L39.6681645,33.0832429" id="Fill-11" fill="#286AA6" mask="url(#mask-5)"></path>
+                    </g>
+                    <polyline id="Fill-13" fill="#FFFFFE" points="17.5693456 24.2330219 17.5693456 33.3984996 24.4801757 28.8164805 17.5693456 24.2330219"></polyline>
+                    <polyline id="Fill-14" fill="#FFFFFE" points="24.4801757 19.6524424 24.4801757 28.8193596 31.3910057 24.2330219 24.4801757 19.6524424"></polyline>
+                    <polyline id="Fill-15" fill="#FFFFFE" points="24.4801757 28.8207991 24.4801757 37.9905953 31.3910057 33.4071368 24.4801757 28.8207991"></polyline>
+                    <polyline id="Fill-16" fill="#7896C0" points="10.6585156 19.6438052 10.6585156 10.4783276 17.5693456 15.0589071 10.6585156 19.6438052"></polyline>
+                    <polyline id="Fill-17" fill="#7896C0" points="17.5693456 15.0617862 17.5693456 5.89342948 24.4801757 10.4783276 17.5693456 15.0617862"></polyline>
+                    <polyline id="Fill-19" fill="#A0B2D1" points="3.74768555 33.3984996 3.74768555 24.2330219 10.6585156 28.8164805 3.74768555 33.3984996"></polyline>
+                    <polyline id="Fill-20" fill="#A0B2D1" points="10.6585156 28.8193596 10.6585156 19.6524424 17.5693456 24.2330219 10.6585156 28.8193596"></polyline>
+                    <polyline id="Fill-21" fill="#A0B2D1" points="10.6585156 37.9905953 10.6585156 28.8207991 17.5693456 33.4071368 10.6585156 37.9905953"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

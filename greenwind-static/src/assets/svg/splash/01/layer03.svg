@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="252px" height="472px" viewBox="0 0 252 472" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 24</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="18.5686332%" y1="25.9884193%" x2="100%" y2="103.690361%" id="linearGradient-1">
+            <stop stop-color="#C4C4C4" offset="0%"></stop>
+            <stop stop-color="#9E9F9E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="98.0325704%" y1="-10.0272436%" x2="38.5068222%" y2="107.529647%" id="linearGradient-2">
+            <stop stop-color="#D4D5D4" offset="0%"></stop>
+            <stop stop-color="#9E9F9E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Energy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2-Copy" transform="translate(-865.000000, -182.000000)">
+            <g id="Group-24" transform="translate(676.000000, 167.000000)">
+                <path d="M72.5737671,382.315 L338.833479,397.276566 C367.506771,398.887765 389.230106,376.959744 387.354793,348.312533 L368.686147,63.130935 L72.5737671,382.315 Z" id="Path-11" fill="url(#linearGradient-1)" transform="translate(231.662417, 231.662417) rotate(-45.000000) translate(-231.662417, -231.662417) "></path>
+                <path d="M182.168168,280.982215 L185.475686,376.133777 C186.780473,413.670241 217.974922,448.443226 255.145467,453.800695 L430.262326,479.040659 L182.168168,280.982215 Z" id="Path-10-Copy-2" fill="url(#linearGradient-2)" transform="translate(306.215247, 380.011437) rotate(99.000000) translate(-306.215247, -380.011437) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+{
+	"t1": "Nettilslutningssystem DolWin3 – best practice 2023.",
+	"t2": "Som den ene af to partnere i ARGE O+M-projektet DolWin3 har Green Wind Offshore i 2017 overtaget vedligeholdelsesstyringen af nettilslutningssystemet DolWin3. Systemdelen til overvågning er den 18.450 tons tunge konverterplatform 'DolWin Gamma', der blev opført i Nordsøen i 2017 – 50 kilometer nord for Borkum i Tyskland – på den eksisterende underkonstruktion.",
+
+	"sections": [
+		{
+			"title": "",
+			"subsections": [
+				{
+					"title": "900 megawatt-jævnstrømsforbindelse",
+					"text": "Den 85 meter lange, 54 meter brede og 32 meter høje konverterplatform blev bugseret fra værftet i tyske Rostock gennem Østersøen, rundt om Danmark og ind i den eksklusive økonomiske zone i den sydvestlige del af det tyske Nordsø-område (foto). Nettilslutningssystemet DolWin3 er en 900 megawatt-jævnstrømsforbindelse. Systemet udgør forbindelsen mellem to offshore-vindmølleparker i DolWin-clusteret og 400 kilovolt-transformerstationen i Dörpen West på land.",
+					"img": "http://res.cloudinary.com/greenwind/image/upload/v1505153569/GWOf_Referenzen_Bild_klein_Karte_web_mt7vxk.jpg"
+				},
+				{
+					"title": "Eget vedligeholdelseskoncept",
+					"text": "Den samlede vedligeholdelseskontrakt består af en forberedelsestid på flere måneder samt en efterfølgende femårig vedligeholdelsesfase og omfatter både vedligeholdelsesaktiviteter på konverterstationen 'DolWin Gamma' og transformerstationen Dörpen West på land. ARGE er indtil 2023 ansvarlig for al planlægning, organisation og gennemførelse af vedligeholdelsen på basis af deres egenudviklede vedligeholdelseskoncept.",
+					"img": "http://res.cloudinary.com/greenwind/image/upload/v1505153602/GWOf_Referenzen_Bild_klein_Boysen_web_k5iepr.jpg"
+				}
+			]
+		}
+	]
+
+}

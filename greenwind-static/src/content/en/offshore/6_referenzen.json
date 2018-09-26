@@ -1,0 +1,23 @@
+{
+	"t1": "Grid connection system DolWin 3 – best practice 2023.",
+	"t2": "As one of two partners in the working group “O+M Projekt DolWin3”, Green Wind Offshore has taken over responsibility for the maintenance management of the grid connection system DolWin3. Part of the monitoring is the 18,450 tonne converter platform 'DolWin Gamma' – that has been erected on a substructure in the North Sea, 31 miles north of Borkum.",
+
+	"sections": [
+		{
+			"title": "",
+			"subsections": [
+				{
+					"title": "900 megawatts direct current connection",
+					"text": "The converter platform is 278 feet 10 inches long, 177 feet 2 inches wide, and 104 feet 12 inches high. It was towed from Rostock’s shipyard through the Baltic Sea around Denmark into the exclusive economic zone (EEZ) in the southwest part of the German North Sea area. The grid connection system is a 900 megawatts direct current connection. The system serves as connection between the 400 kilovolt substation Dörpen West and two offshore wind farms that are part of the DolWin cluster.",
+					"img": "http://res.cloudinary.com/greenwind/image/upload/v1505153569/GWOf_Referenzen_Bild_klein_Karte_web_mt7vxk.jpg"
+				},
+				{
+					"title": "Unique maintenance concept",
+					"text": "The maintenance agreement includes several months of preparations. Subsequently, maintenance will be carried out for five years. It includes maintenance activities at the Dörpen West substation and at the „DolWin Gamma” converter station. The working group is responsible for the entire planning, organisation and performance of maintenance based on a specially created maintenance concept until 2023.",
+					"img": "http://res.cloudinary.com/greenwind/image/upload/v1505153602/GWOf_Referenzen_Bild_klein_Boysen_web_k5iepr.jpg"
+				}
+			]
+		}
+	]
+
+}

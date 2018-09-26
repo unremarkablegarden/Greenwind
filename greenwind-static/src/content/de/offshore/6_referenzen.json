@@ -1,0 +1,23 @@
+{
+	"t1": "Netzanschlussystem DolWin3 — best practice 2023.",
+	"t2": "Als einer von zwei Partnern der ARGE O+M Projekt DolWin3 hat Green Wind Offshore 2017 das Instandhaltungsmanagement des Netzanschlusssystems DolWin3 übernommen. Teil des zu überwachenden Systems ist die 18.450 Tonnen schwere Konverterplattform „DolWin Gamma”, die 2017 in der Nordsee – 50 Kilometer nördlich von Borkum – auf der bestehenden Unterkonstruktion errichtet wurde.",
+
+	"sections": [
+		{
+			"title": "",
+			"subsections": [
+				{
+					"title": "900-Megawatt-Gleichstromanbindung",
+					"text": "Die 85 Meter lange, 54 Meter breite und 32 Meter hohe Konverterplattform wurde von der Rostocker Werft durch die Ostsee um Dänemark herum in die Ausschließliche Wirtschaftszone (AWZ) im südwestlichen Teil des deutschen Nordseegebietes geschleppt. Beim Netzanschlusssystem DolWin3 handelt es sich um eine 900-Megawatt-Gleichstromanbindung. Das System dient zum Anschluss von zwei Offshore-Windparks des Clusters DolWin an das landseitige 400-Kilovolt-Umspannwerk in Dörpen West.",
+					"img": "http://res.cloudinary.com/greenwind/image/upload/v1505153569/GWOf_Referenzen_Bild_klein_Karte_web_mt7vxk.jpg"
+				},
+				{
+					"title": "Eigenes Instandhaltungskonzept",
+					"text": "Der gesamte Instandhaltungsauftrag besteht aus einer mehrmonatigen Vorbereitungszeit sowie der sich daran anschließenden fünfjährigen Instandhaltungsphase und umfasst sowohl Instandhaltungstätigkeiten auf der Konverterstation „DolWin Gamma” als auch im landseitigen Umspannwerk Dörpen West. Dabei ist die ARGE bis 2023 für die komplette Planung, Organisation und Durchführung der Instandhaltung auf Basis eines eigens erstellten Instandhaltungskonzeptes verantwortlich.",
+					"img": "http://res.cloudinary.com/greenwind/image/upload/v1505153602/GWOf_Referenzen_Bild_klein_Boysen_web_k5iepr.jpg"
+				}
+			]
+		}
+	]
+
+}

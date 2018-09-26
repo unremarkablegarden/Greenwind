@@ -1,0 +1,49 @@
+{
+	"t1": "Efficiency and commitment on-site",
+	"t2": "Green Wind Energy develops wind power projects on-site in, and for the region. We are the people to contact regarding the consolidation of existing farms, repowering and also new-developments with cooperation partners. Here you can see one of Germany´s biggest repowering projects of 2017 and other model projects in Brandenburg.",
+
+	"sections": [
+		{
+			"title": "Wind farm repowering",
+			"subsections": [
+				{
+					"title": "Project Vormark/Prignitz (Groß Pankow)",
+					"text": "In late 2016, Green Wind Energy removed 14 old installations at wind-suitable sites and replaced them with 14 new windpower plants. They were put into operation in the first quarter of 2017, including a connecting substation in Kuhsdorf.\n\nRated power 48.3 megawatts \n\nThe construction of the new wind power plant with an axle-shaft height of 449.48 feet (137 m) and a rated power of 3,450 kilowatts (previously 1,500 kilowatts) took place within three months. 21 megawatts rated power were turned into 48.3 megawatts. Repowering increased the energy yield four-fold.. The wind farm is equipped with appropriate night identification.\n\nCompensatory measures\n\nUpon request of the municipality, as compensatory measures, buildings which were no longer required were demolished trees were planted and a traditional orchard was laid. Sand lizards were relocated to surrogate habitats. Bats received new nest boxes in three spots and nests were also placed for barn swallows.\n\nProject partner: European Energy\nTechnical operating management: Green Wind Operations\n\n",
+					"img": "http://res.cloudinary.com/greenwind/image/upload/c_scale,w_800/v1505147660/GWE_Referenzen_037C9H1B2821_tujamd.jpg",
+					"video": "https://player.vimeo.com/video/247291380"
+				},
+				{
+					"title": "Project Neustadt (Dosse)",
+					"text": "Approval planning for operator e.disnatur, Potsdam\n\nSite location: Neustadt (Dosse), Brandenburg\n\nOld installations: 3 x Südwind S 46, rated power 2 x 600 kW/1 x 750 kW, axle-shaft height 2 x 97 m/1 x 83 m\n\nNew installations: 2 x Vestas V 112, rated power 3.300 kW, axle-shaft height140 m\n\nApproval: May 2016\n\nCommissioned by Vestas: 2017",
+					"img": "http://res.cloudinary.com/greenwind/image/upload/c_scale,w_800/v1513667422/Windpark_Repowering_new_ip6kdq.jpg"
+				},
+				{
+					"title": "Project Timpberg",
+					"text": "Site location: Zehdenick, Prignitz-Oberhavel, Brandenburg\nOld installations: 2 x VESTAS V80, 4 MW power, 78 m hub height\nCommissioned 2002\nDismantled: 08/2015\nNew installations: 2 x VESTAS V112, 6 MW power, 125 m hub height\nCommissioned 12/2015 \nBest: profitable exit for the owner of the old wind power plants, attractive project for the new operator, continued support by the general public, Green Wind Energy as the general contractor",
+					"img": "http://res.cloudinary.com/greenwind/image/upload/c_scale,q_80,w_800/v1513667410/Timpberg_cvbmlc.jpg"
+				}
+			]
+		},
+		{
+			"title": "Wind farm compression",
+			"subsections": [
+				{
+					"title": "Project Kuhsdorf",
+					"text": "First enhancement of the Prignitz wind-farm\nSite location: Groß Pankow, Prignitz-Oberhavel, Brandenburg\nInstallation: 2 x VESTAS V80, 4 MW power, 78 m hub height\nCommissioned: 2011 first part of the multiphase new planning of the entire wind-farm, see above\nBest: strong private and public support, Green Wind Energy as the general contractor",
+					"img": "http://res.cloudinary.com/greenwind/image/upload/c_scale,w_800/v1513667409/Windpark_Verdichtung_uvu92v.jpg"
+				}
+			]
+		},
+		{
+			"title": "Co-operation new development",
+			"subsections": [
+				{
+					"title": "Project Klein-Mutz",
+					"text": "Site location: Zehdenick, Prignitz-Oberhavel, Brandenburg\nInstallation: 4 x VESTAS V90, 8 MW power, 125 m hub height\nCommissioned: 12/2012\n\nProject partner: Saxovent, Notus\nBest: constructive collaboration, short project duration for approval and implementation",
+					"img": "http://res.cloudinary.com/greenwind/image/upload/c_scale,q_50,w_1052/v1505994982/AIMG_0794_gr_x1eggg.jpg"
+				}
+			]
+		}
+	]
+
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="427px" height="155px" viewBox="0 0 427 155" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 3 Copy 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="54.758989%" y1="37.2769371%" x2="61.3360201%" y2="120.746034%" id="linearGradient-1">
+            <stop stop-color="#828282" offset="0%"></stop>
+            <stop stop-color="#9E9F9E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Operations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LEISTUNGEN-Copy" transform="translate(0.000000, -3689.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-4" transform="translate(-2.000000, 3474.000000)">
+                <path d="M426.40601,208.186074 L427.070478,227.21393 L208.675875,357.873237 L208.675875,357.873237 C187.398772,370.602725 162.151397,374.973891 137.833221,370.138473 L3.06453628,343.341109 L426.40601,208.186074 Z" id="Rectangle-3-Copy-8" transform="translate(215.067507, 290.122457) scale(-1, 1) rotate(2.000000) translate(-215.067507, -290.122457) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

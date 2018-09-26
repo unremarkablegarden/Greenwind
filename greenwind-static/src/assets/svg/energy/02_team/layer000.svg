@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1440px" height="630px" viewBox="0 0 1440 630" enable-background="new 0 0 1440 630" xml:space="preserve">
+<title>Rectangle 2 Copy 2</title>
+<desc>Created with Sketch.</desc>
+<g id="Energy">
+	<path id="Rectangle-2-Copy-2" fill="#57763C" d="M0,162.892L975.865,12.059c47.487-7.34,120.03,5.627,162.038,28.966L1440,208.868
+		v372.346H0V162.892z"/>
+</g>
+<g id="Energy_1_">
+	<g id="Group-22">
+		
+			<linearGradient id="Rectangle-3-Copy-5_1_" gradientUnits="userSpaceOnUse" x1="549.7323" y1="399.4844" x2="549.9716" y2="401.0609" gradientTransform="matrix(1440 0 0 -642.9661 -790981.4375 257525.875)">
+			<stop  offset="0" style="stop-color:#57733F"/>
+			<stop  offset="1" style="stop-color:#84AF5F"/>
+		</linearGradient>
+		<path id="Rectangle-3-Copy-5" fill="url(#Rectangle-3-Copy-5_1_)" d="M0,231.283L354.021,40.311
+			c37.91-20.45,102.965-30.58,145.304-22.625L1440,194.417v404.789H0V231.283z"/>
+		
+			<linearGradient id="Path-3-Copy-6_1_" gradientUnits="userSpaceOnUse" x1="549.3527" y1="398.6497" x2="549.748" y2="400.6081" gradientTransform="matrix(820 0 0 -614.9109 -449671.4062 246315.2031)">
+			<stop  offset="0" style="stop-color:#57733F"/>
+			<stop  offset="1" style="stop-color:#84AF5F"/>
+		</linearGradient>
+		<polygon id="Path-3-Copy-6" fill="url(#Path-3-Copy-6_1_)" points="620,40.399 921.711,596.576 1440,596.576 1440,197.713 		"/>
+	</g>
+</g>
+<g id="Energy_2_">
+	<path id="Rectangle-3-Copy-2" fill="#84AF5F" d="M1440,351.798l-260.05-210.643c-33.473-27.113-95.142-43.85-137.724-37.386
+		L0,261.987l0,318.285h1440V351.798z"/>
+</g>
+<g id="Energy_3_">
+	<g id="Group-21">
+		<path id="Rectangle-3-Copy-3" fill="#FFFFFF" d="M0,330.639l1019.66-227.635c42.045-9.386,105.088,2.515,140.822,26.592
+			L1440,317.925V630H0V330.639z"/>
+		<path id="Path-17-Copy" fill="#F0F0F0" d="M0,328.791L1054.925,92.49l0,0c26.932-6.033,55.161-0.666,78.001,14.829L1440,315.65
+			v6.194L1132.101,119.93l0,0c-22.374-14.672-49.695-19.767-75.853-14.144L0,332.825V328.791z"/>
+	</g>
+</g>
+</svg>

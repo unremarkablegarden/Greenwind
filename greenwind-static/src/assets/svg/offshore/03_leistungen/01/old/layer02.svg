@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1441px" height="415px" viewBox="0 0 1441 415" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 3 Copy 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="141.768329%" y1="-55.2148438%" x2="-2.70582933%" y2="167.587891%" id="linearGradient-1">
+            <stop stop-color="#3F5B76" offset="0%"></stop>
+            <stop stop-color="#286AA6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Offshore" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M-2.76610567,136.066142 L698.934961,1.55828559 L698.934961,1.55828559 C709.246159,-0.418249865 719.850261,-0.292798908 730.111812,1.92712075 L1438.78107,155.236183 L1446.97115,389.769354 L7.84835857,440.024629 L-2.76610567,136.066142 Z" id="Rectangle-3-Copy-6" fill="url(#linearGradient-1)" transform="translate(722.102522, 220.094102) rotate(2.000000) translate(-722.102522, -220.094102) "></path>
+    </g>
+</svg>

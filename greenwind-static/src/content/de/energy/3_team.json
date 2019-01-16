@@ -1,85 +1,96 @@
 {
-	"t1": "Unser Team\nEiner für Alle. Alle für Sie!",
-	"t2": "Es gibt viele gute Gründe, sich in Sachen Projektentwicklung für Green Wind zu entscheiden. Jedes Mitglied unseres Teams ist ein guter Grund. Und alle zusammen sind wir mehr als die Summe Einzelner.",
+  "t1": "Unser Team\nEiner für Alle. Alle für Sie!",
+  "t2": "Es gibt viele gute Gründe, sich in Sachen Projektentwicklung für Green Wind zu entscheiden. Jedes Mitglied unseres Teams ist ein guter Grund. Und alle zusammen sind wir mehr als die Summe Einzelner.",
 
-	"team": [
-		{
-			"name": "Martin Kühl",
-			"job": "Geschäftsführung",
-			"bio": "seit 1995 in Sachen Windenergie unterwegs und fasziniert von der Kraft des Windes.",
-			"img": "http://res.cloudinary.com/greenwind/image/upload/v1505140168/Martin_Kuehl_250_ffdbrw.jpg"
-		},
-		{
-			"name": "Manuel Lasse",
-			"job": "Geschäftsführung",
-			"bio": "mit Blick fürs Ganze und in die Zukunft.",
-			"img": "http://res.cloudinary.com/greenwind/image/upload/v1505141767/Manu_Lasse_250_nvxkgv.jpg"
-		},
-		{
-			"name": "Franziska Göbel",
-			"job": "Projektentwicklung",
-			"bio": "mit Beharrlichkeit und Kreativität zur erfolgreichen Genehmigung.",
-			"img": "http://res.cloudinary.com/greenwind/image/upload/v1505140168/Franziska_Goebel_250_ny5ifm.jpg"
-		},
-		{
-			"name": "Christian Kandora",
-			"job": "Projektentwicklung",
-			"bio": "mit Erfahrung und Hingabe zum optimalen Windpark-Layout.",
-			"img": "http://res.cloudinary.com/greenwind/image/upload/v1505140168/Christian_Kandora_250_vrjajm.jpg"
-		},
+  "team": [{
+      "name": "Martin Kühl",
+      "job": "Geschäftsführung",
+      "bio": "seit 1995 in Sachen Windenergie unterwegs und fasziniert von der Kraft des Windes.",
+      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505140168/Martin_Kuehl_250_ffdbrw.jpg"
+    },
     {
-			"name": "Sophie Kolb",
-			"job": "Projektentwicklung",
-			"bio": "immer neugierig und mit Nachdruck engagiert für eine umweltfreundliche Energie.",
-			"img": "http://res.cloudinary.com/greenwind/image/upload/v1505140170/Sophie_Kolb_250_qoyc5w.jpg"
-		},
-		{
-			"name": "Dietmar Mahler",
-			"job": "Standortentwicklung",
-			"bio": "im persönlichen Kontakt mit den Menschen vor Ort.",
-			"img": "http://res.cloudinary.com/greenwind/image/upload/v1505140168/Dietmar_Mahler_250_ndqaze.jpg"
-		},
+      "name": "Manuel Lasse",
+      "job": "Geschäftsführung",
+      "bio": "mit Blick fürs Ganze und in die Zukunft.",
+      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505141767/Manu_Lasse_250_nvxkgv.jpg"
+    },
     {
-			"name": "Ulrich Mertens",
-			"job": "Standortentwicklung",
-			"bio": "damit die Ziele der Energiewende erreicht werden.",
-			"img": "http://res.cloudinary.com/greenwind/image/upload/v1505140169/Ulrich_Mertens_250_cn82ak.jpg"
-		},
-		{
-			"name": "Bernd Müller",
-			"job": "Standortentwicklung",
-			"bio": "mit Elan und Engagement für die Belange der Landeigentümer.",
-			"img": "http://res.cloudinary.com/greenwind/image/upload/v1505140169/Bernd_Mueller_250_mn6n8i.jpg"
-		},
+      "name": "Franziska Göbel",
+      "job": "Projektentwicklung",
+      "bio": "mit Beharrlichkeit und Kreativität zur erfolgreichen Genehmigung.",
+      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505140168/Franziska_Goebel_250_ny5ifm.jpg"
+    },
     {
-			"name": "Ulf von Rahden",
-			"job": "Standortentwicklung",
-			"bio": "mit Wind und Energie Vieles verändern.",
-			"img": "http://res.cloudinary.com/greenwind/image/upload/v1505140169/Ulf_von_Rahden_250_w3sb4g.jpg"
-		},
-		{
-			"name": "Jasmin Eichner",
-			"job": "Buchhaltung",
-			"bio": "mit frischem Wind und der richtigen Einstellung.",
-			"img": "http://res.cloudinary.com/greenwind/image/upload/v1505140169/Jasmin_Horstkoetterr_250_dyfxl5.jpg"
-		},
+      "name": "Christian Kandora",
+      "job": "Projektentwicklung",
+      "bio": "mit Erfahrung und Hingabe zum optimalen Windpark-Layout.",
+      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505140168/Christian_Kandora_250_vrjajm.jpg"
+    },
     {
-			"name": "Anne Pfannes",
-			"job": "Leitung kaufmännische Betriebsführung",
-			"bio": "mit Akribie, dem Sinn für Zahlen und neuen Ideen.",
-			"img": "http://res.cloudinary.com/greenwind/image/upload/v1505140168/Anne_Pfannes_250_j8xlvt.jpg"
-		},
-		{
-			"name": "Michael Witschas",
-			"job": "Buchhaltung",
-			"bio": "für eine lebenswerte Zukunft.",
-			"img": "https://res.cloudinary.com/greenwind/image/upload/v1534747973/Michael_Witschas_250_nzyget.jpg"
-		},
-		{
-			"name": "Iris Gärtner",
-			"job": "Officemanagement",
-			"bio": "für Effizienz – im Job und in der Energienutzung.",
-			"img": "https://res.cloudinary.com/greenwind/image/upload/v1534747944/Iris_Gaertner_250_nsv0hd.jpg"
-		}
-	]
+      "name": "Sophie Kolb",
+      "job": "Projektentwicklung",
+      "bio": "immer neugierig und mit Nachdruck engagiert für eine umweltfreundliche Energie.",
+      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505140170/Sophie_Kolb_250_qoyc5w.jpg"
+    },
+    {
+      "name": "Dietmar Mahler",
+      "job": "Standortentwicklung",
+      "bio": "im persönlichen Kontakt mit den Menschen vor Ort.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1547647730/Dietmar_Mahler_250_ulsxf5.jpg"
+    },
+    {
+      "name": "Ulrich Mertens",
+      "job": "Standortentwicklung",
+      "bio": "damit die Ziele der Energiewende erreicht werden.",
+      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505140169/Ulrich_Mertens_250_cn82ak.jpg"
+    },
+    {
+      "name": "Bernd Müller",
+      "job": "Standortentwicklung",
+      "bio": "mit Elan und Engagement für die Belange der Landeigentümer.",
+      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505140169/Bernd_Mueller_250_mn6n8i.jpg"
+    },
+    {
+      "name": "Ulf von Rahden",
+      "job": "Standortentwicklung",
+      "bio": "mit Wind und Energie Vieles verändern.",
+      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505140169/Ulf_von_Rahden_250_w3sb4g.jpg"
+    },
+    {
+      "name": "Jasmin Eichner",
+      "job": "Buchhaltung",
+      "bio": "mit frischem Wind und der richtigen Einstellung.",
+      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505140169/Jasmin_Horstkoetterr_250_dyfxl5.jpg"
+    },
+    {
+      "name": "Anne Pfannes",
+      "job": "Leitung kaufmännische Betriebsführung",
+      "bio": "mit Akribie, dem Sinn für Zahlen und neuen Ideen.",
+      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505140168/Anne_Pfannes_250_j8xlvt.jpg"
+    },
+    {
+      "name": "Katharina Haupt",
+      "job": "Stellv. Leitung kaufmännische Betriebsführung",
+      "bio": "hat die Finanzen im Fokus für windstarke Alternativen",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1547647730/Katharina_Haupt_250_rua9rk.jpg"
+    },
+    {
+      "name": "Michael Witschas",
+      "job": "Buchhaltung",
+      "bio": "für eine lebenswerte Zukunft.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1534747973/Michael_Witschas_250_nzyget.jpg"
+    },
+    {
+      "name": "Nantke Harms",
+      "job": "Buchhaltung",
+      "bio": "ökologisch und ökonomisch für eine energieeffiziente Zukunft!",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1547647730/Nantke_Harms_250_sfc1af.jpg"
+    },
+    {
+      "name": "Iris Gärtner",
+      "job": "Officemanagement",
+      "bio": "für Effizienz – im Job und in der Energienutzung.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1534747944/Iris_Gaertner_250_nsv0hd.jpg"
+    }
+  ]
 }

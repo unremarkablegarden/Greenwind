@@ -19,19 +19,23 @@
       titleTemplate: null
     },
     watch: {
-      // '$route': 'setFavicon'
+      '$route': 'setFavicon'
     },
     mounted () {
-      // this.setFavicon()
+      this.setFavicon()
     },
     methods: {
-      // setFavicon () {
-      //   if (this.$route.path.split('/')[2]) {
-      //     const section = this.$route.path.split('/')[2]
-      //     const favIcoUrl = '/static/favicon_' + section + '.ico'
-      //     document.querySelector("link[rel='shortcut icon']").href = favIcoUrl
-      //   }
-      // }
+      setFavicon () {
+        if (this.$route.path.split('/')[2]) {
+          const section = this.$route.path.split('/')[2]
+          const favIcoUrl = '/static/favicon_' + section + '.ico'
+          // document.querySelector("link[rel='shortcut icon']").href = favIcoUrl
+          document.querySelector("link[rel='icon']").href = favIcoUrl
+        } else {
+          const favIcoUrl = '/static/favicon_energy.ico'
+          document.querySelector("link[rel='icon']").href = favIcoUrl
+        }
+      }
     }
   }
 </script>

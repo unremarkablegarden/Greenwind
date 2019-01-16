@@ -1,74 +1,90 @@
 {
-	"t1": "Unser Team\nVolle Kraft voraus!",
-	"t2": "Es gibt viele gute Gründe, sich in Sachen Technisches Management für Green Wind Offshore zu entscheiden. Jedes Mitglied unseres Teams ist ein guter Grund. Und alle zusammen sind wir mehr als die Summe einzelner. Unsere Devise: Volle Kraft voraus!",
+  "t1": "Unser Team\nVolle Kraft voraus!",
+  "t2": "Es gibt viele gute Gründe, sich in Sachen Technisches Management für Green Wind Offshore zu entscheiden. Jedes Mitglied unseres Teams ist ein guter Grund. Und alle zusammen sind wir mehr als die Summe einzelner. Unsere Devise: Volle Kraft voraus!",
 
-	"team": [
-		{
-			"name": "Manuel Lasse",
-			"job": "Geschäftsführung",
-			"bio": "seit 2006 mit voller Kraft voraus in Sachen Windenergie.",
-			"img": "http://res.cloudinary.com/greenwind/image/upload/v1505142196/Manu_Lasse_250_wmmhuo.jpg"
-		},
-		{
-			"name": "Peter-Heinrich Boysen",
-			"job": "Technische Leitung",
-			"bio": "zielstrebig zu Wasser und zu Land.",
-			"img": "http://res.cloudinary.com/greenwind/image/upload/v1505142196/Peter_Heinrich_Boysen_250_k7xei3.jpg"
-		},
-		{
-			"name": "Andreas Texheimer",
-			"job": "Leitung QM/HSE",
-			"bio": "mit Genauigkeit und dem Fokus auf Safety first.",
-			"img": "http://res.cloudinary.com/greenwind/image/upload/v1524735803/andreas_texheimer_250_hauqen.jpg"
-		},
-		{
-			"name": "Rico Kaatz",
-			"job": "Projektmanagement",
-			"bio": "immer erneuerbar unterwegs.",
-			"img": "http://res.cloudinary.com/greenwind/image/upload/v1505142196/Rico_Kaatz_250_jxgxfh.jpg"
-		},
-		{
-			"name": "Fabio da Fonseca Bola",
-			"job": "Projektmanagement",
-			"bio": "frisches Windwissen direkt von der Hochschule.",
-			"img": "http://res.cloudinary.com/greenwind/image/upload/v1505142196/Fabio_da_Fonseca_Bola_250_cy5eo9.jpg"
-		},
+  "team": [{
+      "name": "Manuel Lasse",
+      "job": "Geschäftsführung",
+      "bio": "seit 2006 mit voller Kraft voraus in Sachen Windenergie.",
+      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505142196/Manu_Lasse_250_wmmhuo.jpg"
+    },
     {
-			"name": "Enrico Berger",
-			"job": "Technische Betriebsführung/Leitwarte",
-			"bio": "behält den Überblick über die elektrischen Parameter.",
-			"img": "https://res.cloudinary.com/greenwind/image/upload/v1534747872/Enrico_Berg_250_bqttrr.jpg"
-		},
-		{
-			"name": "Jens Neumann",
-			"job": "Technische Betriebsführung/Leitwarte",
-			"bio": "100 Prozent für eine zukunftsorientierte Energiegewinnung.",
-			"img": "https://res.cloudinary.com/greenwind/image/upload/v1534747902/Jens_Neumann_250_xwovic.jpg"
-		},
-		{
-			"name": "Sebastian Borst",
-			"job": "Teamassistenz",
-			"bio": "mit voller Energie für die Regenerativen.",
-			"img": "https://res.cloudinary.com/greenwind/image/upload/v1534747800/Sebastian_Borst_250_pcgvhu.jpg"
-		},
-		{
-			"name": "Emanuel Fätke",
-			"job": "Vertrieb & Logistik",
-			"bio": "mit Meer-Erfahrung und Wing-Know-how.",
-			"img": "https://res.cloudinary.com/greenwind/image/upload/v1534747834/Emanuel_Faetke_250_wl00bu.jpg"
-		},
-		{
-			"name": "Anne Pfannes",
-			"job": "Leitung kaufmännische Betriebsführung",
-			"bio": "mit Akribie, dem Sinn für Zahlen und neuen Ideen.",
-			"img": "http://res.cloudinary.com/greenwind/image/upload/v1505140168/Anne_Pfannes_250_j8xlvt.jpg"
-		},
-		{
-			"name": "Martin Kühl",
-			"job": "Geschäftsentwicklung",
-			"bio": "seit 1995 in Sachen Windenergie unterwegs und fasziniert von der Kraft des Windes.",
-			"img": "http://res.cloudinary.com/greenwind/image/upload/v1505140168/Martin_Kuehl_250_ffdbrw.jpg"
-		}
-
-	]
+      "name": "Peter-Heinrich Boysen",
+      "job": "Technische Leitung",
+      "bio": "zielstrebig zu Wasser und zu Land.",
+      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505142196/Peter_Heinrich_Boysen_250_k7xei3.jpg"
+    },
+    {
+      "name": "Andreas Texheimer",
+      "job": "Leitung QM/HSE",
+      "bio": "mit Genauigkeit und dem Fokus auf Safety first.",
+      "img": "http://res.cloudinary.com/greenwind/image/upload/v1524735803/andreas_texheimer_250_hauqen.jpg"
+    },
+    {
+      "name": "Rico Kaatz",
+      "job": "Projektmanagement",
+      "bio": "immer erneuerbar unterwegs.",
+      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505142196/Rico_Kaatz_250_jxgxfh.jpg"
+    },
+    {
+      "name": "Fabio da Fonseca Bola",
+      "job": "Projektmanagement",
+      "bio": "frisches Windwissen direkt von der Hochschule.",
+      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505142196/Fabio_da_Fonseca_Bola_250_cy5eo9.jpg"
+    },
+    {
+      "name": "Enrico Berger",
+      "job": "Technische Betriebsführung/Leitwarte",
+      "bio": "behält den Überblick über die elektrischen Parameter.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1534747872/Enrico_Berg_250_bqttrr.jpg"
+    },
+    {
+      "name": "Jens Neumann",
+      "job": "Technische Betriebsführung/Leitwarte",
+      "bio": "100 Prozent für eine zukunftsorientierte Energiegewinnung.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1534747902/Jens_Neumann_250_xwovic.jpg"
+    },
+    {
+      "name": "René Frixel",
+      "job": "Technische Betriebsführung / Leitwarte",
+      "bio": "Überzeugungstäter mit der Faszination für Wind",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1547647730/Rene_Frixel_250_nk2q64.jpg"
+    },
+    {
+      "name": "Sebastian Borst",
+      "job": "Teamassistenz",
+      "bio": "mit voller Energie für die Regenerativen.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1534747800/Sebastian_Borst_250_pcgvhu.jpg"
+    },
+    {
+      "name": "Emanuel Fätke",
+      "job": "Vertrieb & Logistik",
+      "bio": "mit Meer-Erfahrung und Wing-Know-how.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1534747834/Emanuel_Faetke_250_wl00bu.jpg"
+    },
+    {
+      "name": "Anne Pfannes",
+      "job": "Leitung kaufmännische Betriebsführung",
+      "bio": "mit Akribie, dem Sinn für Zahlen und neuen Ideen.",
+      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505140168/Anne_Pfannes_250_j8xlvt.jpg"
+    },
+    {
+      "name": "Katharina Haupt",
+      "job": "Stellv. Leitung kaufmännische Betriebsführung",
+      "bio": "hat die Finanzen im Fokus für windstarke Alternativen",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1547647730/Katharina_Haupt_250_rua9rk.jpg"
+    },
+    {
+      "name": "Martin Kühl",
+      "job": "Geschäftsentwicklung",
+      "bio": "seit 1995 in Sachen Windenergie unterwegs und fasziniert von der Kraft des Windes.",
+      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505140168/Martin_Kuehl_250_ffdbrw.jpg"
+    },
+    {
+      "name": "Göran Meyer (Extern)",
+      "job": "Geschäftsentwicklung",
+      "bio": "mit der Devise: Meer ist mehr!",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1547647730/Goeran_Meyer_250_nfajin.jpg"
+    }
+  ]
 }

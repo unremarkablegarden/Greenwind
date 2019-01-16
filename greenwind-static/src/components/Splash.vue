@@ -56,7 +56,7 @@ transition(name='fade', mode='in-out' appear)
               img(src='https://res.cloudinary.com/greenwind/image/upload/v1534749193/GW_Leitwarte_24_7_Signet_tozfw3.png', style='width: 110px; transform: rotate(-5deg) translate(12px, 10px)')
 
 
-    .modal.is-active(v-if='startPopUp')
+    //- .modal.is-active(v-if='startPopUp')
       .modal-background(@click="startPopUp = false")
       .modal-content.startPopUp
         a(href='https://news.greenwind.berlin/windenergy-hamburg-vom-25.-bis-28.-september-2018', target='_blank', @click="startPopUp = false")

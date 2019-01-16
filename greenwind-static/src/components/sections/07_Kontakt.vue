@@ -18,6 +18,10 @@
         //- .gmap
           googlemaps-map(:center.sync='center', :zoom.sync='zoom', :options='mapOptions', @idle='onIdle', @click='onMapClick')
         .map.column.is-12
+          .snazzy
+            //- iframe(:src='{ c.map.snazzy }' width='100%' height='600px' style='border:none;')
+            iframe(src='https://snazzymaps.com/embed/119963' width='100%' height='600px' style='border:none;')
+            //- iframe(src='http://localhost:8080' width='100%', height='600px')
           .text
             .inner.selectable-text
               h2 {{ c.map.title }}
@@ -25,7 +29,7 @@
               p {{ c.map.text }}
               p(v-if="c.map.email")
                 a(:href='"mailto:" + c.map.email') {{ c.map.email }}
-          .bg
+          //- .bg
             img(:src="c.map.img")
 </template>
 
@@ -34,8 +38,12 @@
   import asleep from 'asleep'
   import isMobile from '@/assets/js/isMobile'
 
+  // import VueFriendlyIframe from 'vue-friendly-iframe'
+  // Vue.component('vue-friendly-iframe', VueFriendlyIframe)
+
   export default {
     name: 'kontakt',
+    // components: { VueFriendlyIframe },
     data () {
       return {
         isHidden: {

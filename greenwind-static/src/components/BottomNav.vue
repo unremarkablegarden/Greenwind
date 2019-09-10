@@ -13,6 +13,7 @@
       .layers.is-hidden-mobile
         .layer.l2(:style="{ 'background-position': bpl2 }")
         .layer.l1(:style="{  'background-position': bpl1 }")
+
       .menu-links(v-on:click="hideMenu", v-if="lang === 'de'")
         router-link(:to="{path: '/' + lang + '/' + section}").navbar-item Start
         router-link(:to="{path: '/' + lang + '/' + section + '/profil'}").navbar-item  Profil
@@ -21,6 +22,7 @@
         router-link(:to="{path: '/' + lang + '/' + section + '/standorte'}", v-if="section === 'operations'").navbar-item Standorte
         router-link(:to="{path: '/' + lang + '/' + section + '/referenzen'}", v-else).navbar-item Referenzen
         router-link(:to="{path: '/' + lang + '/' + section + '/team'}").navbar-item Team
+        router-link(:to="{path: '/' + lang + '/' + section + '/jobs'}").navbar-item Jobs
         //- router-link(:to="{path: '/' + lang + '/' + section + '/windwissen'}").navbar-item Windwissen
         router-link(:to="{path: '/' + lang + '/' + section + '/kontakt'}").navbar-item Kontakt
         .mini

@@ -7,6 +7,9 @@ import Splash from '@/components/Splash'
 import Start from '@/components/sections/00_Start'
 import Profil from '@/components/sections/01_Profil'
 import Team from '@/components/sections/02_Team'
+
+import Jobs from '@/components/sections/02b_Jobs'
+
 import Leistungen from '@/components/sections/03_Leistungen'
 import Netzwerk from '@/components/sections/04_Netzwerk'
 import Referenzen from '@/components/sections/05_Referenzen'
@@ -34,6 +37,7 @@ export default new Router({
     { path: '/de/energy', component: Start },
     { path: '/de/energy/profil', component: Profil },
     { path: '/de/energy/team', component: Team },
+    { path: '/de/energy/jobs', component: Jobs },
     { path: '/de/energy/leistungen', component: Leistungen },
     { path: '/de/energy/netzwerk', component: Netzwerk },
     { path: '/de/energy/referenzen', component: Referenzen },
@@ -45,6 +49,7 @@ export default new Router({
     { path: '/de/operations', component: Start },
     { path: '/de/operations/profil', component: Profil },
     { path: '/de/operations/team', component: Team },
+    { path: '/de/operations/jobs', component: Jobs },
     { path: '/de/operations/leistungen', component: Leistungen },
     { path: '/de/operations/netzwerk', component: Netzwerk },
     { path: '/de/operations/standorte', component: Referenzen },
@@ -56,6 +61,7 @@ export default new Router({
     { path: '/de/offshore', component: Start },
     { path: '/de/offshore/profil', component: Profil },
     { path: '/de/offshore/team', component: Team },
+    { path: '/de/offshore/jobs', component: Jobs },
     { path: '/de/offshore/leistungen', component: Leistungen },
     { path: '/de/offshore/netzwerk', component: Netzwerk },
     { path: '/de/offshore/referenzen', component: Referenzen },

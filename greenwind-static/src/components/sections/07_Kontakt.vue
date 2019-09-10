@@ -18,17 +18,20 @@
         //- .gmap
           googlemaps-map(:center.sync='center', :zoom.sync='zoom', :options='mapOptions', @idle='onIdle', @click='onMapClick')
         .map.column.is-12
-          .snazzy
-            //- iframe(:src='{ c.map.snazzy }' width='100%' height='600px' style='border:none;')
-            iframe(src='https://snazzymaps.com/embed/119963' width='100%' height='600px' style='border:none;')
-            //- iframe(src='http://localhost:8080' width='100%', height='600px')
+          .snazzy-wrapper
+            .snazzy
+              iframe(:src='c.map.snazzy' width='100%' height='500px' style='border:none;')
           .text
             .inner.selectable-text
               h2 {{ c.map.title }}
               hr
               p {{ c.map.text }}
               p(v-if="c.map.email")
-                a(:href='"mailto:" + c.map.email') {{ c.map.email }}
+                div(v-if="c.map.email")
+                  a(:href='"mailto:" + c.map.email') {{ c.map.email }}
+                div(v-if="c.map.email2")
+                  a(:href='"mailto:" + c.map.email2') {{ c.map.email2 }}
+              
           //- .bg
             img(:src="c.map.img")
 </template>
@@ -192,26 +195,55 @@ section.intro
   .l4
     top: 30vw
 
+.snazzy-wrapper
+  // box-shadow: inset 1px 1px 11px rgba(0,0,0,0.4)
+ 
+.snazzy
+  position: absolute
+  width: 100%
+  border: 1px #DDD solid
+  line-height: 0
+  +mobile
+    display: none
+    // position: relative
+    // height: 300px
+
 .map
-  height: 50vh
+  // height: 75vh
+  height: 500px
   .text
-    position: absolute
-    width: 100%
-    height: 50vh
-    display: flex
-    justify-content: center
-    align-items: center
-    box-shadow: inset 1px 1px 11px rgba(0,0,0,0.4)
-    border: 1px #DDD solid
+    // position: absolute
+    // width: 100%
+    width: 350px
+    transform: translate(-3rem, 5rem)
+    // height: 75vh
+    // height: 500px
+    +mobile
+      height: auto
+      width: auto
+      transform: translate(0, 0)
+    // display: flex
+    // justify-content: flex-end
+    // align-items: center
+    // box-shadow: inset 1px 1px 11px rgba(0,0,0,0.4)
+    // border: 1px #DDD solid
+    // background: red
+    float: right
     +mobile
       position: relative
       box-shadow: none
       border: 0
+
     .inner
       width: 350px
+      +mobile
+        width: 100%
+        padding: 0
+        margin: 0
       background: white
       border-radius: 18px
       padding: 2rem
+      // margin: 0 4rem
       text-align: center
       hr
         width: 50%
@@ -224,7 +256,8 @@ section.intro
     height: 50vh
     position: absolute
     background-color: #efefef
-    background-image: url(http://res.cloudinary.com/greenwind/image/upload/q_75/v1505125180/GW_Standortkarte_jivels.jpg)
+    // background-image: url(https://res.cloudinary.com/greenwind/image/upload/q_75/v1505125180/GW_Standortkarte_jivels.jpg)
+    background-image: url(https://res.cloudinary.com/greenwind/image/upload/q_75,c_scale,w_1800/v1550746069/hero_image_contact-page_v8dczr.jpg)
     background-size: cover
     background-position: center center
     +mobile
@@ -261,10 +294,13 @@ section.intro
     background-color: darken($energy, 10)
     .background
       // opacity: 0.94
-      // background-image: url(http://res.cloudinary.com/greenwind/image/upload/v1503162952/Screen_Shot_2017-08-19_at_19.11.08_ghv2jm.png)
-      // background-image: url(http://res.cloudinary.com/greenwind/image/upload/q_75/v1505125180/GW_Standortkarte_jivels.jpg)
-      // background-image: url(http://res.cloudinary.com/greenwind/image/upload/v1505186379/GW_Standortkarte_jivels_BLUR_ubkv8i.jpg)
-      background-image: url(http://res.cloudinary.com/greenwind/image/upload/c_scale,q_75,w_2400/v1506604041/GWE_Standortkarte_sa04id.jpg)
+      // background-image: url(https://res.cloudinary.com/greenwind/image/upload/v1503162952/Screen_Shot_2017-08-19_at_19.11.08_ghv2jm.png)
+      // background-image: url(https://res.cloudinary.com/greenwind/image/upload/q_75/v1505125180/GW_Standortkarte_jivels.jpg)
+      // background-image: url(https://res.cloudinary.com/greenwind/image/upload/v1505186379/GW_Standortkarte_jivels_BLUR_ubkv8i.jpg)
+      background-image: url(https://res.cloudinary.com/greenwind/image/upload/c_scale,q_75,w_1800/v1550746513/hero_image_contact-page_hfh08p.jpg)
+
+      
+      
       background-size: 100%
       background-position: 0 -7vh
     .l1
@@ -281,10 +317,11 @@ section.intro
     background-color: lighten($operations, 20)
     .background
       // opacity: 0.97
-      // background-image: url(http://res.cloudinary.com/greenwind/image/upload/v1503162952/Screen_Shot_2017-08-19_at_19.11.08_ghv2jm.png)
-      // background-image: url(http://res.cloudinary.com/greenwind/image/upload/q_75/v1505125180/GW_Standortkarte_jivels.jpg)
-      // background-image: url(http://res.cloudinary.com/greenwind/image/upload/v1505186379/GW_Standortkarte_jivels_BLUR_ubkv8i.jpg)
-      background-image: url(http://res.cloudinary.com/greenwind/image/upload/c_scale,q_75,w_2400/v1506604042/GWO_Standortkarte_octx8i.jpg)
+      // background-image: url(https://res.cloudinary.com/greenwind/image/upload/v1503162952/Screen_Shot_2017-08-19_at_19.11.08_ghv2jm.png)
+      // background-image: url(https://res.cloudinary.com/greenwind/image/upload/q_75/v1505125180/GW_Standortkarte_jivels.jpg)
+      // background-image: url(https://res.cloudinary.com/greenwind/image/upload/v1505186379/GW_Standortkarte_jivels_BLUR_ubkv8i.jpg)
+      // background-image: url(https://res.cloudinary.com/greenwind/image/upload/c_scale,q_75,w_2400/v1506604042/GWO_Standortkarte_octx8i.jpg)
+      background-image: url(https://res.cloudinary.com/greenwind/image/upload/c_scale,q_75,w_1800/v1550746513/hero_image_contact-page_hfh08p.jpg)
       background-size: 100%
       background-position: 0 -7vh
     .l1
@@ -301,10 +338,11 @@ section.intro
     background-color: darken($offshore, 15)
     .background
       opacity: 0.87
-      // background-image: url(http://res.cloudinary.com/greenwind/image/upload/v1503162952/Screen_Shot_2017-08-19_at_19.11.08_ghv2jm.png)
-      // background-image: url(http://res.cloudinary.com/greenwind/image/upload/q_75/v1505125180/GW_Standortkarte_jivels.jpg)
-      // background-image: url(http://res.cloudinary.com/greenwind/image/upload/v1505186379/GW_Standortkarte_jivels_BLUR_ubkv8i.jpg)
-      background-image: url(http://res.cloudinary.com/greenwind/image/upload/c_scale,q_75,w_2400/v1506604043/GW_Off_Standortkarte_jfbing.jpg)
+      // background-image: url(https://res.cloudinary.com/greenwind/image/upload/v1503162952/Screen_Shot_2017-08-19_at_19.11.08_ghv2jm.png)
+      // background-image: url(https://res.cloudinary.com/greenwind/image/upload/q_75/v1505125180/GW_Standortkarte_jivels.jpg)
+      // background-image: url(https://res.cloudinary.com/greenwind/image/upload/v1505186379/GW_Standortkarte_jivels_BLUR_ubkv8i.jpg)
+      // background-image: url(https://res.cloudinary.com/greenwind/image/upload/c_scale,q_75,w_2400/v1506604043/GW_Off_Standortkarte_jfbing.jpg)
+      background-image: url(https://res.cloudinary.com/greenwind/image/upload/c_scale,q_75,w_1800/v1550746513/hero_image_contact-page_hfh08p.jpg)
       background-size: 100%
       background-position: 0 -7vh
     .l1

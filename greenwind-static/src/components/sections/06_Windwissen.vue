@@ -146,7 +146,7 @@ export default {
     .layers._1
       .background
         background-color: darken($energy, 25)
-        background-image: url(http://res.cloudinary.com/greenwind/image/upload/v1504171376/DJI_0033_zdhhkb.jpg)
+        background-image: url(https://res.cloudinary.com/greenwind/image/upload/v1504171376/DJI_0033_zdhhkb.jpg)
         background-position: 0 -18vw
       .l1
         background-image: url(../../assets/svg/energy/06_windwissen/layer01.svg)
@@ -162,7 +162,7 @@ export default {
     .layers._1
       .background
         background-color: darken($operations, 15)
-        background-image: url(http://res.cloudinary.com/greenwind/image/upload/v1504171303/DJI_0009_s802l1.jpg)
+        background-image: url(https://res.cloudinary.com/greenwind/image/upload/v1504171303/DJI_0009_s802l1.jpg)
         background-position: 0 -20vw
       .l1
         background-image: url(../../assets/svg/operations/06_windwissen/layer01.svg)
@@ -178,7 +178,7 @@ export default {
     .layers._1
       .background
         background-color: darken($offshore, 15)
-        background-image: url(http://res.cloudinary.com/greenwind/image/upload/v1504171428/009A9H1B2246_nze0yq.jpg)
+        background-image: url(https://res.cloudinary.com/greenwind/image/upload/v1504171428/009A9H1B2246_nze0yq.jpg)
         background-position: 0 -6vw
       .l1
         background-image: url(../../assets/svg/offshore/06_windwissen/layer01.svg)

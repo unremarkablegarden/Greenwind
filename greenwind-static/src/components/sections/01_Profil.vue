@@ -348,7 +348,7 @@ section.shape-bg
   .layers._1
     .background
       background-color: darken($energy, 25)
-      background-image: url(http://res.cloudinary.com/greenwind/image/upload/v1505145056/GW_Energy_isj4nl_n61uet.jpg)
+      background-image: url(https://res.cloudinary.com/greenwind/image/upload/v1505145056/GW_Energy_isj4nl_n61uet.jpg)
       background-position: top
     .l1
       background-image: url(../../assets/svg/energy/01_profil/01/layer01.svg)
@@ -389,7 +389,7 @@ section.shape-bg
 
   .photo._1
     background-color: darken($energy, 20)
-    background-image: url('http://res.cloudinary.com/greenwind/image/upload/q_75/v1504171302/DJI_0024_fe5brg.jpg')
+    background-image: url('https://res.cloudinary.com/greenwind/image/upload/q_75/v1504171302/DJI_0024_fe5brg.jpg')
     background-position: 0 0
     margin-top: -33vw
     height: 60vw
@@ -425,7 +425,7 @@ section.shape-bg
 .operations
   .background
     background-color: darken($operations, 15)
-    background-image: url(http://res.cloudinary.com/greenwind/image/upload/v1505145055/GW_Operations_Start_qf7iay.jpg)
+    background-image: url(https://res.cloudinary.com/greenwind/image/upload/v1505145055/GW_Operations_Start_qf7iay.jpg)
     // background-position: 0 0
     background-position: center center
     background-size: cover
@@ -470,7 +470,7 @@ section.shape-bg
 
   .photo._1
     background-color: darken($operations, 20)
-    background-image: url('http://res.cloudinary.com/greenwind/image/upload/q_75/v1504171374/9H1B5439-2_qytl8g.jpg')
+    background-image: url('https://res.cloudinary.com/greenwind/image/upload/q_75/v1504171374/9H1B5439-2_qytl8g.jpg')
     background-position: -22vw
     margin-top: -10vw
     height: 60vw
@@ -492,7 +492,7 @@ section.shape-bg
 
   .video
     background-color: darken($operations, 20)
-    // background-image: url(http://res.cloudinary.com/greenwind/image/upload/q_75/v1504182127/video_rwoyru.jpg)
+    // background-image: url(https://res.cloudinary.com/greenwind/image/upload/q_75/v1504182127/video_rwoyru.jpg)
     width: 100%
     height: 53vw
     position: relative
@@ -561,7 +561,7 @@ section.shape-bg
     z-index: 12
   .photo._3
     background-color: darken($operations, 20)
-    background-image: url('http://res.cloudinary.com/greenwind/image/upload/q_75/v1504171369/9H1B5898_msyfaj.jpg')
+    background-image: url('https://res.cloudinary.com/greenwind/image/upload/q_75/v1504171369/9H1B5898_msyfaj.jpg')
     background-position: 5vw 8vw
     background-size: 100%
     height: 60vw
@@ -602,7 +602,7 @@ section.shape-bg
 
   .shape._1
     .photo
-      background-image: url(http://res.cloudinary.com/greenwind/image/upload/q_75/v1504171418/shutterstock_24601687_gtamrs.jpg)
+      background-image: url(https://res.cloudinary.com/greenwind/image/upload/q_75/v1504171418/shutterstock_24601687_gtamrs.jpg)
       background-size: cover
       width: 50vw
       height: 40vw
@@ -649,7 +649,7 @@ section.shape-bg
 
   .background
     background-color: darken($offshore, 15)
-    background-image: url(http://res.cloudinary.com/greenwind/image/upload/v1505145055/GW_Offshore_Bild_eqytlh_ermqc5.jpg)
+    background-image: url(https://res.cloudinary.com/greenwind/image/upload/v1505145055/GW_Offshore_Bild_eqytlh_ermqc5.jpg)
     background-position: top
   .l1
     background-image: url(../../assets/svg/offshore/01_profil/01/layer01.svg)
@@ -665,9 +665,9 @@ section.shape-bg
     height: 90vw
     background-position: top
     +desktop
-      background-image: url(http://res.cloudinary.com/greenwind/image/upload/q_50/v1504548428/01_background_xcteme.jpg)
+      background-image: url(https://res.cloudinary.com/greenwind/image/upload/q_50/v1504548428/01_background_xcteme.jpg)
     +mobile
-      background-image: url(http://res.cloudinary.com/greenwind/image/upload/c_scale,q_80,w_1400/v1504548428/01_background_xcteme.jpg)
+      background-image: url(https://res.cloudinary.com/greenwind/image/upload/c_scale,q_80,w_1400/v1504548428/01_background_xcteme.jpg)
 
   .shape-bg
     padding-top: 10vw

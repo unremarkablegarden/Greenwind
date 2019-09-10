@@ -1,0 +1,39 @@
+{
+	"t1": "Knowledge of the wind",
+	"t2": "We acquire knowledge of the wind: current news from the industry, new legal regulations, aspects of the political discussions, recent news from the association and/or interesting links to wind-topics. If you would like to know more, please contact us.",
+	"sections": [
+		{
+			"title": "HUSUM Wind",
+			"subtitle": "— from the Husum Wind Power meeting to the present",
+			"text": "When hardly anybody in the world took wind power seriously as an economic factor, the first 'Husumer Windenergietage'  took place - in a livestock auction hall. It quickly became apparent that the city of Husum on the windy North Sea had the potential not only to be the leading wind-site but also the location of a trade fair. The building of a new trade-fair hall was completed in 1997 and its infrastructure has been steadily improved ever since. The modern and multifunctionally equipped NordseeCongressCentrum was then opened in August 2010. It was first successfully used for the HUSUM WindEnergy 2010 meetings and congresses. And the trade-fair grounds are expanding further.",
+			"link": {
+				"text": "Please find more information here!",
+				"url": "www.husumwind.com"
+			},
+			"more": "Green Wind Operations GmbH is taking part from the 15th to the 18th September 2015, and is looking forward to meeting you."
+		},
+		{
+			"title": "New regulations for operating management",
+			"subtitle": "",
+			"text": "System stability:\n General ordinances\n for system stability (since May 2015)\n\nTesting of service lifts: General new BetrSichV (in force since 1st June 2015)\n\nISDN and analogue connections: Telekom announces deactivation for 2016/2017.\n\nRemote control systems: Replace by grid operator (EEG 2014, section 9 paragraph 1)"
+		},
+		{
+			"title": "Electricity from wind",
+			"subtitle": "",
+			"text": "The generation of electricity from wind power has substantially increased over the last few years. In 2014, 24,867 wind power plants generated clean electricity for industrial and domestic consumers in Germany using an installed power of over 38,115 mega watts. With this, wind power covers 8.9 percent of the total gross electricity consumption and provides the largest contribution to electricity generation from renewable energy. The wind power industry employs more than 137,000 people. The potential of wind power is still not fully exploited ...",
+			"link": {
+				"text": "Find out more under",
+				"url": "www.unendlich-viel-energie.de"
+			}
+		},
+		{
+			"title": "Flash when a aircraft approaches",
+			"subtitle": "",
+			"text": "In the future, it will be permitted that the installation’s flashing identification-lights will only have to be activated when an aircraft approaches. The relevant change in the administrative regulation was passed by Germany’s federal council (Bundesrat) on the 10th July 2015. This change makes provisions for accepting new lighting technology, introducing upper limits for light intensity, reducing the minimum number of warning beacon levels for installation beaconing as well as opening up the possibility for identifying wind power plants at night by using demand-led activation.\n\nIn Germany, wind power plants having a height of over 100 metres must be identified at night by using a red, flashing beacon.  (...) Thus, the continuous flashing could, at least for large wind farms, be a thing of the past. Decisive for the success of the demand-led identification is the economic efficiency of the system (...)",
+			"link": {
+				"text": "Quelle: BWE, 10.7.15, ",
+				"url": "www.wind-energie.de"
+			}
+		}
+	]
+}

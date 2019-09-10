@@ -1,0 +1,72 @@
+{
+  "t1": "Unser Team\nEiner für Alle. Alle für Sie!",
+  "t2": "Es gibt viele gute Gründe, sich in Sachen kaufmännischer und technischer Betriebsführung für Green Wind zu entscheiden. Jedes Mitglied unseres Teams ist ein guter Grund. Und alle zusammen sind wir mehr als die Summe Einzelner.",
+
+  "team": [{
+      "name": "Manuel Lasse",
+      "job": "Geschäftsführung",
+      "bio": "studierte Umwelttechnik und Erneurbare Energien und ist seit 2006 in Sachen Windenergie unterwegs.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505141767/Manu_Lasse_250_nvxkgv.jpg"
+    },
+    {
+      "name": "Andreas Texheimer",
+      "job": "Leitung QM/HSE",
+      "bio": "mit Genauigkeit und dem Fokus auf Safety first.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1524735803/andreas_texheimer_250_hauqen.jpg"
+    },
+    {
+      "name": "Anne Pfannes",
+      "job": "Leitung kaufmännische Betriebsführung",
+      "bio": "mit Akribie, dem Sinn für Zahlen und neuen Ideen.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505141768/Anne_Pfannes_250_woqu6v.jpg"
+    },
+    {
+      "name": "Katharina Haupt",
+      "job": "Stellv. Leitung kaufmännische Betriebsführung",
+      "bio": "hat die Finanzen im Fokus für windstarke Alternativen",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1547647730/Katharina_Haupt_250_rua9rk.jpg"
+    },
+    {
+      "name": "Franziska Brüll",
+      "job": "Technische Leitung",
+      "bio": "mit der Sicht auf das große Ganze.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1547647729/Franziska_Bruell_250_vry7u6.jpg"
+    },
+    {
+      "name": "Maximilian Horn",
+      "job": "Asset Management & Bauleitung",
+      "bio": "mit Begeisterung für die regenerativen Energien.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1547647730/Maximilian_Horn_250_m8uzuc.jpg"
+    },
+    {
+      "name": "Emanuel Fätke",
+      "job": "Vertrieb & Logistik",
+      "bio": "mit Meer-Erfahrung und Wing-Know-how.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1534747834/Emanuel_Faetke_250_wl00bu.jpg"
+    },
+    {
+      "name": "Robert Kadereit",
+      "job": "Technische Betriebsführung",
+      "bio": "in Windeseile am Ort des Geschehens.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505141769/Robert_Kadereit_250_n1shkm.jpg"
+    },
+    {
+      "name": "Philipp Grytz",
+      "job": "Technische Betriebsführung",
+      "bio": "stets am Optimum des technisch Möglichen.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505141768/Philipp_Grytz_250_feghaw.jpg"
+    },
+    {
+      "name": "Michael Walther-Schwartz",
+      "job": "Technische Betriebsführung",
+      "bio": "für jede Herausforderung zu haben.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505141768/Michael_Witschas_250_mmlrqh.jpg"
+    },
+    {
+      "name": "Sandra Zanzig",
+      "job": "Assistenz technische Betriebsführung",
+      "bio": "natürlich wissensdurstig.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1534747741/Sandra_Zanzig_250_i0rhiw.jpg"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1440px" height="455px" viewBox="0 0 1440 455" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 3 Copy 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="98.0325704%" y1="-10.0272436%" x2="38.5068222%" y2="107.529647%" id="linearGradient-1">
+            <stop stop-color="#D4D5D4" offset="0%"></stop>
+            <stop stop-color="#9E9F9E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Operations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M0,261.894926 L280.19295,27.8398157 C313.256401,0.220742187 372.105595,-8.2838 411.633425,8.84314217 L1440,454.422237 L0,454.422237 L0,261.894926 Z" id="Rectangle-3-Copy-4" fill="url(#linearGradient-1)"></path>
+    </g>
+</svg>

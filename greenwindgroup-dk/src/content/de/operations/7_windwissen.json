@@ -1,0 +1,39 @@
+{
+	"t1": "Windwissen",
+	"t2": "Wir sammeln für Sie Windwissen: aktuelle News aus der Branche, neue gesetzliche Regelungen, Aspekte der politischen Diskussionen, Verbandsneuigkeiten oder auch interessante Links zu Windthemen. Wenn Sie mehr wissen wollen, kontaktieren Sie uns bitte.",
+	"sections": [
+		{
+			"title": "HUSUM Wind",
+			"subtitle": "— von den Husumer Windenergietagen bis heute",
+			"text": "Als noch kaum jemand auf der Welt die Windenergie als Wirtschaftsfaktor ernst nahm, fanden 1989 die ersten 'Husumer Windenergietage' statt – in einer Viehauktionshalle. Schnell zeigte sich, dass die Stadt Husum an der windreichen Nordsee das Potenzial nicht nur zum führenden Wind-, sondern auch zum Messestandort hat. 1997 wurde eine neue Messehalle fertiggestellt und deren Infrastruktur in den Folgejahren stetig verbessert. Im August 2010 öffnete dann das modern und multifunktional ausgestattete NordseeCongressCentrum, welches für die HUSUM WindEnergy 2010 erstmalig erfolgreich für Tagungen und Kongresse genutzt wurde. Und der Messeplatz wächst weiter.",
+			"link": {
+				"text": "Mehr unter",
+				"url": "www.husumwind.com"
+			},
+			"more": "Green Wind Operations GmbH ist vom 15. - 18. September 2015 dabei und freut sich auf Ihren Besuch."
+		},
+		{
+			"title": "Neue Regelungen für Betriebsführung",
+			"subtitle": "",
+			"text": "Systemstabilität:\n Allgemein\n Systemstabilitätsverordnung (seit März 2015)\n\nPrüfung von Serviceliften: Allgemein neue BetrSichV (seit 01. Juni 2015 in Kraft)\n\nISDN und analoge Anschlüsse: Telekom kündigt Abschaltung zu 2016/2017 an.\n\nFernwirkanlagen: Austausch durch Netzbetreiber (EEG 2014, §9 Absatz 1)"
+		},
+		{
+			"title": "Strom aus Wind",
+			"subtitle": "",
+			"text": "Stromerzeugung aus Windkraft hat innerhalb weniger Jahre stark zugenommen.Im Jahr 2014 produzierten in Deutschland 24.867 Windenergieanlagen mit einer installierten Leistung von gut 38.115 Megawatt sauberen Strom für Unternehmen und Haushalte. Damit deckt die Windenergie heute 8,9 Prozent des gesamten Bruttostromverbrauchs und liefert den größten Beitrag zur Stromerzeugung aus Erneuerbaren Energien. Mehr als 137.000 Menschen sind in der Windenergiebranche beschäftigt. Das Potenzial der Windenergie ist noch nicht ausgeschöpft...",
+			"link": {
+				"text": "Mehr unter ",
+				"url": "www.unendlich-viel-energie.de"
+			}
+		},
+		{
+			"title": "Blinken, wenn ein Flugzeug kommt",
+			"subtitle": "",
+			"text": "In Zukunft wird es zulässig sein, dass die blinkenden Kennzeichnungsleuchten auf den Anlagen nur bei Näherung von Luftfahrzeugen eingeschaltet werden. Die entsprechenden Änderung der Verwaltungsvorschrift wurde am 10. Juli 2015 im Bundesrat angenommen. Sie sieht die Zulassung neuer Lichttechnologien, die Einführung von Obergrenzen für die Lichtstärke, die Verringerung der Mindestanzahl der Hinderungsbefeuerungsebenen bei der Befeuerung von Windenergieanlagen sowie die Eröffnung der Möglichkeit, die Nachtkennzeichnung von Windenergieanlagen bedarfsgesteuert zu aktivieren, vor.\n\nIn Deutschland müssen Windenergieanlagen mit einer Höhe von über 100 Metern in der Nacht mit einem rot blinkenden Feuer gekennzeichnet werden. (...) Dass Dauerblinken könnte damit, zumindest bei größeren Windparks, der Vergangenheit angehören. Entscheidend für den Erfolg der bedarfsgerechten Kennzeichnung ist die Wirtschaftlichkeit der Systeme (...)",
+			"link": {
+				"text": "Quelle: BWE, 10.7.15, ",
+				"url": "www.wind-energie.de"
+			}
+		}
+	]
+}

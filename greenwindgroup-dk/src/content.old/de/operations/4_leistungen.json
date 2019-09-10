@@ -1,0 +1,111 @@
+{
+
+	"t0": "Leistungen",
+	"t0n": "Green Wind Operations gibt volle Unterstützung in der Betriebsführung. Informieren Sie sich über unsere\n\n• Leitwarte 24/7\n• Technische Betriebsführung\n• Kaufmännische Betriebsführung\n• Repowering vs. Optimierung",
+
+
+	"t1": "Leitwarte 24/7",
+	"t2": "Die gesamten Abläufe der technischen Betriebsführung von Windenergieanlagen und Umspannwerken werden im Wesentlichen in unseren Leitstellen 24/7 abgebildet. Hauptleitwarte und Herz ist Berlin. Wir dokumentieren, systematisieren, überwachen und kontrollieren den gesamten Anlagenbetrieb und -zustand. Unsere Einsatzteams und deren Aktivitäten können so optimal gesteuert und effizient am Ort des Geschehens eingesetzt werden. Alle Kernprozesse werden zentral überwacht und koordiniert – 24 Stunden am Tag, sieben Tage die Woche.\n\nEffektiv und sicher.",
+
+
+
+  "section_sept_2018": {
+    "h1": "greenwind control. Leitwarte 24/7",
+    "h2": "independent_intelligent_inspired",
+    "sections": [
+      {
+        "small": "Independent.",
+        "title": "Die Leitwarte",
+        "p": "greenwind control bildet den zentralen Knotenpunkt unserer 24/7-Überwachung von Anlagen zur Erzeugung und Verteilung elektrischer Energie sowie von deren Betrieb beeinflussenden Faktoren – zum Beispiel Seegang, Wind- und Wetterentwicklungen. Darüber werden sämtliche Ereignisse erfasst, Störungen bearbeitet und Einsätze zur planmäßigen Instandhaltung und Wartung koordiniert. Wir sind – onshore und offshore – spezialisiert auf Windenergieanlagen, Umspannwerke, Kabelsysteme sowie Offshore-Plattformen, wie z.B. beim Instandhaltungsmanagement des Netzanschlusssystems DolWin3.\nZertifiziert nach ISO 9001 – ISO 14001, ISO 55000 und ISO 27001 in Vorbereitung."
+      },
+      {
+        "small": "Intelligent.",
+        "title": "Das System",
+        "p": "Unsere Kunden haben teil an unserer Manpower und unserem intelligenten System, ohne die Investitionskosten zu tragen. Wir integrieren Einzelsysteme zu Ihrer Entlastung. Wir nennen es control center sharing. Betriebsführer und unabhängige Serviceunternehmen nutzen zum Beispiel unsere Technik und unser Personal 24/7 und können damit ihren Kunden die effiziente Rund-um-die-Uhr-Überwachung anbieten. Wir stehen für diverse Nutzungsmodelle unter Wahrung höchster Sicherheitsstandards."
+      },
+      {
+        "small": "Inspired.",
+        "title": "Die Leitwärter",
+        "p": "Wir setzen Ideen um — sei es in der Schulung von Leitwärtern, in der unabhängigen Investorenberatung oder beim Struktur- und Personalaufbau großer Energieversorger im Bereich Überwachungssysteme. Wir sind dicht vernetzt. Das beflügelt und schafft neue Möglichkeiten – sowohl in der technischen als auch der kaufmännischen Betriebsführung. Dabei ist intelligente Technologie die eine Komponente. Kompetenz, Ideenreichtum und Engagement unseres Teams die andere. Das gilt vor allem auch in der personellen 24/7-Überwachung."
+      }
+    ],
+    "columns": [
+      {
+        "title": "Technische Daten",
+        "list": [
+          "24/7-Besetzung durch Fachpersonal mit Spezialisierung Elektrotechnik und Mechanik  garantiert immer kompetente Direktberatung im Bereich der technical support line",
+          "Bewährte Technik und Software aus dem Industriebereich bei der Überwachung von Netzen und Erzeugungsanlagen – zuverlässig und praxiserprobt",
+          "Visuelle Diversität durch Großbildleinwand und Arbeitsplatzbildschirme sowie separate optische und akustische Meldesysteme (Störungshinweise)",
+          "Anbindung über verschiedenste Schnittstellen an Fernwirksysteme (beispielsweise Datenbankprotokolle, IEC-104-Standards, OPC-Standards)",
+          "Eigene Entwicklungseinheit, die Projekte individuell einbindet und Kundenwünsche in enger Abstimmung umsetzen kann (Entwicklungsumgebung softwareseitig gegeben)"
+        ]
+      },
+      {
+        "title": "Safety first",
+        "list": [
+          "Sämtliche Daten auf Servern in Deutschland, regelmäßige Datensicherung auf lokal getrennten und abgesicherten Speichern",
+          "Schalthandlungen sowie Erstellung von Schaltanweisungen möglich (Erweiterung von Zugriffsrechten)",
+          "Abkopplung des Green Wind-Systems jederzeit unkompliziert möglich, um stets ungestörte Überwachung durch die Systeme des Auftraggebers zu gewährleisten (Priorisierung, Bandbreitenbegrenzung)",
+          "Regelmäßige Schulung und Sensibilisierung der Green Wind-Leitwärter (und auch Vertragspartner); angepasstes", "Kontrollsystem, um Einhaltung von Sicherheitsstandards zu überwachen",
+          "Dynamische Umsetzung von Sicherheitsvorschriften (intern und extern, u. a. Whitepaper des BSI, KRITIS-Verordnung,", "Datenschutzvorgaben BDSG), Auswahl externer Lieferanten mit IT-Sicherheitsmanagementsystem",
+          "Gebäude- und raumtechnische Absicherung"
+        ]
+      }
+    ]
+  },
+
+
+
+	"t3": "",
+	"t4": "Technische Betriebsführung",
+	"t5": "",
+	"t6": "",
+	"sections1": [
+		{
+			"title": "Checken was läuft",
+			"p": "Wir inspizieren regelmäßig die Anlagen - vom Fahrkorb bis zum Maschinenhaus, kontrollieren und dokumentieren minutiös, ob Prüfungsintervalle und Wartungsaufgaben eingehalten werden. Dazu gehört auch die halbjährliche Begehung der kompletten WEA. Über alle Vorgänge sind unsere Kunden immer im Bilde, dank kundeneigenem Webzugang, individueller Berichterstellung und persönlicher Berichterstattung."
+		},
+		{
+			"title": "Genau auf den Punkt",
+			"p": "Erst, wenn die technische Arbeit vor Ort und die Auswertung von Daten, Gutachten und Inspektionen, das Einholen von Angeboten sowie die detaillierte Untersuchung eines Objektes zusammenkommen und kompetent verbunden werden, erzielen wir optimale Ergebnisse. Erst dann entwickelt eine Technische Betriebsführung ihre volle Kraft. In diesem Sinne koordiniert Green Wind Operations auch externe BetriebsführerInnen in ganz Deutschland und dem benachbarten Ausland, schafft einheitliche Strukturen und bündelt Informationsflüsse."
+		},
+		{
+			"title": "Rund um die Uhr überwacht",
+			"p": "Wir verwenden für die Datenüberwachung das bewährte Programm ROTORSOFT der Firma Drehpunkt sowie von der Firma Softenergy die Software WIS, d. h.:\n\n• 24 Stunden Live-Überwachung der Windenergieanlagen\n• Software gestützte Schnittstelle zur kfm. Betriebsführung\n• ideale Voraussetzung zum Stromhandel\n\nDie individuelle Berichterstellung ist abgestimmt auf Ihr Portfolio durch Monats• und Jahresberichte. Zusätzlich erstellen wir kfm. Betriebsführungsberichte."
+		},
+		{
+			"title": "Überwachung externer Dienste",
+			"p": "Vertrauen ist gut, Kontrolle ist besser! Die Arbeiten externer Dienstleister werden stetig kontrolliert, Vertragsabsprachen und Abrechnungen geprüft. Wir organisieren und setzen Nebenbestimmungen gemäß BiMSchG um."
+		}
+	],
+
+	"t9": "Kaufmännische Betriebsführung",
+	"t10": "Kaufmännische Betriebsführung bei Green Wind heißt, eine stets fließende, finanzielle Bewegung zu garantieren, alle Störfaktoren und unnötigen Kosten auszuschließen, um den bestmöglichen Ertrag herauszuholen. Schon im Vorfeld können wir das gesamte Portfolio im Hinblick auf bestehende Verträge prüfen und Vorschläge für eine sinnvolle Vertragsstruktur unterbreiten, z.B. zur Optimierung von Wartungsverträgen.",
+	"sections2": [
+		{
+			"title": "Fakten optimieren",
+			"p": "Das Herzstück einer Kaufmännischen Betriebsführung ist eine hieb- und stichfeste Buchhaltung nebst Abwicklung des Zahlungsverkehrs. Darüberhinaus optimiert unser Financial Management den buchhalterischen Prozess so, dass er auf den Betrieb jeder einzelnen Anlage zugeschnitten ist, angepasst an die spezifischen Finanzierungsstrukturen und die steuerlichen Gegebenheiten. Unsere MitarbeiterInnen errechnen die beste Anlagen-Effizienz und kümmern sich um eine reibungslose Abrechnung sowie Verteilung der Einspeiseerlöse."
+		},
+		{
+			"title": "Prozesse planen und steuern",
+			"p": "Zur Planung und Steuerung dieser Prozesse nutzen wir unser frisches Windwissen in Sachen Liquiditäts- und Budgetplanung, Abrechnung von NSM-Ausfällen, Direktvermarktung, Commercial Due Diligence etc. Und alles basiert auf dem stetigen Kontakt zum Kunden."
+		}
+	],
+
+	"t11": "Repowering vs. Optimierung",
+	"t12": "Die technologische Entwicklung von Windenergieanlagen hat in den letzten Jahren enorme Fortschritte gemacht – sowohl was die Effizienz, die Umweltverträglichkeit als auch die Möglichkeit anbelangt, unterschiedlichste Windstandorte bestmöglich zu nutzen. Unsere BetriebsführerInnen kennen die Anlagen genau und machen Vorschläge für Betriebsoptimierungen oder auch Repoweringmaßnahmen.",
+	"sections3": [
+		{
+			"title": "Laufzeit weitere 20 Jahre",
+			"p": "Für viele Windprojekte, die vor mehr als zehn Jahren erbaut wurden, lohnt sich ein Repowering - also der Ersatz einer älteren und kleineren Anlage durch eine neue. Die Laufzeit eines bestehenden Projektes kann somit um weitere 20 Jahre verlängert, die Effizienz um das drei- bis fünffache gesteigert werden. Da kann sich eine Investition schnell amortisieren."
+		},
+		{
+			"title": "Lohnt sich Repowering?",
+			"p": "Wir sehen es als unsere Aufgabe an, unseren Kunden vorausschauend und aktiv Vorschläge zum Repowering zu machen und fachkundig zu ermitteln, ob sich ein Repowering tatsächlich lohnt. Erst wenn alle Fakten auf dem Tisch liegen, muss sich der Betreiber entscheiden."
+		},
+		{
+			"title": "Projektierung mit Partner",
+			"p": "Unsere Partnerfirma Green Wind Energy GmbH hilft bei der Umsetzung einer Repowering-Maßnahme – von der Voruntersuchung und den Genehmigungsverfahren über die Umsetzung bis hin zum Betrieb. Green Wind Energy entwickelt seit Jahren mit Partnern Windparks in der Region und steuert Repowering-Prozesse. Wenn gewünscht, kann die Green Wind Operations GmbH anschließend die technische und kaufmännische Betriebsführung in gewohnter Qualität nahtlos übernehmen."
+		}
+	]
+}

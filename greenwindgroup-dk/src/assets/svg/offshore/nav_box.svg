@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="530px" height="581px" viewBox="0 0 530 581" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="98.0325704%" y1="-10.0272436%" x2="38.5068222%" y2="107.529647%" id="linearGradient-1">
+            <stop stop-color="#D4D5D4" offset="0%"></stop>
+            <stop stop-color="#9E9F9E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="98.0325704%" y1="-10.0272436%" x2="38.5068222%" y2="107.529647%" id="linearGradient-2">
+            <stop stop-color="#828282" offset="0%"></stop>
+            <stop stop-color="#9E9F9E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="98.0325704%" y1="-10.0272436%" x2="34.9477408%" y2="208.324297%" id="linearGradient-3">
+            <stop stop-color="#D4D5D4" offset="0%"></stop>
+            <stop stop-color="#9E9F9E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Operations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy" transform="translate(-899.000000, 0.000000)">
+            <g id="Group-2">
+                <g id="Group-4" transform="translate(899.000000, 0.000000)">
+                    <path d="M43.0695944,25.0243862 C44.2525638,9.60905111 57.6758786,-1.51836238 73.0384352,0.169187609 L466.974533,43.4423794 C482.342897,45.1305673 495.212212,59.0195284 495.719431,74.4788415 L512.33534,580.908271 L0.411189499,580.908271 L43.0695944,25.0243862 Z" id="Rectangle-2-Copy-3" fill="url(#linearGradient-1)" transform="translate(256.373265, 290.454136) scale(-1, -1) translate(-256.373265, -290.454136) "></path>
+                    <path d="M338.779935,22.3778365 C339.941132,6.95281269 353.107324,-2.7531718 368.174846,0.696028683 L490.432324,28.6827514 C505.505488,32.1332434 518.758138,47.4182912 520.033154,62.8253664 L529.115128,172.570391 L327.473423,172.570391 L338.779935,22.3778365 Z" id="Rectangle-2-Copy-5" fill="url(#linearGradient-2)" transform="translate(428.294275, 86.285195) scale(-1, -1) translate(-428.294275, -86.285195) "></path>
+                    <path d="M344.509621,22.9172441 C345.872293,7.5088995 359.252641,-2.4308739 374.384792,0.713920649 L488.839159,24.5000623 C503.976088,27.6458499 517.344371,42.6806684 518.6986,58.0874591 L527.732524,160.864647 L332.309931,160.864647 L344.509621,22.9172441 Z" id="Rectangle-2-Copy-4" fill="url(#linearGradient-3)" transform="translate(430.021227, 80.498865) scale(-1, -1) translate(-430.021227, -80.498865) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

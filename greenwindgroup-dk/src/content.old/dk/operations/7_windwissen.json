@@ -1,0 +1,39 @@
+{
+	"t1": "Viden om vind",
+	"t2": "Vi samler viden om vind til dig: aktuelle nyheder fra branchen, ny lovgivning, aspekter af politiske diskussioner, forbundsnyheder eller også interessante links til vindtemaer. Hvis du vil vide mere, beder vi dig kontakte os.",
+	"sections": [
+		{
+			"title": "HUSUM Wind",
+			"subtitle": "— siden vindenergimessen Husumer Windenergietage og frem til i dag",
+			"text": "Mens der endnu ikke var mange i verden, der tog vindenergi alvorligt som økonomisk faktor, blev den første vindenergimesse ”Husumer Windenergietage” afholdt i 1989 - i en kvægauktionshal. Det viste sig hurtigt, at byen Husum ved det forblæste Nordsøen ikke kun har potentiale som førende vindmøllested, men også som messeby. I 1997 blev der færdiggjort en ny messehal, og i de følgende år blev dens infrastruktur løbende forbedret. I august 2010 åbnede så det moderne og multifunktionelt udstyrede kongrescenter NordseeCongressCentrum, som med stor succes blev anvendt til møder og kongresser for første gang på HUSUM WindEnergy 2010. Og messepladsen fortsætter med at vokse.",
+			"link": {
+				"text": "Se mere på",
+				"url": "www.husumwind.com"
+			},
+			"more": "Green Wind Operations GmbH er med fra den 15. - 18. september 2015 og glæder os til dit besøg."
+		},
+		{
+			"title": "Nye bestemmelser for driftsledelse",
+			"subtitle": "",
+			"text": "Systemets stabilitet:\n Generelt\n den tyske forordning til sikring af systemets stabilitet 'SysStabV' (siden marts 2015)\n\nKontrol af serviceelevatorer: Generelt den nye tyske forordning om driftssikkerhed 'BetrSichV' (i kraft siden 1. juni 2015)\n\nISDN og analoge tilslutninger: Telekom meddeler afvikling til 2016/2017.\n\nFjernstyringsanlæg: Udveksling gennem netoperatør (tysk lov om fremme af vedvarende energi EEG 2014, § 9, stk. 1)"
+		},
+		{
+			"title": "Strøm fra vind",
+			"subtitle": "",
+			"text": "Elproduktion fra vindkraft er inden for få år steget markant. I 2014 producerede 24.867 vindenergianlæg i Tyskland med en installeret kapacitet på godt 38.115 megawatt ren strøm til virksomheder og husholdninger. Dermed dækker vindenergien i dag 8,9 procent af det samlede bruttoenergiforbrug og leverer det største bidrag til elproduktion fra vedvarende energi. Mere end 137.000 mennesker er beskæftiget i vindenergibranchen. Vindenergiens potentiale er endnu ikke udtømt...",
+			"link": {
+				"text": "Se mere på",
+				"url": "www.unendlich-viel-energie.de"
+			}
+		},
+		{
+			"title": "Blinker, når der kommer et fly",
+			"subtitle": "",
+			"text": "I fremtiden vil det være tilladt, at de blinkende markeringslygter på anlæggene kun tændes, når luftfartøjer nærmer sig. Den tilsvarende ændring af den administrative bestemmelse blev vedtaget i det tyske forbundsråd den 10. juli 2015. Heri blev det fastsat at godkende nye lysteknologier, at indføre øvre grænser for lysstyrke, at reducere minimumsantallet af niveauer for hindringslys ved belysning af vindenergianlæg, samt at åbne muligheden for at aktivere natafmærkning af vindenergianlæg efter behov.\n\nI Tyskland skal vindenergianlæg med en højde på mere end 100 meter være markeret med et rødt blinkende lys om natten. (...) Konstante blink kunne dermed, i det mindste ved større vindparker, høre fortiden til. Det afgørende for succesen ved behovsorienteret markering er systemernes økonomi (...)",
+			"link": {
+				"text": "Kilde: BWE, 10.7.15, ",
+				"url": "www.wind-energie.de"
+			}
+		}
+	]
+}

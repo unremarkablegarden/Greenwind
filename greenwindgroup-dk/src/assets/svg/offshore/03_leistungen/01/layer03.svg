@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="442px" viewBox="0 0 1440 442" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 3 Copy 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="36.0167821%" y1="181.245407%" x2="38.0486739%" y2="-33.9395945%" id="linearGradient-1">
+            <stop stop-color="#3F5B76" offset="0%"></stop>
+            <stop stop-color="#286AA6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Offshore" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LEISTUNGEN-Copy-3" transform="translate(0.000000, -393.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-2" transform="translate(-13.000000, 366.000000)">
+                <path d="M12.4501313,235.961869 L288.865152,53.9829293 L288.865152,53.9829293 C305.810774,42.8267106 326.43646,38.7120916 346.365709,42.5121405 L1453.94739,253.702462 L1460.56133,443.100815 L21.4385356,493.356091 L12.4501313,235.961869 Z" id="Rectangle-3-Copy-5" transform="translate(736.505729, 267.243763) rotate(2.000000) translate(-736.505729, -267.243763) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

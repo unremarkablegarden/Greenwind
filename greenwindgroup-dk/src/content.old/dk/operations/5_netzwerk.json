@@ -1,0 +1,26 @@
+{
+	"t1": "Netværk",
+	"t2": "",
+	"network": [
+		{
+			"name": "Vi kopierer.",
+			"text": "",
+			"img": "url"
+		},
+		{
+			"name": "Vi arbejder sammen.",
+			"text": "",
+			"img": "url"
+		},
+		{
+			"name": "Vi er partnere.",
+			"text": "",
+			"img": "url"
+		},
+		{
+			"name": "Vi er medlem.",
+			"text": "",
+			"img": "url"
+		}
+	]
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1440px" height="462.5px" viewBox="0 0 1440 462.5" enable-background="new 0 0 1440 462.5" xml:space="preserve">
+<polygon fill="#FFFFFF" points="1440.5,471.5 -0.5,469.5 0,37.5 1048.5,381.5 1440,209.703 "/>
+<title>Group 7</title>
+<desc>Created with Sketch.</desc>
+<g id="Energy">
+	<g id="LEISTUNGEN-Copy-6" transform="translate(0.000000, -8681.000000)">
+		
+			<g id="Group-4-Copy-2" transform="translate(714.000000, 8761.000000) scale(-1, 1) translate(-714.000000, -8761.000000) translate(-12.000000, 8454.000000)">
+			<g id="Group-7" transform="translate(0.000000, 226.000000)">
+				
+					<linearGradient id="Rectangle-3-Copy-19_1_" gradientUnits="userSpaceOnUse" x1="890.9008" y1="277.7693" x2="891.1629" y2="279.496" gradientTransform="matrix(369.2717 0 0 -167.9062 -327971.7812 46983.75)">
+					<stop  offset="0" style="stop-color:#57733F"/>
+					<stop  offset="1" style="stop-color:#84AF5F"/>
+				</linearGradient>
+				<path id="Rectangle-3-Copy-19" fill="url(#Rectangle-3-Copy-19_1_)" d="M1163.272,259.313L987.376,158L794,225.791
+					l149.042,86.583l0,0c27.833,16.169,61.748,17.952,91.123,4.789L1163.272,259.313z"/>
+				
+					<linearGradient id="Rectangle-3-Copy-20_1_" gradientUnits="userSpaceOnUse" x1="891.3817" y1="277.765" x2="891.1664" y2="279.158" gradientTransform="matrix(209.1349 0 0 -108.2879 -185416.0625 30342.6562)">
+					<stop  offset="0" style="stop-color:#57733F"/>
+					<stop  offset="1" style="stop-color:#84AF5F"/>
+				</linearGradient>
+				<polygon id="Rectangle-3-Copy-20" fill="url(#Rectangle-3-Copy-20_1_)" points="1117.127,277.747 924.154,180.228 
+					907.992,185.879 1096.754,288.516 				"/>
+				
+					<linearGradient id="Rectangle-3-Copy-14_1_" gradientUnits="userSpaceOnUse" x1="890.5671" y1="280.0183" x2="890.5918" y2="278.0768" gradientTransform="matrix(533.5036 -18.6304 -10.5483 -302.0648 -470993.8438 100913.9219)">
+					<stop  offset="0" style="stop-color:#ADDA87"/>
+					<stop  offset="1" style="stop-color:#84AF5F"/>
+				</linearGradient>
+				<path id="Rectangle-3-Copy-14" fill="url(#Rectangle-3-Copy-14_1_)" d="M1441.436,0.511L913.675,183.603l248.353,117.881l0,0
+					c31.995,15.186,69.636,12.317,98.96-7.545l180.448-122.223L1441.436,0.511z"/>
+				
+					<linearGradient id="Path-2_1_" gradientUnits="userSpaceOnUse" x1="889.6425" y1="278.9317" x2="889.6425" y2="277.8854" gradientTransform="matrix(-835.1996 0 0 -183.081 743446.6875 51270.9531)">
+					<stop  offset="0" style="stop-color:#ADDA87"/>
+					<stop  offset="1" style="stop-color:#84AF5F"/>
+				</linearGradient>
+				<path id="Path-2" fill="url(#Path-2_1_)" d="M835.2,249.554L431.881,381.946l0,0c-24.13,7.921-50.369,6.364-73.393-4.354
+					L0,210.703v-6.85l357.276,155.284l0,0c23.766,10.329,50.614,11.03,74.886,1.954l361.959-135.349L835.2,249.554z"/>
+				
+					<linearGradient id="Path-4_1_" gradientUnits="userSpaceOnUse" x1="882.8036" y1="275.7142" x2="882.2083" y2="274.5387" gradientTransform="matrix(-43.4623 0 0 -26.2469 39196.1523 7457.7852)">
+					<stop  offset="0" style="stop-color:#ADDA87"/>
+					<stop  offset="1" style="stop-color:#84AF5F"/>
+				</linearGradient>
+				<polygon id="Path-4" fill="url(#Path-4_1_)" points="834.978,249.412 826.895,252.063 791.516,226.722 794.206,225.816 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

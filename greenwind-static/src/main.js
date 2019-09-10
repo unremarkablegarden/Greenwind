@@ -4,15 +4,13 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import store from './store'
+import VueAnalytics from 'vue-analytics'
 
-// import 'vue-googlemaps/dist/vue-googlemaps.css'
-// import VueGoogleMaps from 'vue-googlemaps'
-//
-// Vue.use(VueGoogleMaps, {
-//   load: {
-//     apiKey: 'AIzaSyBoo9_GwSPa3BgYBAOawCL0Q7_4jFYDE8Q'
-//   }
-// })
+Vue.use(VueAnalytics, {
+  id: 'UA-78990655-2',
+  router,
+  debug: { enabled: false }
+})
 
 Vue.config.productionTip = false
 

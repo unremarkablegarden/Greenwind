@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="715px" height="1025px" viewBox="0 0 715 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>layer01</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-17.2389205%" y1="32.0569813%" x2="189.515425%" y2="53.4602902%" id="linearGradient-1">
+            <stop stop-color="#3F5B76" offset="0%"></stop>
+            <stop stop-color="#286AA6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-32.8713404%" y1="40.3250706%" x2="86.1462%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#3F5B76" offset="0%"></stop>
+            <stop stop-color="#286AA6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="offshore" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="layer01" fill-rule="nonzero">
+            <path d="M0.6769178,7.83839711e-23 L297.664063,-5.68434189e-14 L700.504918,593.552196 C724.38626,628.739349 718.034862,680.239839 686.330846,708.570882 L333.348085,1024 L0.6769178,1024 L0.6769178,7.83839711e-23 Z" id="Rectangle" fill="#286AA6"></path>
+            <path d="M117.760241,570.837671 C108.875646,538.342523 124.356868,496.805853 152.352557,478.053521 L474.664571,262.159488 L700.401283,593.619231 C724.339861,628.769362 718.072157,680.280625 686.419758,708.656914 L334.561737,1024.09667 L241.687131,1024.09667 L117.760241,570.837671 Z" id="Rectangle-Copy" fill="url(#linearGradient-1)"></path>
+            <path d="M118.105843,570.748146 C109.030377,538.302441 124.337036,496.770713 152.300656,477.980111 L390.308594,318.046875 L495.80882,546.721944 C513.622036,585.33265 500.222539,636.963942 465.87945,662.044213 L198.300781,857.453125 L118.105843,570.748146 Z" id="Rectangle-Copy-2" fill="url(#linearGradient-2)"></path>
+        </g>
+    </g>
+</svg>

@@ -6,35 +6,42 @@
       "name": "Martin Kühl",
       "job": "Managing Director",
       "bio": "involved in the wind power business since 1995 and is fascinated by the power of the wind.",
-      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505140168/Martin_Kuehl_250_ffdbrw.jpg"
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505140168/Martin_Kuehl_250_ffdbrw.jpg"
 
     },
     {
       "name": "Manuel Lasse",
       "job": "Managing Director",
       "bio": "with an eye for the big picture and a view of the future.",
-      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505141767/Manu_Lasse_250_nvxkgv.jpg"
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505141767/Manu_Lasse_250_nvxkgv.jpg"
 
     },
     {
       "name": "Franziska Göbel",
-      "job": "Project Development",
+      "job": "Head of Project Development",
       "bio": "with perseverance and creativity for successful approval.",
-      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505140168/Franziska_Goebel_250_ny5ifm.jpg"
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505140168/Franziska_Goebel_250_ny5ifm.jpg"
 
     },
     {
-      "name": "Christian Kandora",
+      "name": "Pascal Peters",
       "job": "Project Development",
-      "bio": "with the experience and dedication to optimise wind farm layouts.",
-      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505140168/Christian_Kandora_250_vrjajm.jpg"
+      "bio": "for renewables and climate protection - even in headwinds.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1563439357/Pascal_Peters_250_yowr62.jpg"
 
     },
     {
       "name": "Sophie Kolb",
       "job": "Project Development",
       "bio": "always curious and totally committed to environmentally friendly energy.",
-      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505140170/Sophie_Kolb_250_qoyc5w.jpg"
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505140170/Sophie_Kolb_250_qoyc5w.jpg"
+
+    },
+    {
+      "name": "Jan Eggers",
+      "job": "Project Development Assistance",
+      "bio": "safely into a sustainable future.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1563439356/Jan_Eggers_250_dvuua6.jpg"
 
     },
     {
@@ -48,35 +55,35 @@
       "name": "Ulrich Mertens",
       "job": "Local Development",
       "bio": "so that the objectives of the energy transition are achieved.",
-      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505140169/Ulrich_Mertens_250_cn82ak.jpg"
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505140169/Ulrich_Mertens_250_cn82ak.jpg"
 
     },
     {
       "name": "Bernd Müller",
       "job": "Local Development",
       "bio": "with enthusiasm and commitment to the  interests of land owners.",
-      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505140169/Bernd_Mueller_250_mn6n8i.jpg"
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505140169/Bernd_Mueller_250_mn6n8i.jpg"
 
     },
     {
       "name": "Ulf von Rahden",
       "job": "Local Development",
       "bio": "transformation with wind and energy.",
-      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505140169/Ulf_von_Rahden_250_w3sb4g.jpg"
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505140169/Ulf_von_Rahden_250_w3sb4g.jpg"
 
     },
     {
-      "name": "Jasmin Eichner",
-      "job": "Accounting",
-      "bio": "with a fresh outlook and the right attitude.",
-      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505140169/Jasmin_Horstkoetterr_250_dyfxl5.jpg"
-
-    },
-    {
-      "name": "Anne Pfannes",
+      "name": "Jasmin Eichner, in parental leave",
       "job": "Commercial Management",
+      "bio": "with a fresh outlook and the right attitude.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505140169/Jasmin_Horstkoetterr_250_dyfxl5.jpg"
+
+    },
+    {
+      "name": "Anne Pfannes, in parental leave",
+      "job": "Head of Commercial Management",
       "bio": "with a meticulous sense for figures and new ideas.",
-      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505140168/Anne_Pfannes_250_j8xlvt.jpg"
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505140168/Anne_Pfannes_250_j8xlvt.jpg"
 
     },
     {
@@ -87,14 +94,21 @@
     },
     {
       "name": "Michael Witschas",
-      "job": "Accounting",
+      "job": "Commercial Management",
       "bio": "for a future worth living.",
       "img": "https://res.cloudinary.com/greenwind/image/upload/v1534747973/Michael_Witschas_250_nzyget.jpg"
 
     },
     {
+      "name": "Lisa Schmitter",
+      "job": "Commercial Management",
+      "bio": "into the next generation with a fresh green wind.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1563439356/Lisa_Schmitter_250_ccjoaq.jpg"
+
+    },
+    {
       "name": "Nantke Harms",
-      "job": "Accounting",
+      "job": "Commercial Management",
       "bio": "ecologically and economically for an energy-efficient future.",
       "img": "https://res.cloudinary.com/greenwind/image/upload/v1547647730/Nantke_Harms_250_sfc1af.jpg"
     },

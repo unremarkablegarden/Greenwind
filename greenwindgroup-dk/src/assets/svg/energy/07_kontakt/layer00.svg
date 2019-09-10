@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1438px" height="511.898px" viewBox="-79 -20.398 1438 511.898" enable-background="new -79 -20.398 1438 511.898"
+	 xml:space="preserve">
+<title>Path 3 Copy 3</title>
+<desc>Created with Sketch.</desc>
+<g id="Energy_1_">
+	<g id="KONTAKT_1_" transform="translate(0.000000, -385.000000)">
+		<g id="Group-5_1_" transform="translate(-49.000000, -226.000000)">
+			
+				<linearGradient id="Rectangle-3-Copy-4_1_" gradientUnits="userSpaceOnUse" x1="519.243" y1="903.1536" x2="519.5051" y2="904.8802" gradientTransform="matrix(1440 0 0 -454.4222 -747091.9375 411547.1875)">
+				<stop  offset="0" style="stop-color:#57733F"/>
+				<stop  offset="1" style="stop-color:#84AF5F"/>
+			</linearGradient>
+			<path id="Rectangle-3-Copy-4" fill="url(#Rectangle-3-Copy-4_1_)" d="M-30,888.293l280.193-234.055
+				c33.063-27.619,91.913-36.124,131.44-18.997L1410,1080.82H-30V888.293z"/>
+		</g>
+	</g>
+</g>
+<g id="Energy">
+	<g id="KONTAKT" transform="translate(-159.000000, -427.000000)">
+		<g id="Group-5" transform="translate(-49.000000, -226.000000)">
+			
+				<linearGradient id="Path-3-Copy-3_1_" gradientUnits="userSpaceOnUse" x1="677.9571" y1="944.7654" x2="678.3978" y2="946.949" gradientTransform="matrix(1280.5011 0 0 415.0663 -867752 -391880.3125)">
+				<stop  offset="0" style="stop-color:#57733F"/>
+				<stop  offset="1" style="stop-color:#84AF5F"/>
+			</linearGradient>
+			<path id="Path-3-Copy-3" fill="url(#Path-3-Copy-3_1_)" d="M208.678,1108.999l487.173-388.004
+				c31.539-25.119,87.862-34.419,125.79-20.777l667.538,240.111v168.67H208.678z"/>
+		</g>
+	</g>
+</g>
+<g id="Energy_2_">
+	<g id="KONTAKT_2_" transform="translate(0.000000, -380.000000)">
+		<g id="Group-5_2_" transform="translate(-49.000000, -226.000000)">
+			
+				<linearGradient id="Path-3-Copy-6_1_" gradientUnits="userSpaceOnUse" x1="519.4339" y1="898.3291" x2="519.7502" y2="899.7988" gradientTransform="matrix(-1440 0 0 459.5773 749068.0625 -412413.2188)">
+				<stop  offset="0" style="stop-color:#57733F"/>
+				<stop  offset="1" style="stop-color:#84AF5F"/>
+			</linearGradient>
+			<path id="Path-3-Copy-6" fill="url(#Path-3-Copy-6_1_)" d="M1410,947.641L1252.881,634.85
+				c-18.095-36.023-63.704-54.706-101.882-41.726L-30,994.64v53.937h1440V947.641z"/>
+		</g>
+	</g>
+</g>
+<g id="Energy_3_">
+	<g id="KONTAKT_3_" transform="translate(0.000000, -383.000000)">
+		<g id="Group-5_3_" transform="translate(-49.000000, -226.000000)">
+			<path id="Path-16" fill="#FFFFFF" d="M1410.226,709.477l-725.04,135.208l0,0c-19.276,3.595-39.183,1.443-57.246-6.187
+				L158.16,640.048l0,0c-18.462-7.799-38.841-9.87-58.494-5.946l-129.18,25.793V1100.5h1440L1410.226,709.477z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M-79,48.519L49.43,20.965c20.104-4.313,41.048-2.324,59.98,5.695l469.268,198.774
+			c18.042,7.642,37.932,9.816,57.198,6.251L1361,97.509v4.331L632.76,241.381c-19.767,3.788-40.216,1.523-58.674-6.499
+			L106.872,31.849c-19.176-8.333-40.481-10.446-60.92-6.042L-79,52.733V48.519z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_2_)">
+		<defs>
+			<rect id="SVGID_3_" x="-79" y="-360.26" width="1440" height="2913"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  overflow="visible"/>
+		</clipPath>
+		<rect x="-84" y="13.74" clip-path="url(#SVGID_4_)" fill="#F0F0F0" width="1450" height="234.427"/>
+	</g>
+</g>
+</svg>

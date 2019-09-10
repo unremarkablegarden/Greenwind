@@ -6,31 +6,37 @@
       "name": "Manuel Lasse",
       "job": "Geschäftsführung",
       "bio": "seit 2006 mit voller Kraft voraus in Sachen Windenergie.",
-      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505142196/Manu_Lasse_250_wmmhuo.jpg"
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505142196/Manu_Lasse_250_wmmhuo.jpg"
     },
     {
       "name": "Peter-Heinrich Boysen",
       "job": "Technische Leitung",
       "bio": "zielstrebig zu Wasser und zu Land.",
-      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505142196/Peter_Heinrich_Boysen_250_k7xei3.jpg"
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505142196/Peter_Heinrich_Boysen_250_k7xei3.jpg"
     },
     {
       "name": "Andreas Texheimer",
       "job": "Leitung QM/HSE",
       "bio": "mit Genauigkeit und dem Fokus auf Safety first.",
-      "img": "http://res.cloudinary.com/greenwind/image/upload/v1524735803/andreas_texheimer_250_hauqen.jpg"
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1524735803/andreas_texheimer_250_hauqen.jpg"
     },
     {
       "name": "Rico Kaatz",
       "job": "Projektmanagement",
       "bio": "immer erneuerbar unterwegs.",
-      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505142196/Rico_Kaatz_250_jxgxfh.jpg"
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505142196/Rico_Kaatz_250_jxgxfh.jpg"
     },
     {
       "name": "Fabio da Fonseca Bola",
       "job": "Projektmanagement",
       "bio": "frisches Windwissen direkt von der Hochschule.",
-      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505142196/Fabio_da_Fonseca_Bola_250_cy5eo9.jpg"
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505142196/Fabio_da_Fonseca_Bola_250_cy5eo9.jpg"
+    },
+    {
+      "name": "Andrei Petrescu",
+      "job": "Projektmanagement Leitwarte",
+      "bio": "mit Leidenschaft spezialisiert auf Windenergie.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1563439356/Andrei_Petrescu_250_n9o1q6.jpg"
     },
     {
       "name": "Enrico Berger",
@@ -45,11 +51,11 @@
       "img": "https://res.cloudinary.com/greenwind/image/upload/v1534747902/Jens_Neumann_250_xwovic.jpg"
     },
     {
-      "name": "René Frixel",
-      "job": "Technische Betriebsführung / Leitwarte",
-      "bio": "Überzeugungstäter mit der Faszination für Wind",
-      "img": "https://res.cloudinary.com/greenwind/image/upload/v1547647730/Rene_Frixel_250_nk2q64.jpg"
-    },
+      "name": "Steven Melendez",
+      "job": "Assistenz technische Betriebsführung",
+      "bio": "mit Windenergie in eine schadstofffreie Zukunft - zum Wohlbefinden für Mensch und Natur.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1563439357/Steven_250_gnfnes.jpg"
+      },
     {
       "name": "Sebastian Borst",
       "job": "Teamassistenz",
@@ -58,7 +64,7 @@
     },
     {
       "name": "Emanuel Fätke",
-      "job": "Vertrieb & Logistik",
+      "job": "Technische Projektleitung Dolwin3 & Vertrieb",
       "bio": "mit Meer-Erfahrung und Wing-Know-how.",
       "img": "https://res.cloudinary.com/greenwind/image/upload/v1534747834/Emanuel_Faetke_250_wl00bu.jpg"
     },
@@ -66,7 +72,7 @@
       "name": "Anne Pfannes",
       "job": "Leitung kaufmännische Betriebsführung",
       "bio": "mit Akribie, dem Sinn für Zahlen und neuen Ideen.",
-      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505140168/Anne_Pfannes_250_j8xlvt.jpg"
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505140168/Anne_Pfannes_250_j8xlvt.jpg"
     },
     {
       "name": "Katharina Haupt",
@@ -78,7 +84,7 @@
       "name": "Martin Kühl",
       "job": "Geschäftsentwicklung",
       "bio": "seit 1995 in Sachen Windenergie unterwegs und fasziniert von der Kraft des Windes.",
-      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505140168/Martin_Kuehl_250_ffdbrw.jpg"
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505140168/Martin_Kuehl_250_ffdbrw.jpg"
     },
     {
       "name": "Göran Meyer (Extern)",

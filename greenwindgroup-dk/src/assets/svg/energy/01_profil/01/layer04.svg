@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1440px" height="393px" viewBox="0 0 1440 393" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 20 Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="27.3343309%" y1="-95.0027667%" x2="38.5068222%" y2="107.529647%" id="linearGradient-1">
+            <stop stop-color="#ADDA87" offset="0%"></stop>
+            <stop stop-color="#84AF5F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Energy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PROFIL-Copy-3" transform="translate(0.000000, -1018.000000)" fill="url(#linearGradient-1)">
+            <path d="M827.661443,1018.00159 L1440.26075,1023.42299 L1440,1410.46061 L0,1410.46061 L782.895132,1028.13986 L782.895132,1028.13986 C796.829329,1021.33521 812.15511,1017.86436 827.661443,1018.00159 Z" id="Path-20-Copy-2"></path>
+        </g>
+    </g>
+</svg>

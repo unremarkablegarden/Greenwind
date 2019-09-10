@@ -146,7 +146,7 @@
   .energy
     .background
       background-color: darken($energy, 25)
-      background-image: url(http://res.cloudinary.com/greenwind/image/upload/c_scale,q_80,w_2000/v1505149009/GWE_Team_web_w0tnxg.jpg)
+      background-image: url(https://res.cloudinary.com/greenwind/image/upload/c_scale,q_80,w_2000/v1505149009/GWE_Team_web_w0tnxg.jpg)
       // background-position: 0 -12vw
       // background-position: bottom
       background-position: top
@@ -169,7 +169,7 @@
   .operations
     .background
       background-color: darken($operations, 15)
-      background-image: url(http://res.cloudinary.com/greenwind/image/upload/c_scale,q_50,w_2400/v1505147157/GWO_Team_web_o9rb2w.jpg)
+      background-image: url(https://res.cloudinary.com/greenwind/image/upload/c_scale,q_50,w_2400/v1505147157/GWO_Team_web_o9rb2w.jpg)
       // background-position: 0 -12vw
       background-position: bottom
       +mobile
@@ -193,7 +193,7 @@
   .offshore
     .background
       background-color: darken($offshore, 15)
-      background-image: url(http://res.cloudinary.com/greenwind/image/upload/q_75/v1504171424/IMG_6864_moopyj.jpg)
+      background-image: url(https://res.cloudinary.com/greenwind/image/upload/q_75/v1504171424/IMG_6864_moopyj.jpg)
       // background-position: 0 -12vw
       background-position: bottom
     .l1

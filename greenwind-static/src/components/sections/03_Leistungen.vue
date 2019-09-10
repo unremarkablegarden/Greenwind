@@ -538,7 +538,7 @@
       margin-bottom: 8em
   .layers._1
     .background
-      background-image: url(http://res.cloudinary.com/greenwind/image/upload/c_crop,h_800,w_1408,x_0/v1504171294/DJI_0066_mzecle.jpg)
+      background-image: url(https://res.cloudinary.com/greenwind/image/upload/c_crop,h_800,w_1408,x_0/v1504171294/DJI_0066_mzecle.jpg)
       +mobile
         height: 54vw
     .l1
@@ -556,7 +556,7 @@
 
   .layers._2
     .background
-      background-image: url(http://res.cloudinary.com/greenwind/image/upload/v1504171296/DJI_0057_l7wocm.jpg)
+      background-image: url(https://res.cloudinary.com/greenwind/image/upload/v1504171296/DJI_0057_l7wocm.jpg)
     .l1
       background-image: url(../../assets/svg/energy/03_leistungen/02/layer02.svg)
       margin-top: -25vw
@@ -564,16 +564,16 @@
   .photo
     background-position: 0 0
     &._1
-      background: url(http://res.cloudinary.com/greenwind/image/upload/c_crop,h_750,q_75,w_1440/v1503062294/Rectangle_3_Copy_9_yinpec.jpg)
+      background: url(https://res.cloudinary.com/greenwind/image/upload/c_crop,h_750,q_75,w_1440/v1503062294/Rectangle_3_Copy_9_yinpec.jpg)
       height: 50vw
     &._2
-      background: url(http://res.cloudinary.com/greenwind/image/upload/v1504171296/DJI_0057_l7wocm.jpg)
+      background: url(https://res.cloudinary.com/greenwind/image/upload/v1504171296/DJI_0057_l7wocm.jpg)
       height: 50vw
     &._3
-      background: url(http://res.cloudinary.com/greenwind/image/upload/v1504171295/DJI_0026_igk0h1.jpg)
+      background: url(https://res.cloudinary.com/greenwind/image/upload/v1504171295/DJI_0026_igk0h1.jpg)
       height: 50vw
     &._4
-      background: url(http://res.cloudinary.com/greenwind/image/upload/v1503075259/mills_in_the_field_zeniyy.jpg)
+      background: url(https://res.cloudinary.com/greenwind/image/upload/v1503075259/mills_in_the_field_zeniyy.jpg)
       height: 50vw
       background-size: 115vw !important
 
@@ -650,7 +650,7 @@
       margin-top: 0
   .layers._1
     .background
-      // background-image: url(http://res.cloudinary.com/greenwind/image/upload/v1504171374/9H1B5439-2_qytl8g.jpg)
+      // background-image: url(https://res.cloudinary.com/greenwind/image/upload/v1504171374/9H1B5439-2_qytl8g.jpg)
       background-image: url('https://res.cloudinary.com/greenwind/image/upload/c_scale,q_80,w_1800/v1537530889/GWO_Header_s2mqno.jpg')
       +mobile
         height: 55vw
@@ -669,13 +669,13 @@
 
   .photo
     &._1
-      background: url(http://res.cloudinary.com/greenwind/image/upload/v1505147427/GWO_Leistung_technisch_BF_2_web_q0qgbz.jpg)
+      background: url(https://res.cloudinary.com/greenwind/image/upload/v1505147427/GWO_Leistung_technisch_BF_2_web_q0qgbz.jpg)
       height: 50vw
     &._2
-      background: url(http://res.cloudinary.com/greenwind/image/upload/v1505147455/GWO_Leistung_technisch_BF_3_web_tg1w0n.jpg)
+      background: url(https://res.cloudinary.com/greenwind/image/upload/v1505147455/GWO_Leistung_technisch_BF_3_web_tg1w0n.jpg)
       height: 50vw
     &._3
-      background: url(http://res.cloudinary.com/greenwind/image/upload/v1504171369/9H1B5898_msyfaj.jpg)
+      background: url(https://res.cloudinary.com/greenwind/image/upload/v1504171369/9H1B5898_msyfaj.jpg)
       height: 50vw
 
   .shape
@@ -749,8 +749,8 @@
   .layers._1
     .background
       background-image: url('https://res.cloudinary.com/greenwind/image/upload/c_scale,q_80,w_1800/v1537530895/GWOf_Header_lhq6by.jpg')
-      // background-image: url(http://res.cloudinary.com/greenwind/image/upload/c_crop,g_south,h_1200,q_75,w_2000/v1507879729/offshore_lestungen_y3p1ho.jpg)
-      // background-image: url(http://res.cloudinary.com/greenwind/image/upload/v1504171426/DJI_0031_Meer_yuiw7v.jpg)
+      // background-image: url(https://res.cloudinary.com/greenwind/image/upload/c_crop,g_south,h_1200,q_75,w_2000/v1507879729/offshore_lestungen_y3p1ho.jpg)
+      // background-image: url(https://res.cloudinary.com/greenwind/image/upload/v1504171426/DJI_0031_Meer_yuiw7v.jpg)
     .l1
       background-image: url(../../assets/svg/offshore/03_leistungen/01/layer01.svg)
       top: 42vw
@@ -766,14 +766,14 @@
 
   .photo
     &._1
-      background: url(http://res.cloudinary.com/greenwind/image/upload/c_scale,q_80,w_2000/v1505153146/GWOf_Leistung_Planung_web_f9keeu.jpg)
+      background: url(https://res.cloudinary.com/greenwind/image/upload/c_scale,q_80,w_2000/v1505153146/GWOf_Leistung_Planung_web_f9keeu.jpg)
       height: 50vw
     &._2
-      // background: url(http://res.cloudinary.com/greenwind/image/upload/v1504171420/9H1B7943_ibep5a.jpg)
-      background: url(http://res.cloudinary.com/greenwind/image/upload/c_scale,q_50,w_2400/v1506518841/soll_das_2._Foto_bei_Offshore-Leistungen-Management_ausgetauscht_werden_DolWin3_hsugew.jpg)
+      // background: url(https://res.cloudinary.com/greenwind/image/upload/v1504171420/9H1B7943_ibep5a.jpg)
+      background: url(https://res.cloudinary.com/greenwind/image/upload/c_scale,q_50,w_2400/v1506518841/soll_das_2._Foto_bei_Offshore-Leistungen-Management_ausgetauscht_werden_DolWin3_hsugew.jpg)
       height: 50vw
     &._3
-      background: url(http://res.cloudinary.com/greenwind/image/upload/v1504171421/DJI_0022_nrz2f8.jpg)
+      background: url(https://res.cloudinary.com/greenwind/image/upload/v1504171421/DJI_0022_nrz2f8.jpg)
       height: 40vw
 
   .shape

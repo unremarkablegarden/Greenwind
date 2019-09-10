@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1440px" height="433px" viewBox="0 0 1440 433" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="128.24461%" y1="100%" x2="35.1326332%" y2="34.5753001%" id="linearGradient-1">
+            <stop stop-color="#57733F" offset="0%"></stop>
+            <stop stop-color="#84AF5F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="71.2988811%" y1="100%" x2="23.3313346%" y2="32.0296008%" id="linearGradient-2">
+            <stop stop-color="#ADDA87" offset="0%"></stop>
+            <stop stop-color="#84AF5F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="70.580634%" y1="125.065115%" x2="15.3754443%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#57733F" offset="0%"></stop>
+            <stop stop-color="#84AF5F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="38.5068208%" y1="-108.446606%" x2="71.2437412%" y2="73.4254537%" id="linearGradient-4">
+            <stop stop-color="#ADDA87" offset="0%"></stop>
+            <stop stop-color="#84AF5F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="126.960687%" y1="277.689628%" x2="0%" y2="-11.3149479%" id="linearGradient-5">
+            <stop stop-color="#57733F" offset="0%"></stop>
+            <stop stop-color="#84AF5F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="26.05479%" y1="450.905373%" x2="14.2132792%" y2="-187.855721%" id="linearGradient-6">
+            <stop stop-color="#57733F" offset="0%"></stop>
+            <stop stop-color="#84AF5F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-66.4070762%" y1="-47.3915672%" x2="297.042246%" y2="207.928516%" id="linearGradient-7">
+            <stop stop-color="#57733F" offset="0%"></stop>
+            <stop stop-color="#84AF5F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Energy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LEISTUNGEN-Copy-6" transform="translate(0.000000, -1564.000000)">
+            <g id="Group-3" transform="translate(0.000000, 1564.000000)">
+                <path d="M0,257.773494 L1051.02972,111.879859 L1051.02972,111.879859 C1065.68178,109.846004 1080.60258,111.088118 1094.71666,115.516672 L1297.67272,179.197897 L1282.09021,263.0555 L1068.31576,171.081793 L1068.31576,171.081793 C1052.55063,164.29905 1035.30517,161.687868 1018.23875,163.499496 L588.210938,209.147637 L0,271.415721 L0,257.773494 Z" id="Path-23-Copy-5" fill="url(#linearGradient-1)"></path>
+                <g id="Group-5-Copy-9" transform="translate(1088.000000, 113.000000)">
+                    <path d="M0.420209407,0.778787864 L133.96448,297.048225 L133.96448,297.048225 C141.556871,313.892027 159.926429,323.097074 177.963992,319.096527 L352,280.497121 L352,109.904917 L0.420209407,0.778787864 Z" id="Path-3-Copy-2" fill="url(#linearGradient-2)"></path>
+                    <path d="M0.595300372,0.806327006 L146.770829,275.245004 L146.770829,275.245004 C155.883616,292.353894 175.317074,301.250326 194.222574,296.967911 L352,261.228663 L352,109.662867 L0.595300372,0.806327006 Z" id="Path-3" fill="url(#linearGradient-3)"></path>
+                </g>
+                <g id="Group-5-Copy-10">
+                    <path d="M1.8189894e-12,259.938862 L416.188007,200.379399 L400.261011,198.098457 L400.261011,198.098457 C389.419013,196.545748 378.90574,193.222443 369.141168,188.261297 L1.81926178e-12,0.709491376 L1.8189894e-12,259.938862 Z" id="Path-3-Copy-2" fill="url(#linearGradient-4)"></path>
+                    <polygon id="Path-3" fill="url(#linearGradient-5)" points="-5.68434189e-14 20.7368212 -5.16172429e-14 259.769683 383.169407 204.687465"></polygon>
+                    <polygon id="Path-3-Copy-3" fill="url(#linearGradient-6)" points="374.692073 201.337172 -6.31088724e-30 255.612589 -5.68434189e-14 259.769683 383.169407 204.687465"></polygon>
+                </g>
+                <polygon id="Path-5" fill="url(#linearGradient-7)" points="1086.92858 113.397305 1116.80475 191.936749 1125.33232 195.80673 1088.35241 113.753948"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -6,35 +6,41 @@
       "name": "Manuel Lasse",
       "job": "Managing Director",
       "bio": "has been in the wind power business since 2006.",
-      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505142196/Manu_Lasse_250_wmmhuo.jpg"
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505142196/Manu_Lasse_250_wmmhuo.jpg"
 
     },
     {
       "name": "Peter-Heinrich Boysen",
       "job": "Head of Technical Management",
       "bio": "purposeful at sea and onshore.",
-      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505142196/Peter_Heinrich_Boysen_250_k7xei3.jpg"
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505142196/Peter_Heinrich_Boysen_250_k7xei3.jpg"
 
     },
     {
       "name": "Andreas Texheimer",
       "job": "Head of QM/HSE",
       "bio": "with accuracy and a focus on safety first.",
-      "img": "http://res.cloudinary.com/greenwind/image/upload/v1524735803/andreas_texheimer_250_hauqen.jpg"
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1524735803/andreas_texheimer_250_hauqen.jpg"
 
     },
     {
       "name": "Rico Kaatz",
       "job": "Project Management",
       "bio": "always on the renewable path.",
-      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505142196/Rico_Kaatz_250_jxgxfh.jpg"
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505142196/Rico_Kaatz_250_jxgxfh.jpg"
 
     },
     {
       "name": "Fabio da Fonseca Bola",
       "job": "Project Management",
       "bio": "using the latest wind energy knowledge straight from university.",
-      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505142196/Fabio_da_Fonseca_Bola_250_cy5eo9.jpg"
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505142196/Fabio_da_Fonseca_Bola_250_cy5eo9.jpg"
+    },
+    {
+      "name": "Andrei Petrescu",
+      "job": "Project Management Control Center",
+      "bio": "with passion specialised in wind energy",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1563439356/Andrei_Petrescu_250_n9o1q6.jpg"
     },
     {
       "name": "Enrico Berger",
@@ -49,11 +55,11 @@
       "img": "https://res.cloudinary.com/greenwind/image/upload/v1534747902/Jens_Neumann_250_xwovic.jpg"
     },
     {
-      "name": "René Frixel",
-      "job": "Technical Management/Control Center",
-      "bio": "A man of conviction with a fascination for wind",
-      "img": "https://res.cloudinary.com/greenwind/image/upload/v1547647730/Rene_Frixel_250_nk2q64.jpg"
-    },
+      "name": "Steven Melendez",
+      "job": "Technical management assistance",
+      "bio": "with wind energy into a pollutant-free future - for the well-being of man and nature.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1563439357/Steven_250_gnfnes.jpg"
+      },
     {
       "name": "Sebastian Borst",
       "job": "Team Assistance",
@@ -62,15 +68,15 @@
     },
     {
       "name": "Emanuel Fätke",
-      "job": "Sales & Logistics",
+      "job": "Head of Technical Project Management Dolwin3 & Sales",
       "bio": "with offshore-expertise and wing-knowledge.",
       "img": "https://res.cloudinary.com/greenwind/image/upload/v1534747834/Emanuel_Faetke_250_wl00bu.jpg"
     },
     {
       "name": "Anne Pfannes",
-      "job": "Commercial Management",
+      "job": "Head of Commercial Management",
       "bio": "with a meticulous sense for figures and new ideas.",
-      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505140168/Anne_Pfannes_250_j8xlvt.jpg"
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505140168/Anne_Pfannes_250_j8xlvt.jpg"
     },
     {
       "name": "Katharina Haupt",
@@ -82,7 +88,7 @@
       "name": "Martin Kühl",
       "job": "Business Development",
       "bio": "involved in the wind power business since 1995 and is fascinated by the power of the wind.",
-      "img": "http://res.cloudinary.com/greenwind/image/upload/v1505140168/Martin_Kuehl_250_ffdbrw.jpg"
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505140168/Martin_Kuehl_250_ffdbrw.jpg"
 
     },
     {

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1440px" height="328px" viewBox="0 0 1440 328" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 15</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="82.5385754%" y1="24.5470143%" x2="-2.70582933%" y2="167.587891%" id="linearGradient-1">
+            <stop stop-color="#3F5B76" offset="0%"></stop>
+            <stop stop-color="#286AA6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="141.768329%" y1="-55.2148438%" x2="-2.70582933%" y2="167.587891%" id="linearGradient-2">
+            <stop stop-color="#5AA2E4" offset="0%"></stop>
+            <stop stop-color="#286AA6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Offshore" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LEISTUNGEN-Copy-3" transform="translate(0.000000, -3934.000000)">
+            <g id="Group-8" transform="translate(-2.000000, 3516.000000)">
+                <g id="Group-14" transform="translate(0.000000, 367.000000)">
+                    <g id="Group-15">
+                        <path d="M622.235996,146.318762 L965.282603,119.925008 L1440.54181,82.4222596 L643.13961,169.244744 L643.13961,169.244744 C608.67418,172.997398 578.611511,194.333719 563.694154,225.629418 L482.720419,395.507344 L479.189972,294.408572 L546.062427,191.525963 L546.062427,191.525963 C563.031073,165.419868 591.191543,148.707299 622.235996,146.318762 Z" id="Rectangle-3-Copy-12" fill="url(#linearGradient-1)" transform="translate(959.865893, 238.964802) scale(-1, 1) rotate(2.000000) translate(-959.865893, -238.964802) "></path>
+                        <path d="M5.27478584,134.188694 L54.5750974,109.729257 L54.5750974,109.729257 C66.998192,103.565769 80.5674683,100.053615 94.4208158,99.4159372 C885.820406,62.9873452 1327.81443,42.9856403 1420.40288,39.4108226 C1426.50796,39.1751071 1434.0316,34.6837242 1442.97379,25.9366741 L1444.2595,62.7547021 L155.767653,155.546555 L155.767653,155.546555 C124.215823,157.818788 95.5996653,174.885959 78.6058013,201.567219 L11.3169704,307.214221 L5.27478584,134.188694 Z" id="Rectangle-3-Copy-14" fill="url(#linearGradient-2)" transform="translate(724.767145, 166.575447) scale(-1, 1) rotate(2.000000) translate(-724.767145, -166.575447) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

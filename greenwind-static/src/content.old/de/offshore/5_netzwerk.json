@@ -1,0 +1,26 @@
+{
+	"t1": "Netzwerk",
+	"t2": "",
+	"network": [
+		{
+			"name": "Wir kooperieren. ",
+			"text": "",
+			"img": "url"
+		},
+		{
+			"name": "Wir arbeiten zusammen. ",
+			"text": "",
+			"img": "url"
+		},
+		{
+			"name": "Wir sind Partner. ",
+			"text": "",
+			"img": "url"
+		},
+		{
+			"name": "Wir sind Mitglied.",
+			"text": "",
+			"img": "url"
+		}
+	]
+}

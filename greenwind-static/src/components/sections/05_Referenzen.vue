@@ -257,7 +257,7 @@ section
   .layers._1
     .background
       background-color: darken($energy, 25)
-      background-image: url(http://res.cloudinary.com/greenwind/image/upload/v1504171375/DJI_0092_vrrhxl.jpg)
+      background-image: url(https://res.cloudinary.com/greenwind/image/upload/v1504171375/DJI_0092_vrrhxl.jpg)
       background-position: bottom
     .l1
       background-image: url(../../assets/svg/energy/05_referenzen/layer01.svg)
@@ -272,7 +272,7 @@ section
   .layers._1
     .background
       background-color: darken($operations, 15)
-      background-image: url(http://res.cloudinary.com/greenwind/image/upload/v1504171375/DJI_0092_vrrhxl.jpg)
+      background-image: url(https://res.cloudinary.com/greenwind/image/upload/v1504171375/DJI_0092_vrrhxl.jpg)
       background-position: bottom
     .l1
       background-image: url(../../assets/svg/operations/05_referenzen/layer01.svg)
@@ -300,7 +300,7 @@ ul.has-dots
   .layers._1
     .background
       background-color: darken($offshore, 15)
-      background-image: url(http://res.cloudinary.com/greenwind/image/upload/c_scale,q_80,w_2000/v1505153240/GWOf_Referenzen_Headerbild_web_jalq6p.jpg)
+      background-image: url(https://res.cloudinary.com/greenwind/image/upload/c_scale,q_80,w_2000/v1505153240/GWOf_Referenzen_Headerbild_web_jalq6p.jpg)
       background-position: bottom
     .l1
       background-image: url(../../assets/svg/offshore/05_referenzen/layer01.svg)
@@ -318,7 +318,7 @@ section.intro
   margin-bottom: -1em
 .photo
   &._1
-    background: url(http://res.cloudinary.com/greenwind/image/upload/v1504171426/DJI_0041_ebv9jx.jpg)
+    background: url(https://res.cloudinary.com/greenwind/image/upload/v1504171426/DJI_0041_ebv9jx.jpg)
     height: 50vw
 .shape
   &._1

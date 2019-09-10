@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1440px" height="367px" viewBox="0 0 1440 367" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 20</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="22.6544628%" y1="108.352324%" x2="48.8648981%" y2="-64.3180223%" id="linearGradient-1">
+            <stop stop-color="#57733F" offset="0%"></stop>
+            <stop stop-color="#84AF5F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Energy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PROFIL-Copy-3" transform="translate(0.000000, -970.000000)" fill="url(#linearGradient-1)">
+            <path d="M0,970 L507.781522,1009.81425 L507.781522,1009.81425 C517.235136,1010.55549 526.535264,1012.63761 535.402492,1015.99804 L773.227475,1106.12716 L773.227475,1106.12716 C789.654099,1112.3524 807.430762,1114.14064 824.768173,1111.3119 L1440,1010.93176 L1440,1336.38331 L0,1336.38331 L0,970 Z" id="Path-20"></path>
+        </g>
+    </g>
+</svg>

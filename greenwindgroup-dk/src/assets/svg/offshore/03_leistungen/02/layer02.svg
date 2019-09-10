@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1390.049px" height="509.075px" viewBox="0 0 1390.049 509.075" enable-background="new 0 0 1390.049 509.075"
+	 xml:space="preserve">
+<polygon fill="#FFFFFF" points="1390.049,509.075 0,509.075 0,30.599 1133.562,342.583 1390.049,99.595 "/>
+<title>Rectangle 3 Copy 24</title>
+<desc>Created with Sketch.</desc>
+<g id="Offshore">
+	<g id="LEISTUNGEN-Copy-3" transform="translate(0.000000, -2582.000000)">
+		<g id="Group-7" transform="translate(-1.000000, 2582.000000)">
+			
+				<linearGradient id="Rectangle-3-Copy-24_1_" gradientUnits="userSpaceOnUse" x1="393.3941" y1="281.2342" x2="393.3592" y2="280.2348" gradientTransform="matrix(1125.8873 0 0 -391.1963 -442332.4062 110020.8281)">
+				<stop  offset="0" style="stop-color:#51A3D2"/>
+				<stop  offset="1" style="stop-color:#286AA6"/>
+			</linearGradient>
+			<path id="Rectangle-3-Copy-24" fill="url(#Rectangle-3-Copy-24_1_)" d="M2.398,180.535l39.744-31.155
+				c24.278-19.031,55.981-25.792,85.911-18.321l1000.232,263.08L2.398,2.943V180.535z"/>
+		</g>
+	</g>
+</g>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="141.9857" y1="225.5406" x2="1390.0491" y2="225.5406">
+	<stop  offset="0" style="stop-color:#3F5B76"/>
+	<stop  offset="0.4207" style="stop-color:#286AA6"/>
+	<stop  offset="1" style="stop-color:#286AA6"/>
+</linearGradient>
+<path id="SVGID_1_" fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_2_)" d="M1390.049,67.608L1179.78,286.414
+	c-25.444,26.477-63.352,36.879-98.746,27.095L141.986,53.936l976.802,337.714c40.45,13.985,85.315,0.678,111.598-33.1
+	l157.941-202.979L1390.049,67.608z"/>
+</svg>

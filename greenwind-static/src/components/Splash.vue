@@ -15,21 +15,21 @@ transition(name='fade', mode='in-out' appear)
     .content.energy
       .contain(:class="{ hide: isHidden.text }")
         .logo
-          img(src='../assets/svg/splash/logoDE.svg', :class="isActive('de')")
-          img(src='../assets/svg/splash/logoEN.svg', :class="isActive('en')")
-          img(src='../assets/svg/splash/logoDK.svg', :class="isActive('dk')")
+          img(src='../assets/svg/splash/new/new-gw-logo-de.svg', :class="isActive('de')")
+          img(src='../assets/svg/splash/new/new-gw-logo-en.svg', :class="isActive('en')")
+          img(src='../assets/svg/splash/new/new-gw-logo-en.svg', :class="isActive('dk')")
         .menu
-          //- router-link(:to="{ path: lang + '/energy' }")
-          a(v-on:click="routerPush('energy')")
-            img(src='../assets/svg/splash/icon_energy.svg')
-          //- router-link(:to="{ path: lang + '/operations' }")
-          a(v-on:click="routerPush('operations')")
-            img(src='../assets/svg/splash/icon_operations.svg')
-          //- router-link(:to="{ path: lang + '/offshore' }")
-          a(v-on:click="routerPush('offshore')")
-            img(src='../assets/svg/splash/icon_offshore.svg')
-        .text
-          p {{ c.intro }}
+          a(v-on:click="routerPush('energy')").menu-item
+            img(src='../assets/svg/splash/new/new-icon-green.svg')
+            div {{ title1 }}
+          a(v-on:click="routerPush('operations')").menu-item
+            img(src='../assets/svg/splash/new/new-icon-grey.svg')
+            div {{ title2 }}
+          a(v-on:click="routerPush('offshore')").menu-item
+            img(src='../assets/svg/splash/new/new-icon-blue.svg')
+            div {{ title3 }}
+        //- .text
+          p {{ c.intro.split('\n') }}
         .columns
 
           .column.is-6.is-hidden-desktop
@@ -46,7 +46,7 @@ transition(name='fade', mode='in-out' appear)
               span.divider /
               a(v-on:click="setLang('en')", :class="isActive('en')") en
               span.divider /
-              a(v-on:click="setLang('dk')", :class="isActive('dk')") dk
+              a(href='https://greenwindgroup.dk') dk
             .contact
               p
                 button(id="show-modal", @click="showModal = true") {{ c.contactTitle }}
@@ -56,11 +56,45 @@ transition(name='fade', mode='in-out' appear)
               img(src='https://res.cloudinary.com/greenwind/image/upload/v1534749193/GW_Leitwarte_24_7_Signet_tozfw3.png', style='width: 110px; transform: rotate(-5deg) translate(12px, 10px)')
 
 
-    //- .modal.is-active(v-if='startPopUp')
+    //- .modal.is-active(v-if='startPopUp').startP
+    //-   .modal-background(@click="startPopUp = false")
+    //-   .modal-content.startPopUp
+    //-     .inner
+    //-       .popuptext
+    //-         .popuplogo
+    //-           img(src='../assets/img/popup-header.jpg')
+    //-         h2 Willkommen bei Green Wind in Dänemark!
+    //-         p Das deutsche Unternehmen Green Wind hat die beiden dänischen Unternehmen ECOPARTNER und FWE Administration ApS übernommen. Für die bestehenden Kunden beider Unternehmen bleiben alle Ansprechpartner und Geschäftsstellen in Kopenhagen und Aarhus erhalten. Welche Kompetenzen Green Wind auch für den dänischen Windmarkt zu bieten hat, entnehmen Sie bitte unserer Website, die wir nun kontinuierlich für Dänemark erweitern.
+    //-         p Seit unserer Gründung 2011 pflegen wir als unabhängiges Unternehmen mit Hauptsitz in Berlin enge Kontakte zu Akteuren der dänischen Windbranche. Jetzt können wir als erfahrener deutscher Projektentwickler in Sachen Repowering und Spezialist in technischer und kaufmännischer Betriebsführung On- wie Offshore unser gesamtes Know-how dem dänischen Markt zur Verfügung stellen.
+    //-         p Wir freuen uns auf die neue Herausforderung mit der Kraft des Windes.
+    //-         p
+    //-           | Martin Kühl, CEO
+    //-           br
+    //-           | Mobil: +49 1732 375 046
+    //-         p
+    //-           | Erling Salling Olesen, CEO
+    //-           br
+    //-           | Mobil: +45 2080 0207
+    //-         .popupfooter
+    //-           img(src='../assets/img/popup-footer.jpg')
+    //-   .overlays
+    //-     .left
+    //-       img(src='../assets/img/gw-gfx-1.png')
+    //-     .right
+    //-       img(src='../assets/img/gw-gfx-2.png')
+    //-   img.modal-close(src='../assets/svg/icons/gw-close-icon.svg', @click="startPopUp = false")
+
+    .modal.is-active(v-if='startPopUp')
       .modal-background(@click="startPopUp = false")
       .modal-content.startPopUp
-        a(href='https://news.greenwind.berlin/windenergy-hamburg-vom-25.-bis-28.-september-2018', target='_blank', @click="startPopUp = false")
-          img(src='http://res.cloudinary.com/greenwind/image/upload/v1536312447/GW_Messestopper_NEWS_1200x616_ro6bgn.jpg')
+        .popuptext
+          .date
+            img(src='../assets/svg/splash/popup-july-2019/date2.svg')
+          .popuplogo
+            img(src='../assets/svg/splash/new/new-gw-logo-de.svg')
+        //- .txt Find us here: 5B27
+          
+
       button.modal-close.is-large(@click="startPopUp = false")
 
     .modal.is-active(v-if="showModal")
@@ -122,6 +156,18 @@ export default {
   computed: {
     c () {
       return this.content[this.lang]
+    },
+    title1 () {
+      const t = this.c.intro.split('\n')
+      return t[0]
+    },
+    title2 () {
+      const t = this.c.intro.split('\n')
+      return t[1]
+    },
+    title3 () {
+      const t = this.c.intro.split('\n')
+      return t[2]
     },
     newsLink () {
       if (this.lang === 'de') {
@@ -331,7 +377,8 @@ export default {
   position: fixed
   width: 400px
   // right: 95vh
-  left: 10vw
+  // left: 10vw
+  left: 4vw
   z-index: 9
   height: 100vh
   display: flex
@@ -358,6 +405,7 @@ export default {
   margin-bottom: 2rem
   img
     display: none
+    width: 80%
   .is-active
     display: block
   +mobile
@@ -366,18 +414,30 @@ export default {
       width: 100%
 
 .menu
-  width: 300px
-  display: flex
-  justify-content: space-between
-  margin-bottom: 1rem
+  // width: 300px
+  // display: flex
+  // justify-content: space-between
+  margin-bottom: 2rem
+  .menu-item
+    display: flex
+    align-items: flex-start
+    justify-content: flex-start
+    font-weight: 600
+    font-size: 0.9rem
+    margin-bottom: 5px
+    margin-left: 20px
+    color: #666
+    img
+      width: 20px
+      margin-right: 10px
   +mobile
     width: 100%
     padding: 0 2em
   a
-    transition: transform 200ms
-    transform: scale(1)
+    // transition: transform 200ms
+    // transform: scale(1)
   a:hover
-    transform: scale(1.1)
+    // transform: scale(1.1)
   img
     cursor: pointer
 
@@ -402,7 +462,7 @@ export default {
   transform: translateX(-10px)
   .button
     margin-top: 20px
-    margin-bottom: 40px
+    margin-bottom: 20px
     &:hover
       color: white !important
     +mobile
@@ -416,7 +476,7 @@ export default {
     text-align: center
   p
     font-weight: bold
-    margin: -1em 0 0
+    // margin: -1em 0 0
   button
     border: 0
     font-size: 16px
@@ -438,13 +498,115 @@ export default {
   font-weight: bold
 .modal-background
   background: rgba(10, 10, 10, 0.46)
-.startPopUp
-  text-align: center
-  img
+
+
+.startP
+  .overlays
+    img
+      position: fixed
+      bottom: 0
+      z-index: 9999
+      height: 130px
+      +mobile
+        max-width: 50vw
+    .left img
+      left: 0
+    .right img
+      right: 0
+  +desktop
+    .modal-close
+      min-width: 30px !important
+      min-height: 30px !important
+      max-width: 30px !important
+      max-height: 30px !important
+      top: 40px !important
+      // right: 50px !important
+      right: calc(2.5% + 25px) !important
+      
+  +mobile
+    .modal-close
+      top: 40px !important
+      right: 50px !important
+.startPopUp  
+  +desktop
+    // width: 95% !important
+    .inner
+      width: 640px
+      margin: 0 auto
+  +mobile
+    max-height: calc(100vh - 40px) !important
+  background-color: white
+  border-radius: 2em
+  background-image: url(../assets/svg/splash/popup-july-2019/bg.svg)
+  background-position: left center
+  +mobile
+    background-position: -30vw 0
+  background-size: cover
+  background-repeat: no-repeat
+  box-shadow: 0 20px 40px rgba(0,0,0,0.4)
+  .popuplogo
+    width: 90%
+    +mobile
+      width: 100%
+    // margin-bottom: 2em
+    margin-top: 1.7em
+  .popupfooter
+    padding-top: 2em
+  h2
+    font-size: 1.2em
+    margin-bottom: 1em
+  .popuptext
+    padding: 3em 4em 3em 2em
+    font-size: 0.86em
+    line-height: 1.5em
+    display: flex
+    justify-content: space-between
+    +mobile
+      flex-direction: column
+    .date
+      +desktop
+        margin-right: 3em
+      img
+        width: 23em
+    // +mobile
+      // padding-bottom: 10em
+    //   height: 400px
+    //   overflow: auto
+  .txt
+    float: right
+    transform: translate(-3.7rem, -2.5rem)
+    font-weight: 600
+    font-size: 1.2rem
+
+
+// .startPopUp
+//   background-color: white
+//   border-radius: 2em
+//   background-image: url(../assets/img/ecopartner-footer.jpg)
+//   background-position: bottom center
+//   background-size: contain
+//   background-repeat: no-repeat
+//   padding-bottom: 8em
+//   box-shadow: 0 20px 40px rgba(0,0,0,0.4)
+//   .popuplogo
+//     width: 200px
+//     margin-bottom: 2em
+//   h2
+//     font-size: 1.2em
+//     margin-bottom: 1em
+//   .popuptext
+//     padding: 3em 4em 3em
+//     font-size: 0.86em
+//     line-height: 1.5em
+//     +mobile
+//       height: 400px
+//       overflow: auto
+
+  // img
     // width: 50%
-    border: 10px #FAFAFA solid
-    border-radius: 6px
-    box-shadow: 0 3px 8px rgba(10,10,10,0.3)
+    // border: 10px #FAFAFA solid
+    // border-radius: 6px
+    // box-shadow: 0 3px 8px rgba(10,10,10,0.3)
 
 .column.is-6
   +mobile

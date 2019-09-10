@@ -135,7 +135,7 @@ section._3
   .layers._1
     .background
       background-color: darken($energy, 25)
-      background-image: url(http://res.cloudinary.com/greenwind/image/upload/v1504171303/DJI_0009_s802l1.jpg)
+      background-image: url(https://res.cloudinary.com/greenwind/image/upload/v1504171303/DJI_0009_s802l1.jpg)
     .l1
       background-image: url(../../assets/svg/energy/04_netzwerk/layer01.svg)
     .l2
@@ -149,7 +149,7 @@ section._3
   .layers._1
     .background
       background-color: darken($operations, 15)
-      background-image: url(http://res.cloudinary.com/greenwind/image/upload/v1504171303/DJI_0009_s802l1.jpg)
+      background-image: url(https://res.cloudinary.com/greenwind/image/upload/v1504171303/DJI_0009_s802l1.jpg)
     .l1
       background-image: url(../../assets/svg/operations/04_netzwerk/layer01.svg)
     .l2
@@ -163,7 +163,7 @@ section._3
   .layers._1
     .background
       background-color: darken($offshore, 15)
-      background-image: url(http://res.cloudinary.com/greenwind/image/upload/v1504171416/9H1B8540_pqwclv.jpg)
+      background-image: url(https://res.cloudinary.com/greenwind/image/upload/v1504171416/9H1B8540_pqwclv.jpg)
     .l1
       background-image: url(../../assets/svg/offshore/04_netzwerk/layer01.svg)
     .l2

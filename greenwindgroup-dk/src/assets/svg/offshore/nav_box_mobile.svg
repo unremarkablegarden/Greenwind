@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="125px" height="119px" viewBox="0 0 125 119" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="122.703073%" y1="-305.322916%" x2="38.5068222%" y2="107.529647%" id="linearGradient-1">
+            <stop stop-color="#828282" offset="0%"></stop>
+            <stop stop-color="#9E9F9E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="98.0325704%" y1="-10.0272436%" x2="13.0702873%" y2="266.655164%" id="linearGradient-2">
+            <stop stop-color="#D4D5D4" offset="0%"></stop>
+            <stop stop-color="#9E9F9E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Operations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2">
+            <path d="M0.891530321,0.969515031 L89.2095862,21.1869526 C104.279758,24.6367598 117.530026,39.9217685 118.806496,55.3464237 L124,118.103837 L0.886972681,118.103837 L0.891530321,0.969515031 Z" id="Rectangle-2-Copy-5" fill="url(#linearGradient-1)" transform="translate(62.443486, 59.536676) scale(-1, -1) translate(-62.443486, -59.536676) "></path>
+            <path d="M6.16056157,1 L89.8872032,18.4002426 C105.031558,21.5475735 118.389308,36.5921376 119.722174,51.9986134 L124.633453,108.767621 L6.79401417,108.767621 L6.16056157,1 Z" id="Rectangle-2-Copy-4" fill="url(#linearGradient-2)" transform="translate(65.397007, 54.883811) scale(-1, -1) translate(-65.397007, -54.883811) "></path>
+        </g>
+    </g>
+</svg>

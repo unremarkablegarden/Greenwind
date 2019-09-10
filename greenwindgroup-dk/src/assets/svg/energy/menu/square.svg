@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="532px" height="678px" viewBox="0 0 532 678" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 2 Copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="98.0325704%" y1="-10.0272436%" x2="38.5068222%" y2="107.529647%" id="linearGradient-1">
+            <stop stop-color="#ADDA87" offset="0%"></stop>
+            <stop stop-color="#84AF5F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="footer_GWE" transform="translate(-449.000000, -37.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-8">
+                <g id="Group-3" transform="translate(449.000000, 37.000000)">
+                    <path d="M90.4391575,14.3534993 L502.209205,0.983061767 L502.209205,0.983061767 C517.665033,0.481201145 530.601295,12.6037863 531.103155,28.0596136 C531.116622,28.4743471 531.120868,28.8893287 531.115889,29.3042509 L523.332409,678 L0.289235564,678 L63.4840327,39.5806123 L63.4840327,39.5806123 C64.8679166,25.6000582 76.3976779,14.8094351 90.4391575,14.3534993 Z" id="Rectangle-2-Copy-3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -194,7 +194,7 @@ export default {
         background-image: url(../../assets/svg/energy/00_start/layer01_mobile.svg)
     .background
       background-color: darken($energy, 25)
-      background-image: url('http://res.cloudinary.com/greenwind/image/upload/v1505145056/GW_Energy_isj4nl_n61uet.jpg')
+      background-image: url('https://res.cloudinary.com/greenwind/image/upload/v1505145056/GW_Energy_isj4nl_n61uet.jpg')
 
   .operations
     .button
@@ -208,8 +208,8 @@ export default {
         background-image: url(../../assets/svg/operations/00_start/layer01_mobile.svg)
     .background
       background-color: darken($operations, 15)
-      // background-image: url('http://res.cloudinary.com/greenwind/image/upload/v1505149489/GW_Operations-new_qpyynk.jpg')
-      background-image: url(http://res.cloudinary.com/greenwind/image/upload/v1505145055/GW_Operations_Start_qf7iay.jpg)
+      // background-image: url('https://res.cloudinary.com/greenwind/image/upload/v1505149489/GW_Operations-new_qpyynk.jpg')
+      background-image: url(https://res.cloudinary.com/greenwind/image/upload/v1505145055/GW_Operations_Start_qf7iay.jpg)
 
   .offshore
     .button
@@ -223,7 +223,7 @@ export default {
         background-image: url(../../assets/svg/offshore/00_start/layer01_mobile.svg)
     .background
       background-color: darken($offshore, 15)
-      background-image: url('http://res.cloudinary.com/greenwind/image/upload/v1505145055/GW_Offshore_Bild_eqytlh_ermqc5.jpg')
+      background-image: url('https://res.cloudinary.com/greenwind/image/upload/v1505145055/GW_Offshore_Bild_eqytlh_ermqc5.jpg')
 
   .shape
     height: 100vh

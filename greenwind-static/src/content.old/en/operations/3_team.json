@@ -1,0 +1,78 @@
+{
+  "t1": "Our team\nOne for all. All for you!",
+  "t2": "There are many good reasons for deciding in favour of Greenwind’s project development. Each member of our team is a good reason. And all together, we are more than the sum of individuals.",
+
+  "team": [{
+      "name": "Manuel Lasse",
+      "job": "Managing Director",
+      "bio": "studied Environmental Engineering and Renewable Energy and has been involved in the wind power business since 2006.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505141767/Manu_Lasse_250_nvxkgv.jpg"
+
+    },
+    {
+      "name": "Andreas Texheimer",
+      "job": "Head of QM/HSE",
+      "bio": "focussing precisely on safety first.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1524735803/andreas_texheimer_250_hauqen.jpg"
+
+    },
+    {
+      "name": "Anne Pfannes",
+      "job": "Head of Commercial Management",
+      "bio": "with a meticulous sense for figures and new ideas.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505141768/Anne_Pfannes_250_woqu6v.jpg"
+    },
+    {
+      "name": "Katharina Haupt",
+      "job": "Dep. Head of Commercial Management",
+      "bio": "focuses on finances for windy alternatives.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1547647730/Katharina_Haupt_250_rua9rk.jpg"
+    },
+    {
+      "name": "Franziska Brüll",
+      "job": "Head of Technical Management",
+      "bio": "who views the integrated whole.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1547647729/Franziska_Bruell_250_vry7u6.jpg"
+
+    },
+    {
+      "name": "Maximilian Horn",
+      "job": "Asset & Site Management",
+      "bio": "with enthusiasm for regenerative energy.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1547647730/Maximilian_Horn_250_m8uzuc.jpg"
+    },
+    {
+      "name": "Emanuel Fätke",
+      "job": "Sales & Logistics",
+      "bio": "with offshore-expertise and wing-knowledge.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1534747834/Emanuel_Faetke_250_wl00bu.jpg"
+    },
+    {
+      "name": "Robert Kadereit",
+      "job": "Technical Management",
+      "bio": "at the heart of the action in no time at all.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505141769/Robert_Kadereit_250_n1shkm.jpg"
+
+    },
+    {
+      "name": "Philipp Grytz",
+      "job": "Technical Management",
+      "bio": "always at the forefront of technical possibilities.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505141768/Philipp_Grytz_250_feghaw.jpg"
+
+    },
+    {
+      "name": "Michael Walther-Schwartz",
+      "job": "Technical Management",
+      "bio": "for any challenge.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505141768/Michael_Witschas_250_mmlrqh.jpg"
+    },
+    {
+      "name": "Sandra Zanzig",
+      "job": "Technical Management Assistance",
+      "bio": "naturally hungry for knowledge.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1534747741/Sandra_Zanzig_250_i0rhiw.jpg"
+
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+	"de": {
+		"intro": "Green Wind Energy, Projektentwicklung\nGreen Wind Operations, Betriebsführung\nGreen Wind Offshore, Technisches Management",
+		"newsButton": "Green Wind News!",
+		"contactTitle": "Kontakt",
+		"imprintTitle": "Impressum",
+		"imprintLink": "/de/energy/impressum"
+	},
+	"en": {
+		"intro": "Green Wind Energy, Project Development\nGreen Wind Operations, Operational Management\nGreen Wind Offshore, Technical Management",
+		"newsButton": "Green Wind News!",
+		"contactTitle": "Contact",
+		"imprintTitle": "Imprint",
+		"imprintLink": "/en/energy/imprint"
+	},
+	"dk": {
+		"intro": "Green Wind Energy, Projektudvikling\nGreen Wind Operations, Driftsledelse\nGreen Wind Offshore, Teknisk Styring",
+		"newsButton": "Green Wind News!",
+		"contactTitle": "Kontakt",
+		"imprintTitle": "",
+		"imprintLink": ""
+	}
+}

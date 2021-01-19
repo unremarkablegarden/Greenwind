@@ -1,0 +1,172 @@
+{
+  "t1": "Vores team\nEn for alle. Alle for dig!",
+  "t2": "Der er mange gode grunde til at vælge Greenwind, når det gælder økonomisk og teknisk driftsledelse. Hvert medlem af vores team er en god grund. Og samlet er vi mere end summen af de enkelte medarbejdere.",
+
+  "team": [
+    {
+      "name": "Erling Salling Olesen",
+      "job": "Administrerende direktør",
+      "bio": "med frisk vind for renere luft i en grøn fremtid",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1563439356/Erling_Salling_Olesen_250_nqs26l.jpg"
+    },
+    {
+      "name": "Torben Post",
+      "job": "Teknisk driftsledelse",
+      "bio": "i aktion for kunderne og med fokus på en grøn fremtid",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1563439357/Torben_Post_250_g4mrmk.jpg"
+    },
+    {
+      "name": "Bente Meinke Eriksen",
+      "job": "Office management",
+      "bio": "med begejstring for vindens ressourcer",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1563439356/Bente_Meinke_Eriksen__250_x5ivff.jpg"
+    },
+    {
+      "name": "Andrea Thomsen-Gutjahr",
+      "job": "Kommerciel ledelse",
+      "bio": "med den rigtige fornemmelse for økonomi og finanser",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1563439356/Andrea_Thomsen-Gutjahr_250_vrkcso.jpg"
+    },
+    {
+      "name": "Manuel Lasse",
+      "job": "Administrerende direktør",
+      "bio": "har studeret miljøteknologi og vedvarende energi samt arbejdet med vindenergi siden 2006",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1585836796/Manuel_Lasse_250_unkfuv.jpg"
+
+    },
+    {
+      "name": "Andreas Texheimer",
+      "job": "Ledelse for kvalitetsstyring, sundhed, sikkerhed og miljø",
+      "bio": "sans for detaljen og fokus på safety first",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1524735803/andreas_texheimer_250_hauqen.jpg"
+    },
+    {
+      "name": "Katharina Haupt",
+      "job": "Økonomisk og kommerciel ledelse",
+      "bio": "holder øje med finanserne for stærke vindenergi løsninger",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1547647730/Katharina_Haupt_250_rua9rk.jpg"
+    },
+    {
+      "name": "Michael Witschas",
+      "job": "Kommerciel ledelse",
+      "bio": "arbejder for en grønnere fremtid",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1606474591/6349cba9c617cf0b367d7727d35831f629be720d_s88i6x.png"
+
+    },
+    {
+      "name": "Franziska Brüll",
+      "job": "Teknisk ledelse Onshore",
+      "bio": "helheden i fokus",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1547647729/Franziska_Bruell_250_vry7u6.jpg"
+
+    },
+    {
+      "name": "Maximilian Horn",
+      "job": "Asset & Construction Management",
+      "bio": "lever og ånder for vedvarende energi",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1547647730/Maximilian_Horn_250_m8uzuc.jpg"
+    },
+    {
+      "name": "Emanuel Fätke",
+      "job": "Salg & logistik",
+      "bio": "hav-erfaring og wing-knowhow",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1534747834/Emanuel_Faetke_250_wl00bu.jpg"
+    },
+    {
+      "name": "Stefan Neuwirth",
+      "job": "Salg & Forretningsudvikling",
+      "bio": "",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1585836795/Stefan_Neuwirth_250_s6qdsl.jpg"
+    },
+    {
+      "name": "Robert Kadereit",
+      "job": "Teknisk driftsledelse",
+      "bio": "rykke hurtigt ud",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505141769/Robert_Kadereit_250_n1shkm.jpg"
+
+    },
+    {
+      "name": "Michael Walther-Schwartz",
+      "job": "Teknisk driftsledelse",
+      "bio": "klar til enhver udfordring",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505141768/Michael_Witschas_250_mmlrqh.jpg"
+    },
+    {
+      "name": "Sandra Zanzig",
+      "job": "Teknisk driftsledelse",
+      "bio": "fokuseret på vind-stærke løsninger",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1534747741/Sandra_Zanzig_250_i0rhiw.jpg"
+    },
+    {
+      "name": "Robert Beyrau",
+      "job": "Teknisk driftsledelse",
+      "bio": "er begejstret over vedvarende energikilder og deres alsidige muligheder",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1568279182/Robert_Beyrau_250_ciez2v.jpg"
+    },
+    {
+      "name": "Oguz Barzan",
+      "job": "Support teknisk driftsledelse",
+      "bio": "kraftig drive med vindenergi",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1563439357/Oguz_Barza_250_bojftp.jpg"
+    },
+    
+    {
+      "name": "Sandra El-Sanhoury",
+      "job": "Kontor ledelse",
+      "bio": "administrativ knowhow og entusiasme for vedvarende energi",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1594652934/Sandra_El-Sanhoury_250_p7nuna.jpg"
+    },
+    
+    {
+      "name": "Sarah Behrens",
+      "job": "Assistant for ledelsen",
+      "bio": "står for nyt og usædvanligt",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1594652934/Sarah_Behrens__250_xb1jsb.jpg"
+    },
+    
+    {
+      "name": "Kevin Vetter",
+      "job": "Teknisk driftsledelse til control center",
+      "bio": "",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1594652934/Kevin_Vetter_250_omjynn.jpg"
+    },
+    {
+      "name": "Ann-Miriam Dreyer",
+      "job": "Support teknisk driftsledelse",
+      "bio": "Udvid energiovergangen trin for trin",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1594652934/Miriam_Dreyer_250_bj98m5.jpg"
+    },
+    {
+      "name": "Louis Vincent Amadeus Deutschmann",
+      "job": "Support teknisk driftsledelse",
+      "bio": "aktiv del af en uudtømmelig energiforsyning",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1594652934/Louis_Deutschmann_250_i4s8zm.jpg"
+    },
+    {
+      "name": "Sascha Richter",
+      "job": "Teknisk driftsledelse til control center",
+      "bio": "til brug af vinden i regionen",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1594652934/Sascha_Richter_250_pdb9bi.jpg"
+    },
+    {
+      "name": "Heike Linke",
+      "job": "HR-afdeling & regnskab",
+      "bio": "med overbevisning i en energisikker fremtid",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1594652935/Heike_Link__250_kmnlpw.jpg"
+    },
+    
+    {
+      "name": "Jeppe Lyngaae",
+      "job": "Teknisk driftsledelse",
+      "bio": "tekniske løsninger med viden og vinden i ryggen",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1585836795/Jeppe_Lyngaae__250_wkyhxx.jpg"
+    },
+    {
+      "name": "Jane Jensen",
+      "job": "Kommerciel ledelse",
+      "bio": "Vindenergi — for mig en gave fra guderne",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1585836795/Jane_Jensen_250_mijxdt.jpg"
+    }
+    
+  ]
+}

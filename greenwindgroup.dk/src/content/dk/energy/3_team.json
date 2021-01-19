@@ -1,0 +1,134 @@
+{
+  "t1": "Vores team\nEn for alle. Alle for dig!",
+  "t2": "Der er mange gode grunde til at vælge Greenwind til opgaver inden for projektudvikling. Hver eneste medarbejder i vores team er faktisk en god grund i sig selv. Og i samlet flok er vi meget mere end summen af den enkelte.",
+
+  "team": [
+    {
+      "name": "Erling Salling Olesen",
+      "job": "Administrerende direktør",
+      "bio": "med frisk vind for renere luft i en grøn fremtid",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1563439356/Erling_Salling_Olesen_250_nqs26l.jpg"
+    },
+    {
+      "name": "Martin Kühl",
+      "job": "Administrerende direktør",
+      "bio": "har arbejdet med vindenergi siden 1995 og er fascineret af vindens kraft",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505140168/Martin_Kuehl_250_ffdbrw.jpg"
+
+    },
+    {
+      "name": "Manuel Lasse",
+      "job": "Administrerende direktør",
+      "bio": "med fokus på helheden og fremtiden",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1585836796/Manuel_Lasse_250_unkfuv.jpg"
+
+    },
+    {
+      "name": "Franziska Göbel",
+      "job": "Leder af projektudvikling",
+      "bio": "indhenter de nødvendige godkendelser med stor udholdenhed og kreativitet",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505140168/Franziska_Goebel_250_ny5ifm.jpg"
+
+    },
+    {
+      "name": "Pascal Peters",
+      "job": "Projektudvikling",
+      "bio": "for vedvarende energi og klimabeskyttelse - også i modvind",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1563439357/Pascal_Peters_250_yowr62.jpg"
+
+    },
+    {
+      "name": "Sophie Kolb",
+      "job": "Projektudvikling",
+      "bio": "arbejder for miljøvenlig energi med stort engagement og nysgerrighed",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505140170/Sophie_Kolb_250_qoyc5w.jpg"
+    },
+    {
+      "name": "Roman Tissen",
+      "job": "Projektudvikling",
+      "bio": "",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1585836795/Roman_Tissen_250_fvpio9.jpg"
+    },
+    {
+      "name": "Sebastian Olbrich",
+      "job": "Projektudvikling",
+      "bio": "",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1585836795/Sebastian_Olbrich_250_gittwi.jpg"
+    },
+    {
+      "name": "Jan Eggers",
+      "job": "Support projektudvikling",
+      "bio": "med bæredygtighed sikkert ind i fremtiden",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1563439356/Jan_Eggers_250_dvuua6.jpg"
+    },
+
+    {
+      "name": "Dietmar Mahler",
+      "job": "Lokaludvikling",
+      "bio": "plejer den personlige kontakt med lokalsamfundet",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1547647730/Dietmar_Mahler_250_ulsxf5.jpg"
+
+    },
+    {
+      "name": "Bernd Müller",
+      "job": "Lokaludvikling",
+      "bio": "varetager landejernes interesser med stort engagement",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505140169/Bernd_Mueller_250_mn6n8i.jpg"
+
+    },
+    {
+      "name": "Ulf von Rahden",
+      "job": "Lokaludvikling",
+      "bio": "med vind og energi kan meget ændres",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505140169/Ulf_von_Rahden_250_w3sb4g.jpg"
+
+    },
+    {
+      "name": "Jasmin Eichner, ved forældreorlov",
+      "job": "Kommerciel ledelse",
+      "bio": "medbringer frisk vind og den rette indstilling",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505140169/Jasmin_Horstkoetterr_250_dyfxl5.jpg"
+
+    },
+    {
+      "name": "Katharina Haupt",
+      "job": "Økonomisk og kommerciel ledelse",
+      "bio": "holder øje med finanserne for stærke vindenergi løsninger",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1547647730/Katharina_Haupt_250_rua9rk.jpg"
+    },
+    {
+      "name": "Michael Witschas",
+      "job": "Kommerciel ledelse",
+      "bio": "arbejder for en grønnere fremtid",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1606474591/6349cba9c617cf0b367d7727d35831f629be720d_s88i6x.png"
+
+    },
+    {
+      "name": "Nantke Harms",
+      "job": "Kommerciel ledelse",
+      "bio": "økologisk og økonomisk for en energieffektiv fremtid",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1547647730/Nantke_Harms_250_sfc1af.jpg"
+    },
+    
+    {
+      "name": "Sandra El-Sanhoury",
+      "job": "Kontor ledelse",
+      "bio": "administrativ knowhow og entusiasme for vedvarende energi",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1594652934/Sandra_El-Sanhoury_250_p7nuna.jpg"
+    },
+    
+    {
+      "name": "Sarah Behrens",
+      "job": "Assistant for ledelsen",
+      "bio": "står for nyt og usædvanligt",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1594652934/Sarah_Behrens__250_xb1jsb.jpg"
+    },
+    
+    {
+      "name": "Jørn Motzkus",
+      "job": "Projektudvikling",
+      "bio": "med det formål at gøre tingene enkle",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1585836795/Joern_Motzkus_250_mdcut7.jpg"
+    }
+  ]
+}

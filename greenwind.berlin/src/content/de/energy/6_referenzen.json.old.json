@@ -1,0 +1,49 @@
+{
+	"t1": "Effizienz und Engagement vor Ort",
+	"t2": "Green Wind Energy entwickelt in der und für die Region Windenergie-Projekte vor Ort. Wir sind der Ansprechpartner, wenn es um die Verdichtung von bestehenden Parks, um Repowering oder auch um Neu-Entwicklungen mit Kooperationspartnern geht. Sehen Sie hier eines der größten bundesdeutschen Repoweringprojekte 2017 und weitere beispielhafte Projekte in Brandenburg.",
+
+	"sections": [
+		{
+			"title": "Windpark Repowering",
+			"subsections": [
+				{
+					"title": "Projekt Vormark/Prignitz (Groß Pankow)",
+					"text": "Green Wind Energy baute Ende 2016 im Windeignungsgebiet 14 bestehende Alt-Anlagen zurück. An gleicher Stelle wurden 14 neue WEA errichtet, die im ersten Quartal 2017 in Betrieb genommen wurden, inkl. eines eigenen Umspannwerkes in Kuhsdorf zum Anschluss der Windenergieanlagen.\n\nNennleistung 48,3 Megawatt\n\nDie Errichtung der neuen WEA mit einer Nabenhöhe von 137 Metern und einer Nennleistung von je 3.450 Kilowatt (vorher 1.500 Kilowatt) erfolgte innerhalb von drei Monaten. Aus 21 Megawatt Nennleistung wurden damit 48,3 Megawatt. Der Energieertrag erhöht sich durch das Repowering um ca. das 4-Fache. Der Windpark ist mit bedarfsgerechter Nachtkennzeichnung ausgestattet.\n\nAusgleichsmaßnahmen\n\nAls Ausgleichsmaßnahmen wurden auf Wunsch der Gemeinde nicht mehr benötigte Gebäude abgerissen, Bäume gepflanzt sowie eine Streuobstwiese angelegt. Zauneidechsen wurden in Ersatzhabitate umgesetzt. Die Fledermäuse erhielten an drei Stellen Ersatzkästen und für die Rauchschwalben wurden Nester aufgehängt.\n\nProjektpartner: European Energy\nTechnische Betriebsführung: Green Wind Operations\n\n",
+					"img": "https://res.cloudinary.com/greenwind/image/upload/c_scale,w_800/v1505147660/GWE_Referenzen_037C9H1B2821_tujamd.jpg",
+					"img2": "https://res.cloudinary.com/greenwind/image/upload/c_scale,w_800/v1513667422/Windpark_Repowering_new_ip6kdq.jpg",
+					"video": "https://player.vimeo.com/video/247291380"
+				},
+				{
+					"title": "Projekt Neustadt (Dosse)",
+					"text": "Genehmigungsplanung für Betreiber e.disnatur, Potsdam\n\nStandort: Neustadt (Dosse), Brandenburg\n\nAnlagen alt: 3 x Südwind S 46, Nennleistung 2 x 600 kW/1 x 750 kW, Nabenhöhe 2 x 97 m/1 x 83 m\n\nAnlagen neu: 2 x Vestas V 112, Nennleistung 3.300 kW, Nabenhöhe 140 m\n\nGenehmigung: Mai 2016\n\nInbetriebnahme durch Vestas: 2017"
+				},
+				{
+					"title": "Projekt Timpberg",
+					"text": "Standort: Zehdenick, Prignitz-Oberhavel, Brandenburg\nAnlagen alt: 2 x VESTAS V80, 4 MW Leistung, 78 m Nabenhöhe\nInbetriebnahme: 2002\nRückbau: 08/2015\nAnlagen neu: 2 x VESTAS V112, 6 MW Leistung, 125 m Nabenhöhe\nInbetriebnahme: 12/2015\nBest: profitables Exit für den Eigentümer der alten Windenergieanlagen, attraktives Projekt für den neuen Betreiber, beständige Unterstützung durch die Bevölkerung, Green Wind Energy als Generalunternehmer",
+					"img": "https://res.cloudinary.com/greenwind/image/upload/c_scale,q_80,w_800/v1513667410/Timpberg_cvbmlc_kd1cvn.jpg"
+				}
+			]
+		},
+		{
+			"title": "Windpark Verdichtung",
+			"subsections": [
+				{
+					"title": "Projekt Kuhsdorf",
+					"text": "Erste Erweiterung\nStandort: Groß Pankow, Prignitz-Oberhavel, Brandenburg\nAnlagen: 2 x VESTAS V80, 4 MW Leistung, 78 m Nabenhöhe\nInbetriebnahme: 2011 erster Teil der mehrstufigen Neuplanung des gesamten Windparks, s.o.\nBest: starke private und öffentliche Unterstützung, Green Wind Energy als Generalunternehmer",
+					"img": "https://res.cloudinary.com/greenwind/image/upload/c_scale,w_800/v1513667409/Windpark_Verdichtung_uvu92v_viedxg.jpg"
+				}
+			]
+		},
+		{
+			"title": "Kooperation Neuentwicklung",
+			"subsections": [
+				{
+					"title": "Projekt Klein-Mutz",
+					"text": "Standort: Zehdenick, Prignitz-Oberhavel, Brandenburg\nAnlagen: 4 x VESTAS V90, 8 MW Leistung, 125 m Nabenhöhe\nInbetriebnahme: 12/2012\n\nProjektpartner: Saxovent, Notus\nBest: konstruktive Zusammenarbeit, kurze Projektlaufzeit für Genehmigung und Realisierung",
+					"img": "https://res.cloudinary.com/greenwind/image/upload/c_scale,q_50,w_1052/v1505994982/AIMG_0794_gr_x1eggg_pmggvr.jpg"
+				}
+			]
+		}
+	]
+
+}

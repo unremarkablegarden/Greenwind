@@ -1,0 +1,110 @@
+{
+  "t1": "Unser Team\nEiner für Alle. Alle für Sie!",
+  "t2": "Es gibt viele gute Gründe, sich in Sachen Projektentwicklung für Green Wind zu entscheiden. Jedes Mitglied unseres Teams ist ein guter Grund. Und alle zusammen sind wir mehr als die Summe Einzelner.",
+
+  "team": [{
+      "name": "Martin Kühl",
+      "job": "Geschäftsführung",
+      "bio": "seit 1995 in Sachen Windenergie unterwegs und fasziniert von der Kraft des Windes.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505140168/Martin_Kuehl_250_ffdbrw.jpg"
+    },
+    {
+      "name": "Manuel Lasse",
+      "job": "Geschäftsführung",
+      "bio": "mit Blick fürs Ganze und in die Zukunft.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1585836796/Manuel_Lasse_250_unkfuv.jpg"
+    },
+    {
+      "name": "Franziska Göbel",
+      "job": "Leitung Projektentwicklung",
+      "bio": "mit Beharrlichkeit und Kreativität zur erfolgreichen Genehmigung.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505140168/Franziska_Goebel_250_ny5ifm.jpg"
+    },
+    {
+      "name": "Pascal Peters",
+      "job": "Projektentwicklung",
+      "bio": "für Erneuerbare und Klimaschutz - auch bei Gegenwind.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1563439357/Pascal_Peters_250_yowr62.jpg"
+    },
+    {
+      "name": "Sophie Kolb",
+      "job": "Projektentwicklung",
+      "bio": "immer neugierig und mit Nachdruck engagiert für eine umweltfreundliche Energie.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505140170/Sophie_Kolb_250_qoyc5w.jpg"
+    },
+    {
+      "name": "Roman Tissen",
+      "job": "Projektentwicklung",
+      "bio": "für einen echten Wandel in unserer Gesellschaft",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1585836795/Roman_Tissen_250_fvpio9.jpg"
+    },
+    {
+      "name": "Sebastian Olbrich",
+      "job": "Projektentwicklung",
+      "bio": "immer hoch am Wind für 100 % Erneuerbare",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1585836795/Sebastian_Olbrich_250_gittwi.jpg"
+    },
+    {
+      "name": "Jan Eggers",
+      "job": "Assistenz Projektentwicklung",
+      "bio": "mit Nachhaltigkeit sicher in die Zukunft.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1563439356/Jan_Eggers_250_dvuua6.jpg"
+    },
+    {
+      "name": "Dietmar Mahler",
+      "job": "Standortentwicklung",
+      "bio": "im persönlichen Kontakt mit den Menschen vor Ort.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1547647730/Dietmar_Mahler_250_ulsxf5.jpg"
+    },
+    {
+      "name": "Bernd Müller",
+      "job": "Standortentwicklung",
+      "bio": "mit Elan und Engagement für die Belange der Landeigentümer.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505140169/Bernd_Mueller_250_mn6n8i.jpg"
+    },
+    {
+      "name": "Ulf von Rahden",
+      "job": "Standortentwicklung",
+      "bio": "mit Wind und Energie Vieles verändern.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505140169/Ulf_von_Rahden_250_w3sb4g.jpg"
+    },
+    {
+      "name": "Jasmin Eichner, z.Z. in Elternzeit",
+      "job": "Kaufmännische Betriebsführung",
+      "bio": "mit frischem Wind und der richtigen Einstellung.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1505140169/Jasmin_Horstkoetterr_250_dyfxl5.jpg"
+    },
+    {
+      "name": "Katharina Haupt",
+      "job": "Leitung kaufmännische Betriebsführung",
+      "bio": "hat die Finanzen im Fokus für windstarke Alternativen",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1547647730/Katharina_Haupt_250_rua9rk.jpg"
+    },
+    {
+      "name": "Michael Witschas",
+      "job": "Kaufmännische Betriebsführung",
+      "bio": "für eine lebenswerte Zukunft.",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1606474591/6349cba9c617cf0b367d7727d35831f629be720d_s88i6x.png"
+    },
+    {
+      "name": "Nantke Harms",
+      "job": "Kaufmännische Betriebsführung",
+      "bio": "ökologisch und ökonomisch für eine energieeffiziente Zukunft!",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1547647730/Nantke_Harms_250_sfc1af.jpg"
+    },
+    
+    {
+      "name": "Sandra El-Sanhoury",
+      "job": "Office Management",
+      "bio": "administratives Know-how und Begeisterung für Erneuerbare Energien",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1594652934/Sandra_El-Sanhoury_250_p7nuna.jpg"
+    },
+    
+    {
+      "name": "Sarah Behrens",
+      "job": "Assistenz der Geschäftsführung",
+      "bio": "steht für Neues und Außergewöhnliches",
+      "img": "https://res.cloudinary.com/greenwind/image/upload/v1594652934/Sarah_Behrens__250_xb1jsb.jpg"
+    }
+  ]
+}

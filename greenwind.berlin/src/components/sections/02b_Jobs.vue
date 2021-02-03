@@ -26,9 +26,20 @@
             h4 Zur Verstärkung unseres Teams suchen wir ab sofort
             
             ul.index
-              li
+              //- li
                 a(href='#Steuerfachangestellten-Finanzbuchhalter') Steuerfachangestellten / Finanzbuchhalter (w/m/d) 
+              
               li
+                a(href='#Servicetechniker/-ingenieure (w/m/d) für unseren Leitstand in Vollzeit (40 h)') Servicetechniker/-ingenieure (w/m/d) für unseren Leitstand in Vollzeit (40 h)
+              
+              li
+                a(href='#Technischer Betriebsführer (w/m/d) in Vollzeit (40 h)') Technischer Betriebsführer (w/m/d) in Vollzeit (40 h)
+              
+              li
+                a(href='#Teamassistenz (m/w/d) Technische Betriebsführung in Teilzeit (20h)') Teamassistenz (m/w/d) Technische Betriebsführung in Teilzeit (20h)
+                
+                
+              //- li
                 a(href='#Servicetechniker-leitstand') Servicetechniker/-ingenieur (w/m/d) für Leitstand Offshore
           
             
@@ -38,139 +49,312 @@
         .team-members.content.de    
           
           //- --------------------------------------------------------------------
-          a(name='Steuerfachangestellten-Finanzbuchhalter')
+          a(name='Servicetechniker/-ingenieure (w/m/d) für unseren Leitstand in Vollzeit (40 h)')
           br
           br
-          p Zur Verstärkung unseres Teams suchen wir ab sofort in Vollzeit einen:
           hr
-          h3 Steuerfachangestellten / Finanzbuchhalter (w/m/d) 
-          br
-          b Ihre Aufgaben
-          ul
-            li Selbstständige Buchung aller Geschäftsvorfälle für mehrere Windparkgesellschaften (GmbH & Co. KG`s) sowie Gesellschaften aus der Unternehmensgruppe
-            li Erstellung von Pacht- und Windparkabrechnungen, Monatsabschlüssen und Liquiditätsplanungen
-            li Abstimmung und Klärung der Konten und OPOS-Listen
-            li Vorbereitung und Abwicklung des Zahlungsverkehrs
-            li Selbständige Erstellung der mtl. Umsatzsteuer-Voranmeldung
-            li Ansprechpartner für Kunden, Steuerberater, Ämter
-            li Zuarbeit zu den Jahresabschlüssen 
-            li Unterstützung bei Projekten und steuerlichen Themen
-            li Allgemeine buchhalterische Verwaltungsaufgaben
-          br
-          b Ihr Profil
-          ul
-            li Erfolgreich abgeschlossene Berufsausbildung zum/zur Steuerfachangestellte/n
-            li Mindestens 2-jährige Berufserfahrung 
-            li Routinierte Anwendung der Buchhaltungssoftware DATEV wird vorausgesetzt 
-            li Fundierte MS Office Kenntnisse, insbesondere MS-Excel 
-            li Ausgeprägtes Zahlenverständnis
-            li Engagierter, sehr strukturierter und selbstständiger Arbeitsstil
-            li Sehr gute Deutschkenntnisse und gute Englischkenntnisse in Wort und Schrift
-          br
-          b Unser Angebot
-          ul
-            li Abwechslungsreiche und eigenverantwortliche Tätigkeit
-            li Moderne Unternehmenskultur mit flacher Hierarchie und Entwicklungsmöglichkeiten 
-            li Motiviertes Team aus erfahrenen und jungen Kolleg*innen
-            li Flexible Arbeitszeiten in einem familienfreundlichen Arbeitsumfeld 
-            li Leistungsgerechte Vergütung mit umfangreichen sozialen Leistungen (z.B. Englischunterricht, Teamevents, Obst und Getränke, Jobrad) 
-            li Unternehmenssitz in zentraler Lage direkt an der Spree
-          br                    
+          h3 Servicetechniker/-ingenieure (w/m/d) für unseren Leitstand in Vollzeit (40 h)
+          p Die Green Wind Offshore GmbH ist Spezialist für Instandhaltungsmanagement und Überwachung technischer Anlagen zur Offshore Energieerzeugung. Wir geben volle Unterstützung in der technischen Betriebsführung von Offshore-Windenergieanlagen und im Plattformmanagement für HGÜ und Umspannwerke. 
           p 
-            span Falls wir Sie angesprochen haben, freuen wir uns auf Ihre aussagekräftige Bewerbung mit Ihrer Gehaltsvorstellung und Ihrem möglichen Eintrittstermin. Bitte senden Sie Ihre Bewerbung als eine PDF-Datei an 
-            a(href="mailto:bewerbung@greenwindgroup.de") bewerbung@greenwindgroup.de
-            | .
+            span Ab sofort suchen wir 
+            strong versierte Mitarbeiter*innen 
+            span (w/m/d) zur Überwachung von On- und Offshoreanlagen. Idealerweise bringen Sie bereits 
+            strong Erfahrungen mit der Überwachung von 
+            span On- und Offshore Windenergieanlagen mit. Es erwartet Sie ein aufgeschlossenes Team, ein angenehmes Betriebsklima und anspruchsvolle nationale sowie internationale Projekte. 
           
           br
           p
-            | Green Wind Energy GmbH
-            | Alt-Moabit 60a
-            | 10555 Berlin
-            | Tel: 030-351 28 86 30
-            br
-            a(href='https://www.greenwindgroup.de') www.greenwindgroup.de
+            strong Ihre Aufgaben 
+          ul
+            li
+              p 
+                strong Fehlerdiagnose: 
+                | Analyse von anstehenden Fehlern, Maßnahmeneinleitung zur Fehlerbeseitigung
+            li
+              p 
+                strong Auftragsmanagement: 
+                | Annahme, Erstellung und Verwaltung von Aufträgen, Abstimmung mit dem Auftraggeber, Auftragsdokumentation prüfen, ergänzen und bereitstellen, Mängellisten aufarbeiten
+            li
+              p 
+                strong Methodenbeschreibungen 
+                | zur Instandsetzung von Windenergieanlagen und anderen technischen komplexen Anlagen 
+            li
+              p 
+                strong Ressourcenplanung: 
+                | Mitarbeiterauswahl und -einsatz, Überwachung und Dokumentation der Arbeitszeiten, Pflege der Qualifizierungsunterlagen der Mitarbeiter, adäquate Ersatzteile beschaffen und bereitstellen, nötige Werkzeuge nach Sicherheitsrichtlinien auswählen und zur Verfügung stellen, inkl. der Logistik und den Vorbereitungen der Verzollung, Organisation der fachgerechten Abfallentsorgung
+            li
+              p 
+                strong Leitwarte 24/7: 
+                | Mitarbeit im 3-Schichtsystem zur Gewährleistung einer 24/7 Anlagenüberwachung.
+          
+          br  
+          p
+            strong Ihr Profil
+          ul
+            li Sie bringen eine erfolgreich abgeschlossene Ausbildung im Bereich der Elektrotechnik, Mechanik oder Mechatronik mit.
+            li Sie sind kommunikativ, haben ein hohes Qualitätsbewusstsein und arbeiten selbstständig sowie detailgenau.
+            li Ein freundliches und souveränes Auftreten, Belastbarkeit sowie Teamfähigkeit zeichnet Sie aus.
+            li Erfahrungen mit Arbeiten am Leitstand sowie mit dem Programmieren der Software „prins“ und Offshoretauglichkeit wären von Vorteil, sind jedoch nicht zwingend erforderlich.
+            li Sie verfügen über sehr gute MS-Office-Kenntnisse, einen Führerschein der Klasse B.
+            li Sehr gute Deutschkenntnisse in Wort und Schrift sowie gute Kenntnisse der englischen Sprache.
+          br
+          p
+            strong Unser Angebot
+          ul
+            li Eine anspruchsvolle Aufgabe im wachsenden Bereich der erneuerbaren Energien und die Möglichkeit mitzugestalten. 
+            li ein Motiviertes und freundliches Team bestehend aus erfahrenen und jungen Kolleg*innen
+            li leistungsgerechte Vergütung mit Prämien und Bonuszahlungen und betrieblicher Altersvorsorge
+            li Umfangreiche soziale Leistungen (z.B. Englischunterricht, Jobticket, Teamevents, Obst und Getränke, Sonntagslunch, Jobrad) 
+            li Betriebssport digital und ergonomisches Arbeiten durch höhenverstellbare Tische und ergonomische Bürostühle 
+            li neue Firmenhandys und Laptops
+            li Kickertisch und Playstation
+            li Attraktiver Arbeitsplatz in zentraler Lage direkt an der Spree
+
+          br
+          br
+          p 
+            | Fühlen Sie sich angesprochen? Dann freuen wir uns über Ihre aussagekräftige Bewerbung unter Angaben Ihrer Gehaltsvorstellungen und des möglichen Eintrittstermins. Bitte senden Sie Ihre Unterlagen per Mail (eine Anlage mit max. 5 MB) an: &nbsp;
+            a(href="mailto:bewerbung@greenwindgroup.de") bewerbung@greenwindgroup.de
+          
+          
+          p 
+            div Green Wind Offshore GmbH
+            div Alt-Moabit 60a 
+            div 10555 Berlin 
+            div Tel.: 030 – 351 288 630
+            div
+              a(href="mailto:bewerbung@greenwindgroup.de") bewerbung@greenwindgroup.de
+            div 
+              a(href='https://greenwindgroup.de') www.greenwindgroup.de
           br
           br
           br
+          
           //- --------------------------------------------------------------------
-          a(name='Servicetechniker-leitstand')
+          a(name='Technischer Betriebsführer (w/m/d) in Vollzeit (40 h)')
           br
           br
           hr
-
-          h3 Servicetechniker/-ingenieur (w/m/d) für Leitstand Offshore
+          h3 Technischer Betriebsführer (w/m/d) in Vollzeit (40 h)
+          p Die Green Wind Operations GmbH (GWO) ist Spezialist im Bereich der technischen Betriebsführung von Windenergieanlagen und Umspannwerken auf dem Festland. Die GWO betreut derzeit ca. 600 MW an Windleistung inklusive mehrerer Umspannwerke. Sie organsiert und überwacht ihren reibungslosen Betrieb und ihre Instandhaltung. 
+          p 
+            | Ab sofort suchen wir eine*n 
+            strong versierte*n Mitarbeiter*in 
+            | (w/m/d) als technischen Betriebsführer innerhalb Deutschlands (mögliche Standorte: Berlin-Moabit, Groß-Pankow, Neukloster, Hamburg oder nach Absprache).
+          p Es erwartet Sie ein aufgeschlossenes Team aus jungen und erfahrenen Mitarbeiter*innen, ein angenehmes Betriebsklima und anspruchsvolle nationale sowie internationale Projekte. 
+          
           br
-          p.p3
-            span.s2
-              | Die Green Wind Offshore GmbH ist Spezialist für Instandhaltungsmanagement und Überwachung technischer Anlagen zur Offshore Energieerzeugung. Wir geben volle Unterstützung in der technischen Betriebsführung von Offshore-Windenergieanlagen und im Plattformmanagement für HGÜ und Umspannwerke.
-          p.p3
-            span.s2
-              | Ab sofort suchen wir einen versierten Mitarbeiter (w/m/d) zur Überwachung von On- und Offshoreanlagen. Idealerweise haben Sie bereits Erfahrungen mit der Überwachung von On- und Offshore Windenergieanlagen. Es erwartet Sie ein aufgeschlossenes Team, ein angenehmes Betriebsklima und anspruchsvolle nationale sowie internationale Projekte.
-
-          b Ihre Aufgaben
-          ul.ul1
-            li.li3
-
-              span.s2
-                b Fehlerdiagnose:
-                | &nbsp;Analyse von anstehenden Fehlern, Maßnahmeneinleitung zur Fehlerbeseitigung
-            li.li3
-
-              span.s2
-                b Auftragsmanagement
-                | : Annahme, Erstellung und Verwaltung von Aufträgen, Abstimmung mit dem Auftraggeber, Auftragsdokumentation prüfen, ergänzen und bereitstellen, Mängellisten aufarbeiten
-            li.li3
-
-              span.s2
-                b Methodenbeschreibungen
-                |  zur Instandsetzung von Windenergieanlagen und anderen technischen komplexen Anlagen
-
-            li.li3
-
-              span.s2
-                b Ressourcenplanung
-                | : Mitarbeiterauswahl und -einsatz, Überwachung und Dokumentation der Arbeitszeiten, Pflege der Qualifizierungsunterlagen der Mitarbeiter, adäquate Ersatzteile beschaffen und bereitstellen, nötige Werkzeuge nach Sicherheitsrichtlinien auswählen und zur Verfügung stellen, inkl. der Logistik und den Vorbereitungen der Verzollung, Organisation der fachgerechten Abfallentsorgung
-            li.li3
-
-              span.s2
-                b Leitwarte 24/7
-                | : Mitarbeit im 3-Schichtsystem zur Gewährleistung einer 24/7 Anlagenüberwachung.
+          p
+            strong Ihre Aufgaben 
+          ul 
+            li Projektbetreuung eines Portfolios an Windparks der Hersteller Vestas, GE, Enercon, Nordex, Senvion.
+            li Zentraler Ansprechpartner des zugewiesenen Portfolios an Windenergieanlagen (WEA) und verantwortlich im Rahmen der Leistungen laut Betriebsführungsvertrag gegenüber dem Betreiber und Dritten, u.a. Energieversorger, Versicherung, Direktvermarkter
+            li Regelmäßige Prüfung und Bewertung der Betriebsdaten, hauptsächlich Ertragsdaten, Betriebsparameter wie Fehlerhäufigkeiten (Temperaturen, Ströme usf.), Leistungskurvenabgleich, Windrichtungsnachführung, Energiebezug und Einleitung von Maßnahmen bei Abweichungen 
+            li Regelmäßiges Reporting in Form von Monats- und Jahresberichten an den Kunden
+            li Direkter Ansprechpartner für unsere Kunden/Betreiber
+            li Bearbeitung von Anfragen, Auswahl und Bestätigung von Angeboten bezüglich Vertragswesen (Service und Instandhaltung, Telekommunikation, Versicherung, Energieversorger etc.), Lieferantenbewertung
+            li Pflege der Dokumentationen auf dem internen Server und in den Papierordnern sowie der Betriebsüberwachungssoftware/dem CMMS 
+            li Regelmäßige Aktualisierung im Falle von neuen Daten, Dokumenten (Vereinbarungen, Verträgen) etc. 
+            li Regelmäßige aktive Fristenüberwachung jeder WEA im eigenen Zuständigkeitsbereich (behördliche und gesetzliche Fristen, Wartung und Sachkundefristen, Gutachten und Inspektionen, usw.) 
+            li Durchführung von Sichtkontrollen (regelmäßig) an der WEA, Ausstellung von Mängellisten und Überwachung der Abarbeitung (Maßnahmenmanagement), Begleitung von Serviceeinsätzen 
+            li Zuarbeiten auf kaufmännischer Ebene für kaufmännische Betriebsführung, u.a. Rechnungsprüfung, Zusammenstellung von Ertragsdaten für Abrechnungen 
+            li Visuelle Inspektion/Begehung der Windenergieanlagen.
+          br
+          p
+            strong Ihr Profil
+          ul
+            li Sie bringen eine erfolgreich abgeschlossene Ausbildung im Bereich der Elektrotechnik, Mechanik, Mechatronik und/oder ein Studium im elektrotechnischen Bereich oder der Erneuerbaren Energien mit
+            li Höhentauglichkeit, EDV-Grundkenntnisse und speziell im Umgang mit MS-Office, lösungsorientierte Denkweise und sehr gute kommunikative Fähigkeiten, eigenständige und verantwortungsvolle Arbeitsweise, Bereitschaft zu Weiter- und Fortbildung 
+            li Optimalerweise verfügen Sie über Berufserfahrung in der Windenergie und speziell in der technischen Betriebsführung von Windenergieanlagen
+            li Erfahrung mit der Arbeit der Software zur Überwachung von Windenergieanlagen „WIS“, jedoch nicht zwingend erforderlich
+            li Sie sind kommunikativ, haben ein hohes Qualitätsbewusstsein und arbeiten selbstständig sowie detailgenau 
+            li Ein freundliches und souveränes Auftreten, Belastbarkeit sowie Teamfähigkeit zeichnet Sie aus
+            li Sie verfügen über sehr gute MS-Office-Kenntnisse, einen Führerschein der Klasse B und Reisebereitschaft 
+            li Sehr gute Deutschkenntnisse in Wort und Schrift sowie gute Kenntnisse der englischen Sprache.
 
           br
-          b Ihr Profil
-          ul.ul1
-            li.li3
-              span.s2 Sie bringen eine erfolgreich abgeschlossene Ausbildung im Bereich der Elektrotechnik, Mechanik oder Mechatronik mit
-            li.li3
-              span.s2
-                | Sie sind kommunikativ, haben ein hohes Qualitätsbewusstsein und arbeiten selbstständig sowie detailgenau
-
-            li.li3
-
-              span.s2 Ein freundliches und souveränes Auftreten, Belastbarkeit sowie Teamfähigkeit zeichnet Sie aus
-            li.li3
-
-              span.s2 Erfahrungen mit Arbeiten am Leitstand sowie mit dem Programmieren der Software „prins“ und Offshoretauglichkeit wären von Vorteil, sind jedoch nicht zwingend erforderlich
-            li.li3
-
-              span.s2
-                | Sie verfügen über sehr gute MS-Office-Kenntnisse, einen Führerschein der Klasse B und Reisebereitschaft
-
-            li.li3
-
-              span.s2 Sehr gute Deutschkenntnisse in Wort und Schrift sowie gute Kenntnisse der englischen Sprache.
+          p
+            strong Unser Angebot
+          ul
+            li Eine anspruchsvolle Aufgabe im wachsenden Bereich der erneuerbaren Energien und die Möglichkeit mitzugestalten. 
+            li Motiviertes und freundliches Team bestehend aus erfahrenen und jungen Kolleg*innen
+            li Flexible Arbeitszeiten und Homeoffice-Option in einem familienfreundlichen Arbeitsumfeld 
+            li Leistungsgerechte Vergütung mit Prämien und Bonuszahlungen und betrieblicher Altersvorsorge
+            li Umfangreiche soziale Leistungen (z.B. Englischunterricht, Jobticket, Teamevents, Obst und Getränke, Sonntagslunch, Jobrad) 
+            li Betriebssport digital und ergonomisches Arbeiten durch höhenverstellbare Tische und ergonomische Bürostühle 
+            li Neue Firmenhandys und Laptops
+            li Kickertisch und Playstation
+            li Attraktiver Arbeitsplatz in zentraler Lage direkt an der Spree
+            
           br
-          p.p3
-            span.s2
-              b Wir bieten
-          p.p9
-            span.s2 Eine anspruchsvolle Aufgabe im wachsenden Bereich der erneuerbaren Energien und die Möglichkeit mitzugestalten. Einen attraktiven Arbeitsplatz direkt an der Spree in einem dynamischen und freundlichen Team mit der optimalen Mischung aus erfahrenen sowie jungen Kolleginnen und Kollegen. Eine leistungsgerechte Bezahlung und weiteren Extras wie: JobRad, Englischunterricht, frisches Bioobst und Getränke.
-          p.p9
-            | Fühlen Sie sich angesprochen? Dann freuen wir uns über Ihre aussagekräftige Bewerbung unter Angaben Ihrer Gehaltsvorstellungen und des möglichen Eintrittstermins. Bitte senden Sie Ihre Unterlagen per Mail (eine Anlage mit max. 5 MB) an:&nbsp;
+          br
+          p 
+            | Fühlen Sie sich angesprochen? Dann freuen wir uns über Ihre aussagekräftige Bewerbung unter Angaben Ihrer Gehaltsvorstellungen und des möglichen Eintrittstermins. Bitte senden Sie Ihre Unterlagen per Mail (eine Anlage mit max. 5 MB) an: &nbsp;
             a(href="mailto:bewerbung@greenwindgroup.de") bewerbung@greenwindgroup.de
+          
+          p 
+            div Green Wind Offshore GmbH
+            div Alt-Moabit 60a 
+            div 10555 Berlin 
+            div Tel.: 030 – 351 288 630
+            div
+              a(href="mailto:bewerbung@greenwindgroup.de") bewerbung@greenwindgroup.de
+            div 
+              a(href='https://greenwindgroup.de') www.greenwindgroup.de
+          
           br
           br
           br
+          
+          
+          //- --------------------------------------------------------------------
+          a(name='Teamassistenz (m/w/d) Technische Betriebsführung in Teilzeit (20h)')
+          br
+          br
+          hr
+          h3 Teamassistenz (m/w/d) Technische Betriebsführung in Teilzeit (20h)
+          p Die Green Wind Operations GmbH (GWO) ist Spezialist im Bereich der technischen Betriebsführung von Windenergieanlagen und Umspannwerken auf dem Festland. Die GWO betreut derzeit ca. 600 MW an Windleistung inklusive mehrerer Umspannwerke. Sie organsiert und überwacht ihren reibungslosen Betrieb und ihre Instandhaltung.  
+          p Ab sofort suchen wir eine*n Werkstudent*in oder Praktikant*in im Bereich der technischen Betriebsführung. Es erwartet Sie ein hochmotiviertes, aufgeschlossenes Team in einem angenehmen und freundlichen Betriebsklima mit anspruchsvollen nationalen sowie internationalen Projekten.
+          br
+          p
+            strong Ihre Aufgaben
+          ul
+            li Dokumentenverwaltung und -auswertung in WIS sowie auf dem Server in Zusammenarbeit mit den Technischen Betriebsführer*innen
+            li Zuarbeit der Projektverantwortlichen in der Technischen Betriebsführung 
+            li Unterstützung der Leitwarte bei administrativen Tätigkeiten
+            li Erstellung von Betriebsanweisungen, Prozessdarstellungen und Arbeitsplänen
+            li Pflege und Kontrolle der Datenbank in WIS und der Serverablage 
+            li Eigenverantwortliche Übernahme von Teilprojekten in Abstimmung mit den Projektverantwortlichen
+            li Allgemeine Rechercheaufgaben und Marktanalysen
+            li Teilnahme an visuellen Inspektionen/Begehungen an Windenergieanlagen (falls möglich) und Auswertung dieser 
+          br
+          p
+            strong Ihr Profil
+          ul
+            li Studierende*r der Fachrichtungen: Elektrotechnik, Regenerative Energien, Wirtschafsingenieurwesen o.ä.
+            li Sehr gute EDV-Grundkenntnisse und speziell im Umgang mit MS-Office
+            li Lösungsorientierte Denkweise und sehr gute kommunikative Fähigkeiten, eigenständige und verantwortungsvolle Arbeitsweise sowie hohes Maß an Zuverlässigkeit
+            li Sie sind kommunikativ, haben ein hohes Qualitätsbewusstsein und arbeiten selbstständig sowie detailgenau 
+            li Ein freundliches und souveränes Auftreten, Belastbarkeit sowie Teamfähigkeit zeichnet Sie aus
+            li Führerschein der Klasse B und eingeschränkte Reisebereitschaft 
+            li Sehr gute Deutschkenntnisse in Wort und Schrift sowie gute Kenntnisse der englischen Sprache.
+          br
+          p
+            strong Unser Angebot
+          ul
+            li Eine anspruchsvolle Aufgabe im wachsenden Bereich der erneuerbaren Energien und die Möglichkeit mitzugestalten. 
+            li ein Motiviertes und freundliches Team bestehend aus erfahrenen und jungen Kolleg*innen
+            li Aussicht auf Festanstellung nach der Assistenztätigkeit
+            li flexible Arbeitszeiten und Homeoffice-Möglichkeit in einem familienfreundlichen Arbeitsumfeld
+            li leistungsgerechte Vergütung mit Prämien und Bonuszahlungen und betrieblicher Altersvorsorge
+            li Umfangreiche soziale Leistungen (z.B. Englischunterricht, Jobticket, Teamevents, Obst und Getränke, Sonntagslunch, Jobrad) 
+            li Betriebssport digital und ergonomisches Arbeiten durch höhenverstellbare Tische und ergonomische Bürostühle 
+            li neue Firmenhandys und Laptops
+            li Kickertisch und Playstation
+            li Attraktiver Arbeitsplatz in zentraler Lage direkt an der Spree
+          
+          br
+          br
+          p 
+            | Fühlen Sie sich angesprochen? Dann freuen wir uns über Ihre aussagekräftige Bewerbung unter Angaben Ihrer Gehaltsvorstellungen und des möglichen Eintrittstermins. Bitte senden Sie Ihre Unterlagen per Mail (eine Anlage mit max. 5 MB) an: &nbsp;
+            a(href="mailto:bewerbung@greenwindgroup.de") bewerbung@greenwindgroup.de
+          
+          p 
+            div Green Wind Offshore GmbH
+            div Alt-Moabit 60a 
+            div 10555 Berlin 
+            div Tel.: 030 – 351 288 630
+            div
+              a(href="mailto:bewerbung@greenwindgroup.de") bewerbung@greenwindgroup.de
+            div 
+              a(href='https://greenwindgroup.de') www.greenwindgroup.de
+          
+          br
+          br
+          br
+          
+          //- --------------------------------------------------------------------
+          //- a(name='Servicetechniker-leitstand')
+          //- br
+          //- br
+          //- hr
+
+          //- h3 Servicetechniker/-ingenieur (w/m/d) für Leitstand Offshore
+          //- br
+          //- p.p3
+          //-   span.s2
+          //-     | Die Green Wind Offshore GmbH ist Spezialist für Instandhaltungsmanagement und Überwachung technischer Anlagen zur Offshore Energieerzeugung. Wir geben volle Unterstützung in der technischen Betriebsführung von Offshore-Windenergieanlagen und im Plattformmanagement für HGÜ und Umspannwerke.
+          //- p.p3
+          //-   span.s2
+          //-     | Ab sofort suchen wir einen versierten Mitarbeiter (w/m/d) zur Überwachung von On- und Offshoreanlagen. Idealerweise haben Sie bereits Erfahrungen mit der Überwachung von On- und Offshore Windenergieanlagen. Es erwartet Sie ein aufgeschlossenes Team, ein angenehmes Betriebsklima und anspruchsvolle nationale sowie internationale Projekte.
+
+          //- b Ihre Aufgaben
+          //- ul.ul1
+          //-   li.li3
+
+          //-     span.s2
+          //-       b Fehlerdiagnose:
+          //-       | &nbsp;Analyse von anstehenden Fehlern, Maßnahmeneinleitung zur Fehlerbeseitigung
+          //-   li.li3
+
+          //-     span.s2
+          //-       b Auftragsmanagement
+          //-       | : Annahme, Erstellung und Verwaltung von Aufträgen, Abstimmung mit dem Auftraggeber, Auftragsdokumentation prüfen, ergänzen und bereitstellen, Mängellisten aufarbeiten
+          //-   li.li3
+
+          //-     span.s2
+          //-       b Methodenbeschreibungen
+          //-       |  zur Instandsetzung von Windenergieanlagen und anderen technischen komplexen Anlagen
+
+          //-   li.li3
+
+          //-     span.s2
+          //-       b Ressourcenplanung
+          //-       | : Mitarbeiterauswahl und -einsatz, Überwachung und Dokumentation der Arbeitszeiten, Pflege der Qualifizierungsunterlagen der Mitarbeiter, adäquate Ersatzteile beschaffen und bereitstellen, nötige Werkzeuge nach Sicherheitsrichtlinien auswählen und zur Verfügung stellen, inkl. der Logistik und den Vorbereitungen der Verzollung, Organisation der fachgerechten Abfallentsorgung
+          //-   li.li3
+
+          //-     span.s2
+          //-       b Leitwarte 24/7
+          //-       | : Mitarbeit im 3-Schichtsystem zur Gewährleistung einer 24/7 Anlagenüberwachung.
+
+          //- br
+          //- b Ihr Profil
+          //- ul.ul1
+          //-   li.li3
+          //-     span.s2 Sie bringen eine erfolgreich abgeschlossene Ausbildung im Bereich der Elektrotechnik, Mechanik oder Mechatronik mit
+          //-   li.li3
+          //-     span.s2
+          //-       | Sie sind kommunikativ, haben ein hohes Qualitätsbewusstsein und arbeiten selbstständig sowie detailgenau
+
+          //-   li.li3
+
+          //-     span.s2 Ein freundliches und souveränes Auftreten, Belastbarkeit sowie Teamfähigkeit zeichnet Sie aus
+          //-   li.li3
+
+          //-     span.s2 Erfahrungen mit Arbeiten am Leitstand sowie mit dem Programmieren der Software „prins“ und Offshoretauglichkeit wären von Vorteil, sind jedoch nicht zwingend erforderlich
+          //-   li.li3
+
+          //-     span.s2
+          //-       | Sie verfügen über sehr gute MS-Office-Kenntnisse, einen Führerschein der Klasse B und Reisebereitschaft
+
+          //-   li.li3
+
+          //-     span.s2 Sehr gute Deutschkenntnisse in Wort und Schrift sowie gute Kenntnisse der englischen Sprache.
+          //- br
+          //- p.p3
+          //-   span.s2
+          //-     b Wir bieten
+          //- p.p9
+          //-   span.s2 Eine anspruchsvolle Aufgabe im wachsenden Bereich der erneuerbaren Energien und die Möglichkeit mitzugestalten. Einen attraktiven Arbeitsplatz direkt an der Spree in einem dynamischen und freundlichen Team mit der optimalen Mischung aus erfahrenen sowie jungen Kolleginnen und Kollegen. Eine leistungsgerechte Bezahlung und weiteren Extras wie: JobRad, Englischunterricht, frisches Bioobst und Getränke.
+          //- p.p9
+          //-   | Fühlen Sie sich angesprochen? Dann freuen wir uns über Ihre aussagekräftige Bewerbung unter Angaben Ihrer Gehaltsvorstellungen und des möglichen Eintrittstermins. Bitte senden Sie Ihre Unterlagen per Mail (eine Anlage mit max. 5 MB) an:&nbsp;
+          //-   a(href="mailto:bewerbung@greenwindgroup.de") bewerbung@greenwindgroup.de
+          
+          
+          
+          //- br
+          //- br
+          //- br
 
 </template>
 

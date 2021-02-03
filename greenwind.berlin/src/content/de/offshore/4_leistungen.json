@@ -1,7 +1,13 @@
 {
-
 	"t0": "Leistungen",
-	"t0n": "Green Wind Offshore ist Spezialist für Instandhaltungsmanagement und Überwachung technischer Anlagen. Erfahren Sie mehr über\n\n• Leitwarte 24/7\n• Planung\n• Management\n• Logistik",
+	"t0n": "Green Wind Offshore ist Spezialist für Instandhaltungsmanagement und Überwachung technischer Anlagen und bietet folgende Leistungen für Offshore-Windparks und Offshore-Umspannwerke/ Konverterplattformen an:",
+	"t0l": [
+		"• Betreibermanagement",
+		"• Technische Betriebsführung",
+		"• Instandhaltungsmanagement",
+		"• greenwind control 24/7 Leitwarte",
+		"• Managementsysteme"
+	],
 
 	"t1": "Leitwarte 24/7",
 	"t2": "Effektiv und koordiniert überwachen.",
@@ -18,8 +24,136 @@
 	],
 
 
+	"section_betreibermanagement": {
+		"h1": "Betreibermanagement",
+		"h2": "Technische Betriebsführung",
+		"sections": [],
+		"columns": [
+      {
+				"title": "Unabhängige Beratung",
+				"text": "Ausgangspunkt all unseres Engagements ist der Leitsatz: Betriebszeit maximieren und Kosten reduzieren!\n Instandhaltungsmanagement und technische Betriebsführung haben einen großen Anteil am wirtschaftlichen Erfolg von Offshore-Windparkprojekten. Basis hierfür bietet eine punktgenaue Beratungstätigkeit, die sich sowohl aus gesicherter und systematischer Datenlage speist als auch auf der Erfahrung und Kompetenz unsereres Teams im technischen und kaufmännischen Bereich beruht. Für alle Aufträge gilt gleichermaßen: Wir begleiten Projekte unabhängig.\n Best practice: Seit 2019 beraten wir einen Investor bzgl. seiner Minderheitsbeteiligung an einem deutschen Offshore-Windpark in der Ostsee.",
 
+				"list_title1": "Technische Beratung",
+        "list1": [
+					"Überprüfung von Instandhaltungsempfehlungen u. -maßnahmen",
+					"Betriebsdatenbereitstellung", 
+					"Konzeptentwicklung u. -prüfung (Instandhaltungskonzepte)",
+					"Risiko-Beurteilungen",	
+					"Due Dilligence",	
+					"Betriebskonzept-Optimierungen",
+					"Evaluierung der Performance des Service-Providers",	
+					"Sicherstellung der Einhaltung der HSE-Vorschriften",
+					"Sicherstellung der Einhaltung der Genehmigungsauflagen",
+					"Überprüfung der monatlichen Service-Reports"
+				],
+				"list_title2": "Kaufmännische Beratung",
+				"list2": [
+					"Reporting mit Kreditgebern",
+					"Aktualisierung des Finanzmodels ",
+					"Vorbereitung und Briefings vor Board-Meetings"
+				]
+      }
+    ]
+	},
+					
+	
+	"section_technische_betriebsfuehrung": {
+		"h1": "Technische Betriebsführung",
+		"columns": [
+			{
+				"title": "Volle Kraft voraus!",
+				"text": "Green Wind verwaltet als technischer Betriebsführer seit mehr als zehn Jahren ein stetig wachsendes Portfolio von mittlerweile über 750 MW an Windkraftleistung.\n Erst, wenn die technische Arbeit vor Ort und die Auswertung von Daten, Gutachten und Inspektionen, das Einholen von Angeboten sowie die detaillierte Untersuchung eines Objektes zusammenkommen und kompetent verbunden werden, erzielt ein Projekt optimale Ergebnisse. Auf der Basis entwickelt unsere technische Betriebsführung ihre volle Kraft."
+			},
+			{
+				"title": "Green Wind Offshore bietet:",
+				"list": [
+					"Technische Leitung",
+					"Risk- und Assetmanagement",
+					"Permanente Überwachung der Betriebszustände",
+					"Claim-Management, Abwicklung von Gewährleistungsansprüchen",
+					"Dokumentenmanagement",
+					"24/7 Betriebsüberwachung",
+					"Online-Betreiberzugang der Betriebsdaten",
+					"Monatliche Berichterstattung inklusive Verfügbarkeitsberechung",
+					"Vertragsmanagement",
+					"Prüfung Service-Reports",
+					"Koordination und Unterlieferanten-Management",
+					"Versicherungsmanagement"
+				]
+			}
+		]
+	},
 
+	"section_instandhaltungsmanagement": {
+		"h1": "Instandhaltungsmanagement",
+		"columns": [
+			{
+				"title": "Für Offshore-Großprojekte",
+				"text": "Unsere ausgeklügelten Konzepte beginnen mit einer akribischen Vorbereitungsphase. In Abstimmung mit Auftraggebern, Werften, Konstrukteuren und Ingenieuren schaffen wir Planungssicherheit. \n\n Zu unseren Stärken gehört eine flexible und vorausschauende Denke, Genauigkeit in der Planung, Übersicht in Kampagnen und Strukturen, 100-prozentige Dokumentation von Materialien und Vorgängen, systematische Unterstützung von Instandhaltungsabläufen durch Software-Einsatz (CMMS).\n\n Das von Green Wind Offshore entwickelte Instandhaltungsmanagement für WEA, Plattformen, Kabel zu Land und zu Wasser, Umspannwerke und Schaltanlagen kann auf Großprojekte in Nord- und Ostsee wie auch an den Künsten Englands und Frankreichs angewendet werden.\n\n Best practice: Instandhaltungsmanagement des Netzanschlusssystems DolWin3 in der ARGE O+M"	
+			},
+			{
+				"title": "Green Wind Offshore bietet:",
+				"list": [
+					"Erstellung von Instandhaltungskonzepten",
+					"Koordinierung von Instandhaltungskampagnen - Ausführungsüberwachung und Reporting",
+					"Planung von Entstörungseinsätzen",
+					"Erstellung von Arbeitsanweisungen",
+					"Permit-to-work Koordination",
+					"Erstellung von Wartungshandbüchern und Checklisten",
+					"Ersatzteilmanagement inkl. Logistik",
+					"Auswertung und Optimierungen von Wartungskampagnen"
+				]
+			}
+		]
+	},
+
+	"section_greenwind_control": {
+    "h1": "greenwind control. Leitwarte 24/7",
+    "columns": [
+			{
+				"title": "independent. intelligent. inspired",
+				"text": "Mit unseren Servicetechnikern und Leitwarten-Ingenieuren überwacht unsere unabhängige Leitwarte greenwind control ein Portfolio von Windparks und Umspannwerken für Betreiber u./o. Service Providern. \n\n greenwind control bildet den zentralen Knotenpunkt unserer 24/7-Überwachung von Anlagen zur Erzeugung und Verteilung elektrischer Energie sowie von deren Betrieb beeinflussenden Faktoren – zum Beispiel Seegang, Wind- und Wetterentwicklungen. Darüber werden sämtliche Ereignisse erfasst, Störungen bearbeitet und Einsätze zur planmäßigen Instandhaltung und Wartung koordiniert. \n\n Unsere 24/7-Besetzung durch Fachpersonal mit Spezialisierung Elektrotechnik und Mechanik garantiert immer kompetente Direktberatung im Bereich der technical support line. \n\n Für greenwind control gelten höchste Sicherheitsstandards. So laufen sämtliche Daten auf Servern in Deutschland. Die regelmäßige Datensicherung erfolgt auf lokal getrennten und abgesicherten Speichern. \n\n Best practice: Instandhaltungsmanagement des Netzanschlusssystems DolWin3. "
+			},
+			{
+				"title": "greenwind control bietet",
+				"list": [
+					"ISO-27001 zertifizierte Leitwarte mit höchsten Sicherheitsanforderungen",
+					"Überwachungen und Schalthandlungen HV / MV / LV durch Schaltberechtigte",
+					"24/7 Monitoring mit qualifizierten Leitwarten-Personal",
+					"Störfall-Management (Firstline-, Secondline-, Technical Support)",
+					"Datenerfassung und -Auswertung",
+					"Datenspeicherung auf redundanten Servern",
+					"Reporting, Digitale L-Aktenpflege",
+					"Vorbereitung und Überwachung von Serviceeinsätzen",
+					"Digitales Ersatzteillager"
+				]
+			}
+		]
+	},
+
+"section_managementsysteme": {
+	"h1": "Managementsysteme",
+	"column1": [
+		{
+			"title": "Kontinuierliche Kontrolle",
+			"text": "Unsere wichtigsten Ziele im Bereich Qualitätsmanagement sind eine strukturierte Organisation sowie eine kooperative und erfolgreiche Zusammenarbeit mit Kunden und Lieferanten. Dazu gehört die Einhaltung der Termine und Kosten. Aber auch die Bereiche Sicherheit, Arbeitsschutz und Umwelt unterliegen der kontinuierlichen Kontrolle.\n\nGreen Wind arbeitet nach den Standards der Managementsysteme 27001-45001. "
+		}
+	],
+	"column2": [
+		{
+			"title2": "Zertifiziert",
+			"list2": [
+				"Qualitätsmanagementsystem (QMS) nach ISO 9001"
+			],
+			"title3": "In Vorbereitung",
+			"list3": [
+				"Arbeitsschutzmanagementsystem nach ISO 45001",
+				"IT-Sicherheitsmanagementsystem nach ISO 27001"
+			]
+		}
+	]	
+},
+	
   "section_sept_2018": {
     "h1": "greenwind control. Leitwarte 24/7",
     "h2": "independent_intelligent_inspired",

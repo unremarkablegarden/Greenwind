@@ -1,7 +1,7 @@
 {
 
 	"t0": "Services",
-	"t0n": "Green Wind Offshore ist a specialist in maintenance management and monitoring  of technical installations. Find out more about:\n\n• Control centre 24/7\n• Planning\n• Management\n• Logistics",
+	"t0n": "Green Wind Offshore is a specialist in the maintenance, management, and monitoring of technical installations, offering the following services for offshore wind farms and offshore substations/converter platforms:\n\n• Operator management\n •Technical management\n • Maintenance management\n • Greenwind control // 24/7 control room\n • Management systems",
 
 
 	"t1": "Control Centre 24/7",
@@ -18,8 +18,134 @@
 		}
 	],
 
+	"section_betreibermanagement": {
+		"h1": "Operator management",
+		"h2": "Green Wind Offshore offers:",
+		"sections": [],
+		"columns": [
+      {
+				"title": "Independent advice",
+				"text": "The starting point of our entire commitment is the guiding principle: maximise uptime and reduce costs!\n Maintenance management and technical operations management play a major role in the economic success of offshore wind farm projects. The basis for this is a precise advisory activity, which is fed both by secure and systematic data and is based on the experience and competence of our team in the technical and commercial field. All orders are equally applicable: We accompany projects independently.\n Best practice: Since 2019, we have been advising an investor on its minority stake in a German offshore wind farm in the Baltic Sea.",
 
+				"list_title1": "Technical advice",
+        "list1": [
+					"Review of maintenance recommendations and measures",
+					"Provision of operational data",
+					"Development and testing of concepts (maintenance concepts)",
+					"Risk assessments",
+					"DUE DILLIGENCE",
+					"Operating concept optimisation",
+					"Evaluation of the service provider's performance",
+					"Ensure compliance with HSE regulations",
+					"Ensuring compliance with permit conditions",
+					"Review of monthly service reports"
+				],
+				"list_title2": "Commercial support:",
+				"list2": [
+					"Reporting with lenders",
+					"Update of the financial model",
+					"Preparation and briefings before board meetings"
+				]
+      }
+    ]
+	},
+					
+	"section_technische_betriebsfuehrung": {
+		"h1": "Technical management",
+		"columns": [
+			{
+				"title": "Full speed ahead!",
+				"text": "As a technical operator, Green Wind has now been managing a steadily growing portfolio of over 750 MW of wind power capacity for over ten years.\n It is only when the technical work on site, together with the evaluation of data, expert opinions, and inspections as well as obtaining quotations and the detailed examination of a property all come together and are competently combined, that a project achieves optimal results. On this basis, our technical management develops its full power."
+			},
+			{
+				"title": "Green Wind Offshore offers:",
+				"list": [
+					"Technical manager",
+					"Risk and Asset Management",
+					"Permanent monitoring of the operating conditions",
+					"Claim management, processing of warranty claims",
+					"Document management",
+					"24/7 operational monitoring",
+					"Online operator access to the operating data",
+					"Monthly reporting including availability calculations",
+					"Contract management",
+					"Checking service reports",
+					"Coordination and sub-supplier management",
+					"Insurance management"
+				]
+			}
+		]
+	},
 
+	"section_instandhaltungsmanagement": {
+		"h1": "Maintenance management",
+		"columns": [
+			{
+				"title": "For large offshore projects",
+				"text": "Our sophisticated concepts start with a meticulous preparation phase. In consultation with clients, shipyards, designers, and engineers, we create planning security. \n\n Our strengths include flexible and forward-looking thinking, accuracy in planning, overview in campaigns and structures, 100% documentation of materials and processes, systematic support of maintenance processes through the use of software (CMMS). \n\n The maintenance management system developed by Green Wind Offshore for WTGs, platforms, cables on land and at sea, substations, and switchgear can be applied to large-scale projects in the North Sea and Baltic Sea as well as on the coasts of England and France.\n\n Best practice: Maintenance management of the DolWin3 grid connection system in ARGE O+M"
+			},
+			{
+				"title": "Green Wind Offshore offers:",
+				"list": [
+					"Creation of maintenance concepts",
+					"Coordination of maintenance campaigns - Execution monitoring and reporting",
+					"Planning of interference suppression operations",
+					"Creating work instructions",
+					"Permit-to-work coordination",
+					"Creation of maintenance manuals and checklists",
+					"Spare parts management including logistics",
+					"Evaluation and optimization of maintenance campaigns"
+				]
+			}
+		]
+	},
+
+	"section_greenwind_control": {
+    "h1": "Green Wind control. Control room 24/7",
+    "columns": [
+			{
+				"title": "Independent. Intelligent. Inspired",
+				"text": "With our service technicians and control room engineers, our independent control room greenwind control monitors a portfolio of wind farms and substations for operators and/or service providers. \n\n Greenwind control forms the central hub of our 24/7 monitoring of plants for the generation and distribution of electrical energy as well as factors influencing their operation - for example, swell, wind, and weather developments. This is used to record all events, process faults, and to coordinate operations for scheduled maintenance and servicing. \n\n Our 24/7 control room, staffed by qualified personnel specialising in electrical engineering and mechanics, always guarantees competent direct advice in the area of the technical support line. \n\n The highest safety standards apply to greenwind control. All data is stored on servers in Germany. Regular data backup takes place on locally separated and secured storage. \n\n Best practice: Maintenance management of the DolWin3 grid connection system"
+			},
+			{
+				"title": "Greenwind control offers",
+				"list": [
+					"ISO-27001 certified control room with the highest safety requirements",
+					"Monitoring and switching operations HV / MV / LV by authorised switching personnel",
+					"24/7 monitoring with qualified control room staff",
+					"Incident management (first-line, second-line, technical support)",
+					"Data acquisition and analysis",
+					"Data storage on redundant servers",
+					"Reporting, digital L-file maintenance",
+					"Preparation and supervision of service missions",
+					"Digital spare parts warehouse"
+				]
+			}
+		]
+	},
+
+	"section_managementsysteme": {
+		"h1": "Management systems",
+		"column1": [
+			{
+				"title": "Continuous control",
+				"text": "Our most important goals in the area of quality management are a structured organisation and a cooperative and successful collaboration with customers and suppliers. This includes meeting deadlines and costs. Nonetheless, the areas of safety, occupational health and safety, and the environment are also subject to continuous monitoring.\n\nGreen Wind operates in accordance with the 27001-45001 management system standards."
+			}
+		],
+		"column2": [
+			{
+				"title2": "Certified:",
+				"list2": [
+					"Quality management system ISO 9001"
+				],
+				"title3": "In progress:",
+				"list3": [
+					"Occupational health and safety management system according to ISO 45001",
+					"IT security management system according to ISO 27001"
+				]
+			}
+		]	
+	},
 
   "section_sept_2018": {
     "h1": "greenwind control. 24/7 Control Center",

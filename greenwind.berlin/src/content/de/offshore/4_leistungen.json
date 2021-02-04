@@ -23,7 +23,6 @@
 		}
 	],
 
-
 	"section_betreibermanagement": {
 		"h1": "Betreibermanagement",
 		"h2": "Technische Betriebsführung",
@@ -131,28 +130,28 @@
 		]
 	},
 
-"section_managementsysteme": {
-	"h1": "Managementsysteme",
-	"column1": [
-		{
-			"title": "Kontinuierliche Kontrolle",
-			"text": "Unsere wichtigsten Ziele im Bereich Qualitätsmanagement sind eine strukturierte Organisation sowie eine kooperative und erfolgreiche Zusammenarbeit mit Kunden und Lieferanten. Dazu gehört die Einhaltung der Termine und Kosten. Aber auch die Bereiche Sicherheit, Arbeitsschutz und Umwelt unterliegen der kontinuierlichen Kontrolle.\n\nGreen Wind arbeitet nach den Standards der Managementsysteme 27001-45001. "
-		}
-	],
-	"column2": [
-		{
-			"title2": "Zertifiziert",
-			"list2": [
-				"Qualitätsmanagementsystem (QMS) nach ISO 9001"
-			],
-			"title3": "In Vorbereitung",
-			"list3": [
-				"Arbeitsschutzmanagementsystem nach ISO 45001",
-				"IT-Sicherheitsmanagementsystem nach ISO 27001"
-			]
-		}
-	]	
-},
+	"section_managementsysteme": {
+		"h1": "Managementsysteme",
+		"column1": [
+			{
+				"title": "Kontinuierliche Kontrolle",
+				"text": "Unsere wichtigsten Ziele im Bereich Qualitätsmanagement sind eine strukturierte Organisation sowie eine kooperative und erfolgreiche Zusammenarbeit mit Kunden und Lieferanten. Dazu gehört die Einhaltung der Termine und Kosten. Aber auch die Bereiche Sicherheit, Arbeitsschutz und Umwelt unterliegen der kontinuierlichen Kontrolle.\n\nGreen Wind arbeitet nach den Standards der Managementsysteme 27001-45001. "
+			}
+		],
+		"column2": [
+			{
+				"title2": "Zertifiziert",
+				"list2": [
+					"Qualitätsmanagementsystem (QMS) nach ISO 9001"
+				],
+				"title3": "In Vorbereitung",
+				"list3": [
+					"Arbeitsschutzmanagementsystem nach ISO 45001",
+					"IT-Sicherheitsmanagementsystem nach ISO 27001"
+				]
+			}
+		]	
+	},
 	
   "section_sept_2018": {
     "h1": "greenwind control. Leitwarte 24/7",

@@ -79,27 +79,48 @@
 
   //- OFF 1
   //- OP 3
-  section.section._killme(v-if="section === 'offshore'")
+  section.section._killme(v-if="section === 'offshore'")#Betreibermanagement
     .container.content
       .columns
         .text.column.is-8.is-offset-2.has-text-centered
-          h2.title {{ c.section_sept_2018.h1 }}
-          //- p {{ c.section_sept_2018.h2 }}
-          img(src='https://res.cloudinary.com/greenwind/image/upload/v1534749193/GW_Leitwarte_24_7_Signet_tozfw3.png', style='width: 110px; transform: rotate(-5deg) translate(0px, 10px); margin-bottom: 30px; margin-top: 20px;')
-          br
-      .columns(v-for='s in c.section_sept_2018.sections')
-        .text.column.is-8.is-offset-2.has-text-centered
-          h2.title
-            .small {{ s.small }}
-            .big {{ s.title }}
-          p {{ s.p }}
-          br
+          h2.title {{ c.section_betreibermanagement.h1 }}
       .columns
-        .column.is-5.custom-offset1(v-for='s in c.section_sept_2018.columns')
+        .column.is-5.custom-offset1(v-for='s in c.section_betreibermanagement.columns')
           strong {{ s.title }}
           hr
+          p {{ s.text}}
+        .column.is-5.custom-offset1(v-for='s in c.section_betreibermanagement.columns')
+          strong {{ s.list_title1 }}
+          hr
           ul
-            li(v-for='li in s.list') {{ li }}
+            li(v-for='li in s.list1') {{ li }}
+          br
+          strong {{ s.list_title2 }}
+          hr
+          ul
+            li(v-for='li in s.list2') {{ li }}
+
+  //- section.section._killme(v-if="section === 'offshore'")
+  //-   .container.content
+  //-     .columns
+  //-       .text.column.is-8.is-offset-2.has-text-centered
+  //-         h2.title {{ c.section_sept_2018.h1 }}
+  //-         //- p {{ c.section_sept_2018.h2 }}
+  //-         img(src='https://res.cloudinary.com/greenwind/image/upload/v1534749193/GW_Leitwarte_24_7_Signet_tozfw3.png', style='width: 110px; transform: rotate(-5deg) translate(0px, 10px); margin-bottom: 30px; margin-top: 20px;')
+  //-         br
+  //-     .columns(v-for='s in c.section_sept_2018.sections')
+  //-       .text.column.is-8.is-offset-2.has-text-centered
+  //-         h2.title
+  //-           .small {{ s.small }}
+  //-           .big {{ s.title }}
+  //-         p {{ s.p }}
+  //-         br
+  //-     .columns
+  //-       .column.is-5.custom-offset1(v-for='s in c.section_sept_2018.columns')
+  //-         strong {{ s.title }}
+  //-         hr
+  //-         ul
+  //-           li(v-for='li in s.list') {{ li }}
 
   //- section.intro_old.section._3(v-if="section === 'offshore'")
     .container.content
@@ -119,6 +140,7 @@
   .shape._4(v-if="section === 'energy'")
 
   //- OFF 2
+  
   //- SHOULD BE REPOWERING NOT
   //- section.section(v-if="section === 'energy'")._10
     .container.content
@@ -186,19 +208,33 @@
 
 
   //- OFF 2
-  section.section._5(v-if="section === 'offshore'")
+  section.section._5(v-if="section === 'offshore'")#TechnischeBetriebsfuhrung
     .container.content
-      .column.is-6.text.is-offset-3.has-text-centered
-        h2 {{ c.t4 }}
-        p {{ c.t5 }}
-        p {{ c.t6 }}
-        br
-        br
       .columns
-        .column.is-5.custom-offset1(v-for="s in c.sections1")
+        .text.column.is-8.is-offset-2.has-text-centered
+          h2.title {{ c.section_technische_betriebsfuehrung.h1 }}
+      .columns
+        .column.is-5.custom-offset1(v-for='s in c.section_technische_betriebsfuehrung.columns')
           strong {{ s.title }}
           hr
-          p {{ s.p }}
+          p {{ s.text }}
+          ul
+            li(v-for='li in s.list') {{ li }}
+
+
+  //- section.section._5(v-if="section === 'offshore'")
+  //-   .container.content
+  //-     .column.is-6.text.is-offset-3.has-text-centered
+  //-       h2 {{ c.t4 }}
+  //-       p {{ c.t5 }}
+  //-       p {{ c.t6 }}
+  //-       br
+  //-       br
+  //-     .columns
+  //-       .column.is-5.custom-offset1(v-for="s in c.sections1")
+  //-         strong {{ s.title }}
+  //-         hr
+  //-         p {{ s.p }}
 
 
   .photo._2(:style="{ 'background-position': parallax.p2 }")
@@ -222,19 +258,31 @@
 
 
   //- OFF 3
-  section.section(v-if="section === 'offshore'")._9
+  section.section._9(v-if="section === 'offshore'")
     .container.content
       .columns
-        .text.column.is-6.is-offset-3.has-text-centered
-          h2.title {{ c.t9 }}
-          p {{ c.t10 }}
-      .columns(v-if="c.sections2").is-multiline
-        .text.column(v-for="s in c.sections2").is-5.custom-offset1
+        .text.column.is-8.is-offset-2.has-text-centered
+          h2.title {{ c.section_instandhaltungsmanagement.h1 }}
+      .columns
+        .column.is-5.custom-offset1(v-for='s in c.section_instandhaltungsmanagement.columns')
           strong {{ s.title }}
           hr
-          p {{ s.p }}
-          ul(v-if="s.list")
-            li(v-for="li in s.list") {{ li }}
+          p {{ s.text }}
+          ul
+            li(v-for='li in s.list') {{ li }}
+  //- section.section(v-if="section === 'offshore'")._9
+  //-   .container.content
+  //-     .columns
+  //-       .text.column.is-6.is-offset-3.has-text-centered
+  //-         h2.title {{ c.t9 }}
+  //-         p {{ c.t10 }}
+  //-     .columns(v-if="c.sections2").is-multiline
+  //-       .text.column(v-for="s in c.sections2").is-5.custom-offset1
+  //-         strong {{ s.title }}
+  //-         hr
+  //-         p {{ s.p }}
+  //-         ul(v-if="s.list")
+  //-           li(v-for="li in s.list") {{ li }}
 
 
   .photo._3(v-if="section === 'offshore'", :style="{ 'background-position': parallax.p3 }")
@@ -270,17 +318,54 @@
           p {{ s.p }}
 
   //- OFF 4
-  section.section(v-if="section === 'offshore'")._fyout
+  section.section._fyout(v-if="section === 'offshore'")
     .container.content
-      .text.columns.is-multiline
-        .column.is-8.is-offset-2.has-text-centered
-          h2 {{ c.t11 }}
-          p {{ c.t12 }}
-      .columns.is-multiline
-        .column.is-5.custom-offset1(v-for="s in c.sections3")
+      .columns
+        .text.column.is-8.is-offset-2.has-text-centered
+          img(src='https://res.cloudinary.com/greenwind/image/upload/v1534749193/GW_Leitwarte_24_7_Signet_tozfw3.png', style='width: 110px; transform: rotate(-5deg) translate(0px, 10px)')
+          h2.title {{ c.section_greenwind_control.h1 }}
+      .columns
+        .column.is-5.custom-offset1(v-for='s in c.section_greenwind_control.columns')
           strong {{ s.title }}
           hr
-          p {{ s.p }}
+          p {{ s.text }}
+          ul
+            li(v-for='li in s.list') {{ li }}
+  
+  section.section_fyout(v-if="section === 'offshore'")
+    .container.content
+      .columns
+        .text.column.is-8.is-offset-2.has-text-centered
+          h2.title {{ c.section_managementsysteme.h1 }}
+      .columns
+        .column.is-5.custom-offset1(v-for='s in c.section_managementsysteme.column1')
+          strong {{ s.title }}
+          hr
+          p {{ s.text }}
+          ul
+            li(v-for='li in s.list') {{ li }}
+        .column.is-5.custom-offset1(v-for='s in c.section_managementsysteme.column2')
+          strong {{ s.title2 }}
+          hr
+          ul
+            li(v-for='li in s.list2') {{ li }}
+          br
+          br
+          strong {{ s.title3 }}
+          hr
+          ul
+            li(v-for='li in s.list3') {{ li }}
+  //- section.section(v-if="section === 'offshore'")._fyout
+  //-   .container.content
+  //-     .text.columns.is-multiline
+  //-       .column.is-8.is-offset-2.has-text-centered
+  //-         h2 {{ c.t11 }}
+  //-         p {{ c.t12 }}
+  //-     .columns.is-multiline
+  //-       .column.is-5.custom-offset1(v-for="s in c.sections3")
+  //-         strong {{ s.title }}
+  //-         hr
+  //-         p {{ s.p }}
 
 
 
@@ -803,4 +888,8 @@
 .title .small
   font-size: 1rem
   margin-bottom: 1em
+
+.section_fyout
+  margin-bottom: 16rem
+
 </style>

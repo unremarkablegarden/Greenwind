@@ -1,7 +1,7 @@
 {
 
-  "t0": "Serviceydelser",
-  "t0n": "Green Wind Offshore er specialist inden for vedligeholdelsesstyring og overvågning af tekniske anlæg, herunder:\n\n• Kontrolcenter 24/7\n• Planlægning\n• Styring\n• Logistik\n",
+  "t0": "Tjenester",
+  "t0n": "Green Wind Offshore er specialist i vedligeholdelsesledelse og overvågning af tekniske anlæg og tilbyder følgende tjenester til offshore vindmølleparker og offshore transformerstationer / konverterplatforme:\n\n• Operationsledelse\n• Teknisk driftsledelse\n• Vedligeholdelsesstyring\n• Greenwind control//24/7 kontrolrum\n• Ledelsessystemer\n",
 
 
 
@@ -19,7 +19,135 @@
     }
   ],
 
+"section_betreibermanagement": {
+		"h1": "Driftsledelse",
+		"h2": "Technische Betriebsführung",
+		"sections": [],
+		"columns": [
+      {
+				"title": "Uafhængig rådgivning",
+				"text": "Udgangspunktet for vores deltagelse er det overordnede princip: Maksimer oppetiden, og reducer omkostningerne!\n Vedligeholdelsesstyring og teknisk driftsledelse spiller en stor rolle for den økonomiske succes med offshore vindmølleprojekter. Grundlaget for dette er en dedikeret rådgivningskapacitet, der er baseret både på sikre og systematiske data og på vores teams erfaring og kompetence på det tekniske og kommercielle område. Følgende gælder ligeledes for alle ordrer: Vi følger projekter uafhængigt.\n Bedste praksis: Siden 2019 har vi rådgivet en investor om dennes minoritetsaktiepost i en tysk offshore vindmøllepark i Østersøen.",
 
+				"list_title1": "Teknisk rådgivning",
+        "list1": [
+					"Gennemgang af vedligeholdelsesanbefalinger og -foranstaltninger",
+	        "Levering af driftsdata",
+	        "Konceptudvikling og afprøvning (vedligeholdelseskoncepter)",
+	        "Risikovurderinger",
+	        "Due diligence",
+	        "Optimering af driftskonceptet",
+	        "Vurdering af serviceudbyderes præstationer",
+	        "Sikring af HSE-bestemmelsernes overholdelse",
+	        "Sikring af godkendelseskravenes overholdelse",
+	        "Gennemgang af månedlige servicerapporter"
+				],
+				"list_title2": "Kommerciel rådgivning",
+				"list2": [
+					"Rapportering til långivere",
+					"Opdatering af den økonomiske model",
+					"Forberedelse og briefinger forud for ledelsesmøder"
+				]
+      }
+    ]
+	},
+					
+	
+	"section_technische_betriebsfuehrung": {
+		"h1": "Teknisk driftsledelse",
+		"columns": [
+			{
+				"title": "Fuld kraft frem!",
+				"text": "Green Wind har i mere end ti år som teknisk driftsleder forvaltet en stadigt voksende portefølje af nu mere end 750 MW vindkraft-ydelse.\n Først når det tekniske arbejde på stedet og evalueringen af data, rapporter og inspektioner, indhentningen af tilbud, såvel som den detaljerede undersøgelse af et projekt samles og forbindes på kompetent vis, opnår et projekt optimale resultater. På en sådan baggrund viser vores tekniske ledelsesteam sin fulde styrke."
+			},
+			{
+				"title": "Green Wind Offshore tilbyder:",
+				"list": [
+					"Teknisk ledelse",
+		      "Risiko- og aktivstyring",
+		      "Permanent overvågning af driftstilstande",
+		      "Reklamationsstyring, afvikling af garantisager",
+		      "Dokumentstyring",
+		      "24/7 Driftsovervågning",
+		      "Online-operatøradgang til driftsdata",
+		      "Månedlig rapportering inklusive oppetidsberegning",
+		      "Kontraktstyring",
+		      "Kontrol af servicerapporter",
+		      "Koordinering og underleverandørstyring",
+		      "Forsikringsstyring"
+				]
+			}
+		]
+	},
+
+	"section_instandhaltungsmanagement": {
+		"h1": "Vedligeholdelsesstyring",
+		"columns": [
+			{
+				"title": "For store offshore-projekter",
+				"text": "Vores avancerede koncepter begynder med en omhyggelig forberedelsesfase. I samarbejde med kunder, værfter, designere og ingeniører skaber vi planlægningssikkerhed. \n\n Vores styrke omfatter fleksibel og fremtidsorienteret tænkning, præcision i planlægningen, overblik over kampagner og strukturer, 100% dokumentation af materialer og processer, systematisk support af vedligeholdelsesprocesser gennem anvendelse af software (CMMS).\n\n Green Wind Offshore's nyudviklede vedligeholdelseskoncept for vindmøller, platforme, land- og søkabler, transformerstationer og koblingsanlæg kan anvendes på større projekter i Nordsøen, Østersøen og ved Englands og Frankrigs kyster.\n\n Bedste praksis: Vedligeholdelsesstyring for nettilslutningssystemet DolWin3 i ARGE O+M."	
+			},
+			{
+				"title": "Green Wind Offshore tilbyder:",
+				"list": [
+					"Udarbejdelse af vedligeholdelseskoncepter",
+          "Koordinering af vedligeholdelseskampagner - Overvågning og rapportering af gennemførelsen",
+          "Planlægning af fejlretningsaktiviteter",
+          "Udarbejdelse af arbejdsinstruktioner",
+		      "Tilladelse-til-arbejde koordinering",
+          "Etablering af vedligeholdelsesmanualer og checklister",
+          "Reservedelsstyring inkl. logistik",
+          "Evaluering og optimering af vedligeholdelseskampagner"
+				]
+			}
+		]
+	},
+
+	"section_greenwind_control": {
+    "h1": "greenwind control. 24/7 kontrolrum",
+    "columns": [
+			{
+				"title": "independent. intelligent. inspired",
+				"text": "Med vores serviceteknikere og ingeniører i kontrolrummet overvåger vores uafhængige kontrolrum greenwind control en portefølje af vindmølleparker og transformerstationer for operatører og/eller serviceudbydere. \n\n Kontrolrummet greenwind control udgør det centrale knudepunkt i 24/7 overvågningen af anlæg til produktion og distribution af elektrisk energi, samt faktorer der har indflydelse på disses drift, som f.eks. søgang og vind- og vejrudvikling.  Alle hændelser registreres, fejl behandles, og planlagt reparations- og vedligeholdelsesarbejde koordineres. \n\n Vores 24/7-medarbejdere med specialisering indenfor elektroteknik og mekanik garanterer altid kompetent og konkret rådgivning på den tekniske supportlinje. \n\n For greenwind control gælder de højeste sikkerhedsstandarder. Således kører alle data på servere i Tyskland. Regelmæssig sikkerhedskopiering af data udføres på lokalt adskilte og sikrede lagringsenheder. \n\n Bedste praksis: Vedligeholdelsesstyring af nettilslutningssystemet DolWin3."
+			},
+			{
+				"title": "greenwind control tilbyder",
+				"list": [
+					"ISO-27001 zertifizierte Leitwarte mit höchsten Sicherheitsanforderungen",
+					"Überwachungen und Schalthandlungen HV / MV / LV durch Schaltberechtigte",
+					"24/7 Monitoring mit qualifizierten Leitwarten-Personal",
+					"Störfall-Management (Firstline-, Secondline-, Technical Support)",
+					"Datenerfassung und -Auswertung",
+					"Datenspeicherung auf redundanten Servern",
+					"Reporting, Digitale L-Aktenpflege",
+					"Vorbereitung und Überwachung von Serviceeinsätzen",
+					"Digitales Ersatzteillager"
+				]
+			}
+		]
+	},
+
+	"section_managementsysteme": {
+		"h1": "Managementsysteme",
+		"column1": [
+			{
+				"title": "Kontinuierliche Kontrolle",
+				"text": "Unsere wichtigsten Ziele im Bereich Qualitätsmanagement sind eine strukturierte Organisation sowie eine kooperative und erfolgreiche Zusammenarbeit mit Kunden und Lieferanten. Dazu gehört die Einhaltung der Termine und Kosten. Aber auch die Bereiche Sicherheit, Arbeitsschutz und Umwelt unterliegen der kontinuierlichen Kontrolle.\n\nGreen Wind arbeitet nach den Standards der Managementsysteme 27001-45001. "
+			}
+		],
+		"column2": [
+			{
+				"title2": "Zertifiziert",
+				"list2": [
+					"Qualitätsmanagementsystem (QMS) nach ISO 9001"
+				],
+				"title3": "In Vorbereitung",
+				"list3": [
+					"Arbeitsschutzmanagementsystem nach ISO 45001",
+					"IT-Sicherheitsmanagementsystem nach ISO 27001"
+				]
+			}
+		]	
+	},
 
   "section_sept_2018": {
     "h1": "greenwind control. Kontrolcenter 24/7",
@@ -66,9 +194,6 @@
       }
     ]
   },
-
-
-
 
   "t3": "",
   "t4": "Planlægning",

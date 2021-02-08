@@ -150,9 +150,9 @@ export default {
       },
       isMobile: isMobile(),
       buttonLink: {
-        de: '/de/offshore/leistungen',
-        en: '/en/offshore/services',
-        dk: '/dk/offshore/serviceydelser'
+        de: '/de/operations/leistungen',
+        en: '/en/operations/services',
+        dk: '/dk/operations/serviceydelser'
       },
       imprintTitle: {
         de: 'Impressum',

@@ -156,10 +156,10 @@ export default {
       },
       isMobile: isMobile(),
       buttonLink: {
-        de: '/de/offshore/leistungen',
-        en: '/en/offshore/services',
+        de: '/de/operations/leistungen',
+        en: '/en/operations/services',
         // dk: '/dk/offshore/serviceydelser'
-        dk: '/offshore/serviceydelser'
+        dk: '/operations/serviceydelser'
       },
       imprintTitle: 'Kolofon',
       imprintLink: '/energy/kolofon'

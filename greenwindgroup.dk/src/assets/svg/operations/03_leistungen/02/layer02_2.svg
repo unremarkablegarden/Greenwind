@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1440px" height="492px" viewBox="0 0 1440 492" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 9</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="54.758989%" y1="37.2769371%" x2="61.3360201%" y2="120.746034%" id="linearGradient-1">
+            <stop stop-color="#828282" offset="0%"></stop>
+            <stop stop-color="#9E9F9E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Operations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LEISTUNGEN-Copy" transform="translate(0.000000, -3692.000000)">
+            <g id="Group-4" transform="translate(-2.000000, 3444.000000)">
+                <g id="Group-9" transform="translate(0.000000, 233.000000)">
+                    <path d="M426.40601,8.18607421 L427.070478,27.2139301 L208.675875,157.873237 L208.675875,157.873237 C187.398772,170.602725 162.151397,174.973891 137.833221,170.138473 L3.06453628,143.341109 L426.40601,8.18607421 Z" id="Rectangle-3-Copy-8" fill="url(#linearGradient-1)" transform="translate(215.067507, 90.122457) scale(-1, 1) rotate(2.000000) translate(-215.067507, -90.122457) "></path>
+                    <path d="M2.21875,31.5078125 L223.942193,153.965721 L223.942193,153.965721 C245.573296,165.912584 270.861774,169.427332 294.930975,163.832177 L423.414063,133.964844 L1197.74803,350.577747 L1197.74803,350.577747 C1238.02755,361.845577 1281.06449,346.855006 1305.62736,313.001365 L1444.74609,121.261719 L1444.74609,506.746094 L2.21875,506.746094 L2.21875,31.5078125 Z" id="Path-5" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

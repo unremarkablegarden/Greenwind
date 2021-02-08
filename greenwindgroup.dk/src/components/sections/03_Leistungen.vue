@@ -830,7 +830,7 @@
     +mobile
       margin-top: 0
   section._fyout
-    margin-bottom: 8em
+    margin-bottom: 4em
     .content
       margin-top: -18vw
       margin-bottom: 10rem

@@ -15,6 +15,29 @@
             //- h2 {{ c.t1 }}
             h2 {{ c.h1 }}
             p {{ c.t1 }}
+            ul(v-if="c.list1")
+              li(v-for="li in c.list1") {{ li }}
+            p {{ c.t2 }}
+            h4 {{ c.h2 }}
+            p {{ c.t3 }}
+            ul(v-if="c.list2")
+              li(v-for="li in c.list2") {{ li }}
+            p {{ c.t4 }}
+            h4 {{ c.h3 }}
+            p {{ c.t5 }}
+            ul(v-if="c.list3")
+              li(v-for="li in c.list3") {{ li }}
+            p {{ c.t6 }}
+            h4 {{ c.h4 }}
+            p {{ c.t7 }}
+            h4 {{ c.h5 }}
+            p {{ c.t8 }}
+            h4 {{ c.h6 }}
+            p {{ c.t9 }}
+            ul(v-if="c.list4")
+              li(v-for="li in c.list4") {{ li }}
+            p {{ c.t10 }}
+            
 </template>
 
 <script>
@@ -78,4 +101,14 @@ section.intro
   margin-bottom: 10em
   +mobile
     padding-bottom: 0
+
+h4
+  margin-top: 4rem
+
+.content ul
+  margin-bottom: 2rem
+  li::before
+    color: #c5c5c5 
+
+
 </style>

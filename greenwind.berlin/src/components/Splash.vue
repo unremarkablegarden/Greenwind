@@ -47,15 +47,17 @@ transition(name='fade', mode='in-out' appear)
               a(v-on:click="setLang('en')", :class="isActive('en')") en
               span.divider /
               a(href='https://greenwindgroup.dk') dk
-            .contact
-              span
-                button(id="show-modal", @click="showModal = true") {{ c.contactTitle }}
-              span
-                router-link(:to='imprintLink[lang]') {{ imprintTitle[lang] }}
-
           .column.is-6.is-hidden-touch
             router-link(:to='buttonLink[lang]')
               img(src='https://res.cloudinary.com/greenwind/image/upload/v1534749193/GW_Leitwarte_24_7_Signet_tozfw3.png', style='width: 110px; transform: rotate(-5deg) translate(12px, 10px)')
+              
+        .contact(style='margin-top: -1rem')
+          span
+            button(id="show-modal", @click="showModal = true") {{ c.contactTitle }}
+          span
+            router-link(:to='imprintLink[lang]') {{ imprintTitle[lang] }}
+          span
+            button(id="show-modal", @click="showNewsletter = true") {{ newsletterTitle[lang] }}
 
 
     //- .modal.is-active(v-if='startPopUp').startP
@@ -98,6 +100,7 @@ transition(name='fade', mode='in-out' appear)
         //- .txt Find us here: 5B27
       button.modal-close.is-large(@click="startPopUp = false")
 
+    
     .modal.is-active(v-if="showModal")
       .modal-background(@click="showModal = false")
       .modal-card
@@ -124,18 +127,141 @@ transition(name='fade', mode='in-out' appear)
             //- | Email Offshore:&nbsp;
             //- a(href="mailto:info@greenwindgroup.de") info@greenwindgroup.de
         footer.modal-card-foot
+    
+    
+
+    .modal.is-active(v-if="showNewsletter").newsletter
+      .modal-background(@click="showNewsletter = false")
+      .modal-card
+        header.modal-card-head
+          div.modal-card-title {{ newsletterTitle[lang] }}
+          button.delete(aria-label='close', @click="showNewsletter = false")
+        section.modal-card-body.energy
+        
+          form(class='layout_form cr_form cr_font' :action='action[lang]' method='post' target='_blank')
+            //- @submit='cr_submit', ref='newsletter')
+            div(class='cr_body cr_page cr_font formbox')
+              div(class='editable_content' style='text-align:left;')
+                .cr_ipe_item
+                  label {{ langTitle[lang] }}
+                  div
+                    .lang
+                      .icon
+                        img(src='../assets/svg/splash/icon_translate_desktop.svg')
+                      a(v-on:click="setLang('de')", :class="isActive('de')") de
+                      span.divider /
+                      a(v-on:click="setLang('en')", :class="isActive('en')") en
+                      span.divider /
+                      a(href='https://greenwindgroup.dk') dk
+                #6138999(rel='email' class='cr_ipe_item ui-sortable musthave' style='margin-bottom:px;')
+                  label.itemname(for='text6138999') E-Mail *
+                  input#text6138999(:name='formIDs[lang][0]' v-model='form.email' type='text' style='width:100%;')
+                #6139000(rel='text' class='cr_ipe_item ui-sortable' style=' margin-bottom:0px;')
+                  label.itemname(for='text6139000') {{ formLabels[lang][0] }}
+                  input#text6139000(:name='formIDs[lang][1]' v-model='form.anrede' type='text' value='' style='width:100%;')
+                #6139002(rel='text' class='cr_ipe_item ui-sortable' style=' margin-bottom:0px;')
+                  label.itemname(for='text6139002', v-model='form.vorname') {{ formLabels[lang][1] }}
+                  input#text6139002(:name='formIDs[lang][2]' type='text' value='' style='width:100%;')
+                #6139004(rel='text' class='cr_ipe_item ui-sortable' style=' margin-bottom:0px;')
+                  label.itemname(for='text6139004') {{ formLabels[lang][2] }}
+                  input#text6139004(:name='formIDs[lang][3]' v-model='form.name' type='text' value='' style='width:100%;')
+                #6139006(rel='text' class='cr_ipe_item ui-sortable' style=' margin-bottom:0px;')
+                  label.itemname(for='text6139006') {{ formLabels[lang][3] }}
+                  input#text6139006(:name='formIDs[lang][4]' v-model='form.firma' type='text' value='' style='width:100%;')
+                #6139007(rel='recaptcha' class='cr_ipe_item ui-sortable musthave')
+                  label &nbsp;
+                  div
+                    vue-recaptcha(sitekey="6Lfhcd0SAAAAAOBEHmAVEHJeRnrH8T7wPvvNzEPD", :loadRecaptchaScript="true", size='normal', theme='light', @verify='verify', ref='captcha')#recaptcha_v2_widget
+                    br
+                #6139008(rel='mce_text' class='cr_ipe_item ui-sortable')
+                  div(class='mce_text')
+                    p
+                      span(style='font-size: small;' mce_style='font-size: small;')
+                        span {{ formNotice[lang] }}
+                        br
+                        .cr_error.clever_form_error(v-if='error') {{ error }}
+                #6139009(rel='button' class='cr_ipe_item ui-sortable submit_container' style='text-align:center; margin-bottom:px;')
+                  button.cr_button.button(type='submit' :class='{ disabled: !verified }' :disabled='!verified') {{ formButton[lang] }}
+        footer.modal-card-foot
+        
 </template>
+
 
 <script>
 import asleep from 'asleep'
 import postData from '@/content/splash.json'
 import isMobile from '@/assets/js/isMobile'
 
+// import axios from 'axios'
+import VueRecaptcha from 'vue-recaptcha'
+
 export default {
   name: 'splash',
+  components: { VueRecaptcha },
   data () {
     return {
+      error: false,
+      form: {
+        email: '',
+        anrede: '',
+        vorname: '',
+        name: '',
+        firma: ''
+      },
+      action: {
+        de: 'https://eu2.cleverreach.com/f/191822-280045/wcs/',
+        en: 'https://eu2.cleverreach.com/f/191822-281081/wcs/',
+        dk: 'https://eu2.cleverreach.com/f/191822-280046/wcs/'
+      },
+      newsletterTitle: {
+        de: 'Newsletter',
+        en: 'Newsletter',
+        dk: 'Nyhedsbrev'
+      },
+      formLabels: {
+        de: [
+          'Anrede',
+          'Vorname',
+          'Name',
+          'Firma'
+        ],
+        en: [
+          'Title',
+          'First name',
+          'Surname',
+          'Company'
+        ],
+        dk: [
+          'Hilsen',
+          'Fornavn',
+          'Efternavn',
+          'Selskab'
+        ],
+      },
+      formIDs: {
+        de: ['email', 1011929, 1011931, 1011932, 1164226],
+        en: ['email', 1011930, 1011931, 1011932, 1164226],
+        dk: ['email', 1011930, 1011931, 1011932, 1164226],
+      },
+      langTitle: {
+        de: 'Sprache',
+        en: 'Language',
+        dk: 'Sprog'
+      },
+      formNotice: {
+        de: 'Sie können sich jeder Zeit kostenlos von den Newslettern abmelden!',
+        en: 'You can unsubscribe from the newsletters free of charge at any time!',
+        dk: 'Du kan til enhver tid afmelde dig nyhedsbreve gratis!'
+      },
+      formButton: {
+        de: 'Anmelden',
+        en: 'Register',
+        dk: 'Tilmeld'
+      },
+      verified: false,
       showModal: false,
+      showNewsletter: false,
+      // showNewsletter: true,
       startPopUp: true,
       lang: null,
       content: postData,
@@ -161,7 +287,7 @@ export default {
       imprintLink: {
         de: '/de/energy/impressum',
         en: '/en/energy/imprint'
-      }
+      },
     }
   },
   computed: {
@@ -218,6 +344,52 @@ export default {
     }
   },
   methods: {
+    verify(e) {
+      if (e && ! e.includes('error')) {
+        this.verified = true
+      }
+    },
+    cr_submit (e) {
+      e.preventDefault()
+      
+      let n = this.$refs.newsletter
+      let check = 'https://eu2.cleverreach.com/f/191822-280045/check_email/' + this.form.email
+      let action = 'https://eu2.cleverreach.com/f/191822-280045/wcs/'
+
+      let self = this
+      // input#text6138999(name='email' v-model='form.email'
+      // input#text6139000(name='1008266' v-model='form.anrede'
+      // input#text6139002(name='1008267' type='text' v-model='form.vorname'
+      // input#text6139004(name='1008268' v-model='form.name'
+      // input#text6139006(name='1008269' v-model='form.firma'      
+      
+      // axios.get(check).then(function (response) {
+      //     self.error = false
+      //     console.log('check response:')
+      //     console.log(response)
+          
+          
+      //     console.log('post action:');
+      //     axios.post(action, {
+      //       email: self.form.email,
+      //       '1008266': self.form.anrede,
+      //       '1008267': self.form.vorname,
+      //       '1008268': self.form.name,
+      //       '1008269': self.form.firma
+      //     })
+      //     .then(function (response) {
+      //       console.log(response)
+      //     })
+      //     .catch(function (error) {
+      //       console.log(error)
+      //     })
+      //   })
+      //   .catch(function (error) {
+      //     self.error = error
+      //   })
+      
+    },
+      
     isActive (lang) {
       if (lang === this.lang) return 'is-active'
     },
@@ -265,6 +437,9 @@ export default {
     }
   },
   mounted () {
+    
+    // this.cr()
+    
     const splashAnimation = () => {
       const stagger = 180
       let deceleration = 1
@@ -631,4 +806,41 @@ export default {
 .column.is-6
   +mobile
     text-align: center
+</style>
+
+
+<style lang='sass'>
+.cr_body
+  .cr_ipe_item
+    display: flex
+    padding: 0 0 1em 0
+  label
+    width: 100px
+    font-weight: bold
+    font-size: 0.9rem
+  input
+    width: 300px !important
+  .cr_button
+    margin: 0 !important
+  .disabled
+    background: linear-gradient(-206deg, #CCC 0%, #888 100%) !important
+  .submit_container
+    text-align: center
+    
+.modal.newsletter
+  font-weight: normal !important
+  .modal-content, .modal-card
+    width: 445px
+    .lang
+      margin: 0
+      .is-active
+        color: #4a4a4a
+.white
+  opacity: 0
+</style>
+
+<style scoped>
+.cr_error{font-size:1.1em;padding:10px;}
+.clever_form_error{background-color:#f99; color:#000; border:1px solid #f22 !important}
+.clever_form_note {margin:26px 0 0 3px;position:absolute;display:inline; padding: 2px 4px; font-weight:bold;background-color:#f2ecb5; color:#000; font-size:12px !important;  }
 </style>

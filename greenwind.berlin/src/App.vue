@@ -32,7 +32,8 @@
           // document.querySelector("link[rel='shortcut icon']").href = favIcoUrl
           document.querySelector("link[rel='icon']").href = favIcoUrl
         } else {
-          const favIcoUrl = '/static/favicon_energy.ico'
+          // const favIcoUrl = '/static/favicon_energy.ico'
+          const favIcoUrl = '/static/favicon_energy_all.ico'
           document.querySelector("link[rel='icon']").href = favIcoUrl
         }
       }

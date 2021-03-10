@@ -26,13 +26,13 @@
     },
     methods: {
       setFavicon () {
-        if (this.$route.path.split('/')[2]) {
-          const section = this.$route.path.split('/')[2]
+        // the array index is different on DK because the path is, e.g. /energy/profil, 
+        // while on DE it's e.g. /de/energy/profil
+        if (this.$route.path.split('/')[1]) {
+          const section = this.$route.path.split('/')[1]
           const favIcoUrl = '/static/favicon_' + section + '.ico'
-          // document.querySelector("link[rel='shortcut icon']").href = favIcoUrl
           document.querySelector("link[rel='icon']").href = favIcoUrl
         } else {
-          // const favIcoUrl = '/static/favicon_energy.ico'
           const favIcoUrl = '/static/favicon_all.ico'
           document.querySelector("link[rel='icon']").href = favIcoUrl
         }
